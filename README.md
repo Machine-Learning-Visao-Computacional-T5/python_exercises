@@ -1,6 +1,6 @@
 # Python Exercises
 
-Material de estudo e exercícios de Python, do zero até arquivos, exceções e JSON. Cada tópico tem um **documento** com a teoria e os exercícios resolvidos, e uma pasta com um **script `.py` por exercício**.
+Material de estudo e exercícios de Python, do zero até APIs, complexidade de algoritmos e noções de engenharia de dados. Cada tópico tem um **documento** com a teoria e os exercícios resolvidos, e uma pasta com um **script `.py` por exercício**.
 
 ## Como começar
 
@@ -15,9 +15,25 @@ git clone https://github.com/Machine-Learning-Visao-Computacional-T5/python_exer
 cd python_exercises
 ```
 
+Alguns tópicos usam bibliotecas externas. Para instalar todas de uma vez:
+
+```bash
+pip install requests numpy scikit-learn
+```
+
+| Biblioteca | Usada em |
+| --- | --- |
+| `requests` | Exercícios com API e Guia de APIs |
+| `numpy` | Ordem de complexidade (exercícios 1 e 2) |
+| `scikit-learn` | Pseudocódigo (exercício 15, apenas exemplo) |
+
 ## Conteúdo
 
-Sugestão de ordem de estudo:
+Sugestão de ordem de estudo. Cada tópico tem a teoria (em `documentos/`) e os scripts (em `exercicios/`).
+
+### 1. Estruturas básicas de Python
+
+Fundamentos da linguagem, em sequência:
 
 | # | Tópico | Teoria | Exercícios |
 | --- | --- | --- | --- |
@@ -28,6 +44,27 @@ Sugestão de ordem de estudo:
 | 5 | Dicionários | [dicionarios.md](documentos/estruturas_basicas/dicionarios/dicionarios.md) | [dicionarios/](exercicios/estruturas_basicas/dicionarios/) |
 | 6 | Entrada de dados e `while` | [while.md](documentos/estruturas_basicas/while/while.md) | [while/](exercicios/estruturas_basicas/while/) |
 | 7 | Arquivos, exceções e JSON | [arquivos_excecoes_json.md](documentos/estruturas_basicas/arquivos_excecoes_json/arquivos_excecoes_json.md) | [arquivos_excecoes_json/](exercicios/estruturas_basicas/arquivos_excecoes_json/) |
+
+### 2. Prática e reforço
+
+| Tópico | O que é | Teoria | Exercícios |
+| --- | --- | --- | --- |
+| Pseudocódigo | 15 exercícios de lógica, em pseudocódigo e depois em Python com explicações | [pseudocodigo.md](documentos/pseudocodigo/pseudocodigo.md) | [pseudocodigo/](exercicios/pseudocodigo/) |
+| Python para dados | Sintaxe, decisões, repetições e coleções aplicadas a exemplos de ML (aquecimento A1 a A7 e 18 exercícios) | [python_para_dados.md](documentos/python_para_dados/python_para_dados.md) | [python_para_dados/](exercicios/python_para_dados/) |
+| Ordem de complexidade | Mesmo problema resolvido de várias formas (laços, `dict`, `set`, NumPy) e comparado em Big O | [ordem_complexidade.md](documentos/ordem_complexidade/ordem_complexidade.md) | [ordem_complexidade/](exercicios/ordem_complexidade/) |
+
+### 3. APIs
+
+| Tópico | O que é | Teoria | Exercícios |
+| --- | --- | --- | --- |
+| Exercícios com API | Baixar dados da [dummyjson.com](https://dummyjson.com) em JSON e explorá-los com dicionários, listas, `for` e `if` | [exercicios_API.md](documentos/exercicios_API/exercicios_API.md) | [exercicios_API/](exercicios/exercicios_API/) |
+| Guia de APIs | Conceitos de APIs REST (verbos, status HTTP, autenticação), perguntas de entrevista e exercícios com `requests` | [guia_de_apis.md](documentos/guia_de_apis/guia_de_apis.md) | [guia_de_apis/](exercicios/guia_de_apis/) |
+
+### 4. Engenharia de dados
+
+Material só de leitura, sem exercícios: fontes de dados, formatos (JSON, CSV, Parquet), modelos de dados, OLTP e OLAP, ETL e ELT, batch e streaming.
+
+- [engenharia_de_dados.md](documentos/engenharia_de_dados/engenharia_de_dados.md)
 
 ## Como usar
 
@@ -46,17 +83,31 @@ No Windows, use `py` no lugar de `python3`.
 ### Atenção
 
 - Vários scripts usam `input()` e esperam que você digite algo no terminal.
-- Os scripts do tópico 7 leem e gravam arquivos no caminho relativo à pasta atual. Execute-os **de dentro** da pasta `exercicios/estruturas_basicas/arquivos_excecoes_json/`; por exemplo, `aprendizado.txt` está nela.
+- Alguns scripts leem e gravam arquivos ou dependem de arquivos criados por outro script. Nesses casos, execute-os **de dentro** da própria pasta, pois usam caminhos relativos:
+  - `exercicios/estruturas_basicas/arquivos_excecoes_json/`: o `aprendizado.txt` já está nela;
+  - `exercicios/exercicios_API/`: comece pelo `exe01`, que cria os arquivos JSON usados pelos demais (precisa de internet);
+  - `exercicios/guia_de_apis/`: também precisa de internet.
 
 ## Estrutura
 
 ```text
 .
-├── documentos/
-│   ├── instalacao/                 # Guia de instalação
-│   └── estruturas_basicas/         # Teoria + exercícios resolvidos (.md)
-└── exercicios/
-    └── estruturas_basicas/         # Um script .py por exercício
+├── documentos/                      # Teoria e exercícios resolvidos (.md)
+│   ├── instalacao/                  # Guia de instalação
+│   ├── estruturas_basicas/          # Variáveis, listas, if/else, dicionários, while, arquivos
+│   ├── pseudocodigo/                # Pseudocódigo e resolução em Python
+│   ├── python_para_dados/           # Python básico com exemplos de dados e ML
+│   ├── ordem_complexidade/          # Vetores, hash e Big O
+│   ├── exercicios_API/              # Exercícios com a API dummyjson
+│   ├── guia_de_apis/                # Guia de APIs + exercícios com requests
+│   └── engenharia_de_dados/         # Fundamentos de engenharia de dados
+└── exercicios/                      # Um script .py por exercício
+    ├── estruturas_basicas/
+    ├── pseudocodigo/
+    ├── python_para_dados/
+    ├── ordem_complexidade/
+    ├── exercicios_API/
+    └── guia_de_apis/
 ```
 
 ## Licença
