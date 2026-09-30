@@ -56,3 +56,13 @@ Sugestão de estudo
 Comece pelo vídeo 1, para entender os conceitos. Depois, acompanhe o vídeo 3, para praticar pela interface do VS Code.
 
 Pause o vídeo e repita cada etapa no seu próprio projeto. A aparência dos botões pode variar conforme a versão das ferramentas.
+
+**Estudo e prática**
+
+- regex101: <https://regex101.com>
+- RegexOne: <https://regexone.com>
+- Kaggle Data Cleaning: <https://www.kaggle.com/learn/data-cleaning>
+- Kaggle Pandas: <https://www.kaggle.com/learn/pandas>
+- Real Python: <https://realpython.com/python-data-cleaning-numpy-pandas/>
+- pandas_exercises: <https://github.com/guipsamora/pandas_exercises>
+- Python for Data Analysis: <https://wesmckinney.com/book/>
