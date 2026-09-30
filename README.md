@@ -66,6 +66,12 @@ Material só de leitura, sem exercícios: fontes de dados, formatos (JSON, CSV, 
 
 - [engenharia_de_dados.md](documentos/engenharia_de_dados/engenharia_de_dados.md)
 
+### 5. Materiais de apoio
+
+Textos de consulta que complementam os tópicos acima, na pasta [materiais_de_apoio/](materiais_de_apoio/):
+
+- [git_github_vscode.md](materiais_de_apoio/git_github_vscode.md): Git, GitHub e VS Code.
+
 ## Como usar
 
 1. Leia o documento do tópico. Ele tem um sumário no início.
@@ -101,6 +107,7 @@ No Windows, use `py` no lugar de `python3`.
 │   ├── exercicios_API/              # Exercícios com a API dummyjson
 │   ├── guia_de_apis/                # Guia de APIs + exercícios com requests
 │   └── engenharia_de_dados/         # Fundamentos de engenharia de dados
+├── materiais_de_apoio/              # Textos de consulta (Git, GitHub e VS Code)
 └── exercicios/                      # Um script .py por exercício
     ├── estruturas_basicas/
     ├── pseudocodigo/

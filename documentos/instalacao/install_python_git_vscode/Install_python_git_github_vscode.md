@@ -205,7 +205,7 @@ git push -u origin feat/meu-primeiro-projeto
 - O `commit` registra a versão no computador, dentro da sua branch; o `push` envia essa branch ao GitHub.
 - O `-u` (usado só no primeiro envio da branch) liga a branch do computador à do GitHub. Nos próximos envios, basta `git push`.
 
-Se o Git pedir nome e e-mail, configure-os e repita o commit:
+Se o Git pedir nome e e-mail, configure-os e repita o commit (se não pedir, passse para frente):
 
 ```bash
 git config --global user.name "Seu Nome"
@@ -216,7 +216,7 @@ Substitua os exemplos pelo nome e e-mail que deseja associar aos commits.
 
 Atualize a página do GitHub. Vai aparecer um aviso amarelo com o botão **Compare & pull request**. Seu arquivo está na sua branch; para juntá-lo à `main`, você abre um **Pull Request**, um pedido para incorporar as mudanças da sua branch. Veja [o que é um Pull Request](#o-que-é-um-pull-request) e siga os passos [C6 a C9 da Parte 3](#c6-abrir-o-pull-request).
 
-> Terminou o Caminho A. **Não** faça o Caminho B com essa mesma pasta.
+> Terminou o Caminho A. **Não** faça o Caminho B com essa mesma pasta, caso você queira fazer o caminho B, use um outro nome de projeto.
 
 ---
 
