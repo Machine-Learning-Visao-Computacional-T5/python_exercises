@@ -374,37 +374,8 @@ Digite um número: 7
 
 > **Dica:** `input` sempre devolve texto. Converta com `int(...)` antes de fazer contas. Para repetir de 1 a 10, use `for i in range(1, 11):`.
 
-### Exercício 3 — Testes com `assert` (Testar)
 
-Um **teste** é um código que confere outro código. Em Python, o jeito mais simples é o `assert`:
-
-```python
-assert 2 + 2 == 4   # verdadeiro: nada acontece
-assert 2 + 2 == 5   # falso: o programa para com AssertionError
-```
-
-Copie estas duas funções para `ex03_testes.py`:
-
-```python
-def eh_par(numero):
-    return numero % 2 == 0
-
-
-def maior(a, b, c):
-    if a >= b and a >= c:
-        return a
-    if b >= c:
-        return b
-    return c
-```
-
-Abaixo delas, escreva **pelo menos 3 `assert` para cada função**. Pense em casos diferentes: número positivo, zero, negativo, o maior em cada posição e números iguais. Na última linha, coloque `print("Todos os testes passaram!")`.
-
-Depois, **teste o seu teste**: troque `% 2 == 0` por `% 2 == 1` e rode de novo. Deve aparecer `AssertionError` apontando a linha do teste que falhou. Desfaça a troca antes do commit.
-
-> Um teste que nunca falha não protege nada. Por isso quebramos o código de propósito: para ver o teste avisar.
-
-### Exercício 4 — Três erros na soma (Debugar)
+### Exercício 3 — Três erros na soma (Debugar)
 
 Este programa deveria somar os números da lista e mostrar `A soma é: 108`. Ele tem **três erros**. Copie exatamente como está:
 
@@ -427,7 +398,7 @@ print("A soma é: " + total)
 
 > Um commit por correção é um bom hábito: se algo der errado, dá para ver exatamente o que mudou em cada passo.
 
-### Exercício 5 — O depurador do VS Code (Debugar)
+### Exercício 4 — O depurador do VS Code (Debugar)
 
 Este programa deveria mostrar `Média da Ana: 8.0`. Ele tem **dois erros**, e um deles não gera mensagem nenhuma:
 
@@ -452,7 +423,7 @@ O primeiro erro aparece ao rodar. Corrija-o. O segundo exige o **depurador**, qu
 4. Pressione `F10` para avançar uma linha. Observe o valor de `soma` a cada volta do `for`.
 5. **Pergunta:** `soma` está acumulando as notas? Descubra o erro, pare o depurador (`Shift+F5`), corrija e rode de novo.
 
-### Exercício 6 — Função `situacao` (Escrever)
+### Exercício 5 — Função `situacao` (Escrever)
 
 Escreva a função `situacao(nota)`. Ela **devolve** (com `return`, sem `print`) o texto `Aprovado`, `Recuperação` ou `Reprovado`, com as mesmas regras do Exercício 1.
 
@@ -498,7 +469,7 @@ with open("dados.csv", encoding="utf-8") as arquivo:
         print(aluno["nome"], aluno["nota"])
 ```
 
-### Exercício 8 — Mudança feita no GitHub (Git)
+### Exercício 7 — Mudança feita no GitHub (Git)
 
 Até agora, as mudanças iam do computador para o GitHub. Agora é o contrário.
 
