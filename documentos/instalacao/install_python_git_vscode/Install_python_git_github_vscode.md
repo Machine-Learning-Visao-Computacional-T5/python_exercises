@@ -216,6 +216,12 @@ Substitua os exemplos pelo nome e e-mail que deseja associar aos commits.
 
 Atualize a página do GitHub. Vai aparecer um aviso amarelo com o botão **Compare & pull request**. Seu arquivo está na sua branch; para juntá-lo à `main`, você abre um **Pull Request**, um pedido para incorporar as mudanças da sua branch. Veja [o que é um Pull Request](#o-que-é-um-pull-request) e siga os passos [C6 a C9 da Parte 3](#c6-abrir-o-pull-request).
 
+Quando você voltar ao seu editor de código (por exemplo o VS code), volte para a main:
+`git checkout main`
+
+Traga os updates do seu projeto do GitHub para a sua máquina
+`git pull`
+
 > Terminou o Caminho A. **Não** faça o Caminho B com essa mesma pasta, caso você queira fazer o caminho B, use um outro nome de projeto.
 
 ---
