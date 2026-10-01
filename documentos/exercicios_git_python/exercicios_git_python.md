@@ -326,6 +326,8 @@ Daqui em diante, faça cada exercício seguindo o **ciclo do início do guia**, 
 
 ## Parte 1 — Exercícios de Python
 
+Crie uma branch por exercício e faça o processo inteiro até o merge do pull request.
+
 São 8 exercícios, do mais simples ao que junta tudo. Faça na ordem: cada um usa algo do anterior. Em todos, siga o ciclo da seção anterior.
 
 | Nº | Tipo | Arquivo | Branch |
