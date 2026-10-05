@@ -1,0 +1,11 @@
+Atividades de pandas com arquivos
+
+
+01_csv_identificar_nan.ipynb usa roupas_nan.csv: identificar ausências e distinguir zero.
+02_excel_tratar_nulos.ipynb usa academia_nulos.xlsx: preenchimento por regra, remoção seletiva e exportação.
+03_csv_regex.ipynb usa pedidos_regex.csv: reconhecer formato de códigos e limpar telefones.
+
+
+Dependências: pandas; openpyxl para ler XLSX. Se necessário, execute %pip install pandas openpyxl numa célula de notebook.
+
+Todos os dados são fictícios. Perguntas vêm primeiro e resolução depois.
