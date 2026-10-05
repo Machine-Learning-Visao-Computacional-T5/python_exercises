@@ -96,7 +96,7 @@ Pratiquem uma etapa por vez: encontrar o repositório, trazer os arquivos para o
 
 **Para quem tem dificuldade com o terminal no VS Code**
 
-Consultem o guia em `documentos/guia_basico_trabalhar_com_vscode` e esta videoaula:
+Consultem o guia em `documentos/guia_basico_trabalhar_com_vscode` link https://github.com/Machine-Learning-Visao-Computacional-T5/python_exercises/blob/main/documentos/guia_basico_trabalhar_com_vscode/guia_basico_vscode.pdf e esta videoaula:
 
 https://www.youtube.com/watch?v=mOtSc3SbavY
 
@@ -105,3 +105,8 @@ Para abrir o terminal integrado, usem **Terminal → Novo Terminal**.
 **Durante a prática**
 
 Executem as células em ordem e consultem os materiais de apoio conforme a dificuldade encontrada. Se travarem, anotem **o que tentaram, qual resultado esperavam e qual mensagem de erro apareceu**. Isso ajuda a identificar o problema e pedir ajuda.
+
+**Para instalar bibliotecas e/ou problemas com pip**
+
+Por favor, sigam os passos desse documento:
+https://github.com/Machine-Learning-Visao-Computacional-T5/python_exercises/blob/main/documentos/pip_install_bibliotecas/pip_install_bibiotecas.md
