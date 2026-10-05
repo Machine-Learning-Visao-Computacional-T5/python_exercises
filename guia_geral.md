@@ -77,6 +77,8 @@ Depois, tentem responder: **quais dados minha função recebe, o que ela faz e o
 Consultem:
 `documentos/como_resolver_exercicios/guia_alunos_fluxograma_python_pandas.pdf` ou no link https://github.com/Machine-Learning-Visao-Computacional-T5/python_exercises/blob/main/documentos/como_resolver_exercicios/guia_alunos_fluxograma_python_pandas.pdf
 
+Outro tipo exercício excelente para esse problema são os de pseudocódigo https://github.com/Machine-Learning-Visao-Computacional-T5/python_exercises/blob/main/exercicios_resolvidos/pseudocodigo/pseudocodigo.md
+
 Antes de escrever código, respondam:
 
 - Quais dados tenho?
