@@ -1,0 +1,1516 @@
+pedido_id,data_venda,produto,categoria,canal_venda,cidade,quantidade,preco_unitario,custo_unitario,desconto_pct,status_pedido,tipo_chocolate,peso_g
+1359,2025-05-12 13:22:50,Barra amarga,Barra,Loja física,Maringá,2,11.66,8.16,15,Concluído,Amargo,90
+550,2024-02-29 18:21:51,Barra ao leite,Barra,Web,Curitiba,3,8,5.8,0,Concluído,Ao leite,90
+654,2024-03-05 21:56:23,Caixa de bombons,Caixa,Web,Curitiba,1,24,15.5,0,Concluído,Misto,250
+1123,2025-04-29 16:01:03,Barra amarga,Barra,Mercado,Curitiba,4,11.66,8.16,10,Concluído,Amargo,90
+674,2024-04-07 16:58:53,Caixa de bombons,Caixa,Mercado,Cascavel,6,24,15.5,25,Concluído,Misto,250
+554,2024-02-29 19:19:50,Ovo premium,Ovo,Web,Londrina,3,95,45,0,Concluído,Amargo,350
+877,2025-03-17 18:21:26,Barra ao leite,Barra,Web,Curitiba,1,8.48,6.15,0,Concluído,Ao leite,90
+400,2024-02-27 20:31:44,Caixa de bombons,Caixa,Web,Cascavel,3,24,15.5,0,Concluído,Misto,250
+111,2024-04-11 20:38:07,Ovo premium,Ovo,Web,Maringá,3,95,45,0,Concluído,Amargo,350
+915,2025-04-04 20:19:56,Ovo infantil,Ovo,Web,Londrina,2,68.9,46.64,0,Concluído,Ao leite,150
+542,2024-03-02 19:42:24,Ovo infantil,Ovo,Mercado,Curitiba,5,65,44,0,Concluído,Ao leite,150
+267,2024-06-08 16:24:35,Barra ao leite,Barra,Loja física,Cascavel,1,8,5.8,15,Cancelado,Ao leite,90
+825,2025-03-31 22:19:44,Ovo premium,Ovo, web ,Londrina,3,100.7,47.7,10,Concluído,Amargo,350
+1448,2025-04-02 10:30:13,Ovo infantil,Ovo,Loja física,Cascavel,3,68.9,46.64,0,Concluído,Ao leite,150
+940,2025-04-20 20:44:38,Barra ao leite,Barra,Web,Curitiba,1,8.48,6.15,5,Concluído,Ao leite,90
+342,2024-04-25 15:21:10,Barra ao leite,Barra,Mercado,Curitiba,7,8,5.8,10,Concluído,Ao leite,90
+160,2024-03-19 09:55:51,Caixa de bombons,Caixa,Mercado,Cascavel,7,24,15.5,0,Concluído,Misto,250
+1478,2025-04-30 14:48:20,Barra ao leite,Barra,Mercado,Maringá,4,8.48,6.15,20,Concluído,Ao leite,90
+964,2025-06-05 18:50:20,Barra amarga,Barra,Mercado,Cascavel,5,11.66,8.16,15,Cancelado,Amargo,90
+96,2024-02-29 20:39:16,Barra ao leite,Barra,Web,Curitiba,1,8,5.8,0,Concluído,Ao leite,90
+645,2024-03-21 15:39:48,Ovo tradicional,Ovo,Loja física,Cascavel,1,55,37,0,Concluído,Ao leite,250
+704,2024-04-01 10:47:00,Ovo tradicional,Ovo,Loja física,Maringá,2,55,37,0,Concluído,Ao leite,250
+1276,2025-03-15 19:22:39,Caixa de bombons,Caixa,Web,Curitiba,3,25.44,16.43,10,Cancelado,Misto,250
+1035,2025-04-27 10:02:23,Barra amarga,Barra,Mercado,Londrina,2,11.66,8.16,10,Concluído,Amargo,90
+1113,2025-03-28 09:24:18,Barra amarga,Barra,Mercado,Cascavel,5,11.66,8.16,0,Concluído,Amargo,90
+1463,2025-04-13 22:00:25,Caixa de bombons,Caixa,Web,Curitiba,3,25.44,16.43,0,Concluído,Misto,250
+553,2024-04-06 17:54:06,Barra amarga,Barra,Loja física,Londrina,1,11,7.7,0,Concluído,Amargo,90
+1368,2025-04-13 15:13:09,Caixa de bombons,Caixa,Mercado,Maringá,5,25.44,16.43,0,Concluído,Misto,250
+612,2024-03-24 14:04:40,Barra amarga,Barra,Mercado,Curitiba,2,11,7.7,0,Concluído,Amargo,90
+255,2024-03-25 19:21:27,Ovo infantil,Ovo,Mercado,Maringá,5,65,44,0,Concluído,Ao leite,150
+289,2024-03-16 20:41:12,Ovo premium,Ovo,Web,Curitiba,2,95,45,5,Concluído,Amargo,350
+94,2024-06-02 11:48:00,Barra amarga,Barra,Loja física,Curitiba,2,11,7.7,0,Concluído,Amargo,90
+224,2024-03-31 16:21:50,Barra ao leite,Barra,Mercado,Cascavel,7,8,5.8,0,Concluído,Ao leite,90
+322,2024-02-09 18:52:45,Ovo infantil,Ovo,Web,Curitiba,3,65,44,0,Concluído,Ao leite,150
+11,2024-03-24 21:08:33,Ovo premium,Ovo,Web,Cascavel,3,95,45,0,Concluído,Amargo,350
+646,2024-01-19 17:07:54,Barra amarga,Barra,Mercado,Cascavel,4,11,7.7,0,Concluído,Amargo,90
+1415,2025-04-23 12:58:36,Barra ao leite,Barra,Mercado,Londrina,7,8.48,6.15,20,Concluído,Ao leite,90
+1293,2025-04-25 18:58:09,Ovo premium,Ovo,Web,Cascavel,3,100.7,47.7,25,Concluído,Amargo,350
+1291,2025-04-14 18:40:44,Ovo premium,Ovo,Web,Londrina,3,100.7,47.7,0,Concluído,Amargo,350
+936,2025-03-28 18:10:35,Caixa de bombons,Caixa,Web,Cascavel,3,25.44,16.43,0,Concluído,Misto,250
+967,2025-04-16 12:46:52,Ovo infantil,Ovo,Mercado,Cascavel,2,68.9,46.64,0,Concluído,Ao leite,150
+598,2024-04-08 15:26:46,Ovo tradicional,Ovo,Mercado,Cascavel,5,55,37,25,Concluído,Ao leite,250
+365,2024-03-29 22:53:38,Barra amarga,Barra,Web,Londrina,2,11,7.7,10,Concluído,Amargo,90
+1013,2025-04-19 12:02:49,Ovo premium,Ovo,Loja física,Maringá,1,100.7,47.7,0,Concluído,Amargo,350
+998,2025-03-06 14:31:39,Barra amarga,Barra,Loja física,Londrina,2,11.66,8.16,10,Concluído,Amargo,90
+235,2024-03-27 09:53:42,Ovo tradicional,Ovo,Loja física,Maringá,1,55,37,0,Concluído,Ao leite,250
+1160,2025-03-18 20:52:20,Barra amarga,Barra,Web,Cascavel,1,11.66,8.16,0,Concluído,Amargo,90
+897,2025-04-23 12:38:58,Ovo premium,Ovo,Loja física,Curitiba,3,100.7,47.7,10,Concluído,Amargo,350
+1152,2025-03-20 16:35:28,Caixa de bombons,Caixa,Loja física,Cascavel,2,25.44,16.43,0,Concluído,Misto,250
+1458,2025-05-25 16:16:44,Barra ao leite,Barra,Loja física,Londrina,3,8.48,6.15,15,Concluído,Ao leite,90
+572,2024-04-12 21:40:41,Ovo premium,Ovo,Web,Curitiba,2,95,45,25,Concluído,Amargo,350
+1068,2025-04-28 22:50:40,Ovo tradicional,Ovo,Web,Londrina,2,58.3,39.22,25,Concluído,Ao leite,250
+652,2024-01-06 14:59:47,Caixa de bombons,Caixa,Mercado,Cascavel,4,24,15.5,0,Concluído,Misto,250
+272,2024-06-06 19:50:01,Ovo tradicional,Ovo,Mercado,Londrina,3,55,37,25,Concluído,Ao leite,250
+944,2025-03-28 18:55:54,Ovo tradicional,Ovo,Loja física,Cascavel,1,58.3,39.22,10,Concluído,Ao leite,250
+1490,2025-03-10 19:16:36,Barra amarga,Barra,Web,Cascavel,2,11.66,8.16,10,Concluído,Amargo,90
+1296,2025-04-16 13:50:46,Ovo tradicional,Ovo,Mercado,Curitiba,7,58.3,39.22,0,Concluído,Ao leite,250
+422,2024-03-16 20:16:20,Ovo tradicional,Ovo,Web,Curitiba,2,55,37,0,Concluído,Ao leite,250
+687,2024-04-16 22:35:58,Ovo infantil,Ovo,Web,Cascavel,2,65,44,15,Concluído,Ao leite,150
+908,2025-03-04 22:16:58,Barra ao leite,Barra,Web,Maringá,1,8.48,6.15,0,Concluído,Ao leite,90
+25,2024-05-04 09:31:53,Caixa de bombons,Caixa,Mercado,Maringá,2,24,15.5,25,Concluído,Misto,250
+407,2024-03-24 12:27:48,Barra ao leite,Barra,Mercado,Curitiba,6,8,5.8,5,Concluído,Ao leite,90
+625,2024-03-31 14:27:15,Caixa de bombons,Caixa,Mercado,Curitiba,4,,15.5,0,Cancelado,Misto,250
+1239,2025-03-24 22:34:52,Ovo tradicional,Ovo,Web,Cascavel,3,58.3,39.22,5,Concluído,Ao leite,250
+1475,2025-04-05 15:22:39,Barra ao leite,Barra,Mercado,Cascavel,4,8.48,6.15,10,Concluído,Ao leite,90
+510,2024-04-01 22:33:16,Caixa de bombons,Caixa,Web,Cascavel,3,24,15.5,25,Concluído,Misto,250
+1428,2025-05-03 10:51:35,Ovo tradicional,Ovo,Loja física,Londrina,2,58.3,39.22,15,Concluído,Ao leite,250
+149,2024-04-10 10:13:58,Barra ao leite,Barra,Mercado,Cascavel,3,8,5.8,0,Concluído,Ao leite,90
+582,2024-02-15 22:56:44,Barra amarga,Barra,Web,Londrina,2,11,7.7,10,Concluído,Amargo,90
+74,2024-05-01 15:02:52,Caixa de bombons,Caixa,Loja física,Londrina,3,24,15.5,0,Concluído,Misto,250
+1026,2025-04-06 22:15:33,Caixa de bombons,Caixa,Web,Londrina,1,25.44,16.43,10,Devolvido,Misto,250
+1002,2025-04-30 09:59:24,Barra amarga,Barra,Loja física,Curitiba,1,11.66,8.16,20,Concluído,Amargo,90
+79,2024-02-04 20:30:43,Barra ao leite,Barra,Web,Maringá,3,8,5.8,10,Concluído,Ao leite,90
+1361,2025-03-24 15:48:12,Barra amarga,Barra,Mercado,Maringá,6,11.66,8.16,0,Concluído,Amargo,90
+421,2024-06-08 21:08:17,Barra ao leite,Barra,Web,Cascavel,1,8,5.8,20,Concluído,Ao leite,90
+428,2024-03-22 09:13:30,Barra ao leite,Barra,Loja física,Cascavel,3,8,5.8,5,Concluído,Ao leite,90
+942,2025-02-01 22:43:55,Barra amarga,Barra,Web,Cascavel,2,11.66,8.16,10,Concluído,Amargo,90
+1103,2025-01-18 18:16:34,Barra ao leite,Barra,Web,Curitiba,2,8.48,6.15,10,Concluído,Ao leite,90
+447,2024-04-03 15:40:38,Ovo infantil,Ovo,Loja física,Curitiba,2,65,44,10,Cancelado,Ao leite,150
+1248,2025-04-07 12:17:20,Barra ao leite,Barra,Mercado,Maringá,6,8.48,6.15,0,Concluído,Ao leite,90
+1264,2025-04-14 16:04:23,Barra ao leite,Barra,Mercado,Londrina,6,8.48,6.15,0,Concluído,Ao leite,90
+862,2025-04-23 09:53:57,Barra amarga,Barra,Mercado,Curitiba,7,11.66,8.16,10,Concluído,Amargo,90
+1030,2025-04-08 18:55:13,Barra ao leite,Barra,Loja física,Cascavel,1,8.48,6.15,0,Concluído,Ao leite,90
+676,2024-03-10 09:43:19,Ovo tradicional,Ovo,Mercado,Maringá,3,55,37,10,Concluído,Ao leite,250
+843,2025-02-11 20:57:08,Barra ao leite,Barra,Web,Curitiba,3,8.48,6.15,0,Concluído,Ao leite,90
+530,2024-03-14 18:09:06,Caixa de bombons,Caixa,Web,Curitiba,3,24,15.5,0,Concluído,Misto,250
+237,2024-06-19 20:38:02,Barra ao leite,Barra,Web,Curitiba,1,8,5.8,10,Concluído,Ao leite,90
+1493,2025-04-22 16:54:12,Ovo premium,Ovo,Loja física,Curitiba,1,100.7,47.7,10,Concluído,Amargo,350
+848,2025-05-10 13:18:09,Barra ao leite,Barra,Loja física,Maringá,2,8.48,6.15,25,Concluído,Ao leite,90
+1229,2025-06-03 15:37:34,Ovo premium,Ovo,Mercado,Cascavel,7,100.7,47.7,20,Concluído,Amargo,350
+679,2024-03-21 21:11:44,Ovo premium,Ovo,Web,Cascavel,1,95,45,0,Concluído,Amargo,350
+382,2024-03-06 10:24:44,Ovo infantil,Ovo,Mercado,Curitiba,6,65,44,0,Concluído,Ao leite,150
+1061,2025-03-13 21:17:08,Caixa de bombons,Caixa,Web,Maringá,3,25.44,16.43,0,Concluído,Misto,250
+640,2024-03-26 18:05:28,Ovo infantil,Ovo,Loja física,Maringá,2,65,44,5,Concluído,Ao leite,150
+398,2024-03-16 18:16:30,Ovo tradicional,Ovo,Loja física,Maringá,3,55,37,5,Concluído,Ao leite,250
+581,2024-02-02 15:23:51,Barra ao leite,Barra,Loja física,Londrina,1,8,5.8,0,Concluído,Ao leite,90
+1007,2025-04-30 10:43:55,Ovo infantil,Ovo,Loja física,Maringá,1,68.9,46.64,0,Concluído,Ao leite,150
+1076,2025-04-13 10:10:27,Ovo infantil,Ovo,Loja física,Londrina,2,68.9,46.64,0,Concluído,Ao leite,150
+1484,2025-04-16 20:40:56,Barra ao leite,Barra,Web,Londrina,3,8.48,6.15,5,Concluído,Ao leite,90
+262,2024-04-16 15:31:24,Ovo premium,Ovo,Loja física,Curitiba,3,95,45,25,Cancelado,Amargo,350
+791,2025-04-16 22:09:08,Ovo infantil,Ovo,Web,Cascavel,1,68.9,46.64,0,Concluído,Ao leite,150
+179,2024-03-20 19:05:46,Ovo premium,Ovo,Web,Cascavel,1,95,45,10,Concluído,Amargo,350
+120,2024-04-12 14:08:10,Ovo premium,Ovo,Loja física,Curitiba,1,95,45,15,Concluído,Amargo,350
+1452,2025-04-17 17:12:06,Barra amarga,Barra, loja física ,Curitiba,2,11.66,8.16,10,Concluído,Amargo,90
+393,2024-04-04 12:21:23,Barra ao leite,Barra,Mercado,Maringá,5,8,5.8,15,Concluído,Ao leite,90
+1197,2025-04-18 15:20:09,Caixa de bombons,Caixa,Mercado,Maringá,7,25.44,16.43,0,Concluído,Misto,250
+252,2024-04-03 13:08:04,Barra ao leite,Barra,Loja física,Cascavel,3,8,5.8,20,Concluído,Ao leite,90
+730,2024-03-19 13:27:35,Caixa de bombons,Caixa,Mercado,Londrina,7,24,15.5,0,Concluído,Misto,250
+193,2024-03-09 21:46:24,Ovo premium,Ovo,Web,Cascavel,3,95,45,0,Devolvido,Amargo,350
+837,2025-01-07 10:28:06,Barra ao leite,Barra,Mercado,Cascavel,6,8.48,6.15,0,Concluído,Ao leite,90
+916,2025-02-03 14:35:28,Barra ao leite,Barra,Mercado,Curitiba,3,8.48,6.15,0,Concluído,Ao leite,90
+593,2024-04-20 16:50:50,Caixa de bombons,Caixa,Mercado,Cascavel,5,24,15.5,25,Devolvido,Misto,250
+155,2024-04-19 14:33:26,Caixa de bombons,Caixa,Mercado,Maringá,5,24,15.5,25,Concluído,Misto,250
+818,2025-03-28 13:05:10,Ovo infantil,Ovo,Mercado,Curitiba,7,68.9,46.64,5,Concluído,Ao leite,150
+183,2024-04-06 20:07:31,Ovo premium,Ovo,Web,Maringá,2,95,45,0,Concluído,Amargo,350
+926,2025-04-22 13:42:48,Barra ao leite,Barra,Mercado,Cascavel,2,8.48,6.15,20,Concluído,Ao leite,90
+524,2024-04-10 14:38:11,Ovo premium,Ovo,Loja física,Londrina,1,95,45,15,Concluído,Amargo,350
+1354,2025-04-03 15:41:11,Caixa de bombons,Caixa,Mercado,Maringá,6,25.44,16.43,0,Concluído,Misto,250
+793,2025-03-22 16:25:51,Caixa de bombons,Caixa,Mercado,Curitiba,3,25.44,16.43,10,Concluído,Misto,250
+869,2025-01-10 19:21:29,Barra ao leite,Barra,Loja física,Maringá,3,8.48,6.15,5,Concluído,Ao leite,90
+70,2024-03-08 18:15:51,Ovo premium,Ovo,Web,Cascavel,1,95,45,0,Concluído,Amargo,350
+1048,2025-03-24 21:30:28,Ovo premium,Ovo,Web,Londrina,2,100.7,47.7,5,Concluído,Amargo,350
+214,2024-03-26 19:02:45,Ovo tradicional,Ovo,Web,Maringá,3,55,37,10,Devolvido,Ao leite,250
+864,2025-04-20 14:45:18,Barra ao leite,Barra,Mercado,Londrina,4,8.48,6.15,10,Concluído,Ao leite,90
+928,2025-01-14 22:11:38,Barra amarga,Barra,Web,Curitiba,3,11.66,8.16,0,Cancelado,Amargo,90
+1204,2025-04-30 12:12:11,Barra ao leite,Barra,Mercado,Maringá,6,8.48,6.15,20,Concluído,Ao leite,90
+721,2024-01-14 20:10:44,Barra ao leite,Barra,Web,Cascavel,1,8,5.8,5,Concluído,Ao leite,90
+323,2024-03-26 18:44:49,Ovo tradicional,Ovo,Mercado,Curitiba,7,55,37,0,Concluído,Ao leite,250
+86,2024-03-13 10:53:27,Caixa de bombons,Caixa,Mercado,Londrina,3,24,15.5,5,Concluído,Misto,250
+884,2025-04-16 12:31:25,Ovo infantil,Ovo,Loja física,Curitiba,3,68.9,46.64,0,Concluído,Ao leite,150
+443,2024-03-19 18:54:00,Barra amarga,Barra,Web,Maringá,3,11,7.7,10,Devolvido,Amargo,90
+1131,2025-04-11 19:30:16,Ovo tradicional,Ovo,Mercado,Curitiba,6,58.3,39.22,5,Concluído,Ao leite,250
+1105,2025-03-25 12:53:23,Caixa de bombons,Caixa,Mercado,Maringá,2,25.44,16.43,10,Concluído,Misto,250
+1251,2025-05-02 22:11:08,Caixa de bombons,Caixa,Web,Londrina,3,25.44,16.43,20,Concluído,Misto,250
+1488,2025-01-01 21:36:21,Caixa de bombons,Caixa,Web,Londrina,3,25.44,16.43,0,Concluído,Misto,250
+585,2024-04-01 16:27:40,Barra ao leite,Barra,Mercado,Maringá,2,8,5.8,10,Concluído,Ao leite,90
+692,2024-03-17 11:58:10,Barra amarga,Barra,Mercado,Cascavel,2,11,7.7,0,Concluído,Amargo,90
+306,2024-03-15 19:21:27,Ovo tradicional,Ovo,Mercado,Maringá,7,55,37,0,Concluído,Ao leite,250
+305,2024-02-18 21:33:16,Caixa de bombons,Caixa,Web,Curitiba,1,24,15.5,10,Concluído,Misto,250
+502,2024-03-29 18:59:17,Barra ao leite,Barra,Mercado,Maringá,4,8,5.8,0,Concluído,Ao leite,90
+1231,2025-04-16 16:32:56,Barra ao leite,Barra,Loja física,Cascavel,3,8.48,6.15,5,Concluído,Ao leite,90
+1028,2025-05-06 10:54:45,Ovo premium,Ovo,Loja física,Londrina,3,100.7,47.7,15,Devolvido,Amargo,350
+123,2024-03-04 22:15:03,Ovo tradicional,Ovo,Web,Cascavel,2,55,37,10,Concluído,Ao leite,250
+561,2024-04-12 16:35:34,Ovo tradicional,Ovo, loja física ,Maringá,1,55,37,0,Concluído,Ao leite,250
+303,2024-03-14 14:25:17,Barra amarga,Barra,Mercado,Cascavel,7,11,7.7,5,Concluído,Amargo,90
+659,2024-03-14 18:32:03,Barra ao leite,Barra,Web,Curitiba,2,8,5.8,0,Concluído,Ao leite,90
+386,2024-03-04 19:08:26,Ovo infantil,Ovo,Web,Maringá,3,65,44,0,Concluído,Ao leite,150
+47,2024-03-04 18:53:03,Ovo infantil,Ovo,Web,Cascavel,1,65,44,5,Concluído,Ao leite,150
+1029,2025-05-14 18:17:12,Caixa de bombons,Caixa,Web,Cascavel,2,25.44,16.43,25,Concluído,Misto,250
+1098,2025-03-04 21:49:09,Barra ao leite,Barra,Web,Cascavel,2,8.48,6.15,0,Concluído,Ao leite,90
+1191,2025-06-04 20:00:24,Ovo tradicional,Ovo,Web,Curitiba,2,58.3,39.22,20,Concluído,Ao leite,250
+528,2024-03-19 13:49:48,Ovo tradicional,Ovo, mercado ,Curitiba,6,55,37,0,Concluído,Ao leite,250
+412,2024-03-19 10:46:58,Ovo infantil,Ovo,Mercado,Londrina,7,65,44,0,Concluído,Ao leite,150
+63,2024-04-03 15:01:17,Caixa de bombons,Caixa,Mercado,Curitiba,6,24,15.5,25,Concluído,Misto,250
+939,2025-05-06 13:55:11,Caixa de bombons,Caixa,Mercado,Cascavel,7,25.44,16.43,25,Concluído,Misto,250
+913,2025-04-28 10:55:29,Ovo premium,Ovo,Loja física,Londrina,3,100.7,47.7,20,Concluído,Amargo,350
+151,2024-03-20 19:18:24,Caixa de bombons,Caixa,Mercado,Cascavel,7,24,15.5,5,Concluído,Misto,250
+1157,2025-02-22 14:52:58,Barra ao leite,Barra,Loja física,Maringá,3,8.48,6.15,0,Concluído,Ao leite,90
+454,2024-03-16 12:45:52,Caixa de bombons,Caixa,Mercado,Maringá,2,24,15.5,10,Concluído,Misto,250
+1083,2025-04-03 12:05:25,Caixa de bombons,Caixa,Mercado,Curitiba,7,25.44,16.43,0,Concluído,Misto,250
+1372,2025-04-12 19:35:00,Caixa de bombons,Caixa,Web,Maringá,1,25.44,16.43,0,Concluído,Misto,250
+1137,2025-03-31 20:28:49,Barra amarga,Barra,Web,Londrina,1,11.66,8.16,10,Concluído,Amargo,90
+879,2025-04-02 11:03:22,Caixa de bombons,Caixa,Mercado,Maringá,3,25.44,16.43,10,Concluído,Misto,250
+330,2024-03-09 19:43:47,Ovo tradicional,Ovo, mercado ,Londrina,7,55,37,0,Concluído,Ao leite,250
+345,2024-04-03 09:20:44,Ovo infantil,Ovo,Loja física,Cascavel,2,65,44,25,Concluído,Ao leite,150
+143,2024-03-23 09:51:29,Ovo premium,Ovo,Loja física,Londrina,3,95,45,0,Concluído,Amargo,350
+1222,2025-05-05 18:35:42,Ovo infantil,Ovo,Loja física,Curitiba,2,68.9,46.64,25,Concluído,Ao leite,150
+1280,2025-03-31 13:55:41,Barra ao leite,Barra,Mercado,Curitiba,4,8.48,6.15,0,Concluído,Ao leite,90
+872,2025-03-26 19:52:23,Caixa de bombons,Caixa,Web,Curitiba,3,25.44,16.43,0,Concluído,Misto,250
+475,2024-04-20 19:53:06,Ovo tradicional,Ovo,Loja física,Maringá,3,55,37,10,Concluído,Ao leite,250
+418,2024-04-29 20:16:57,Ovo tradicional,Ovo,Web,Curitiba,1,55,37,25,Concluído,Ao leite,250
+1185,2025-04-23 14:22:49,Barra amarga,Barra,Loja física,Curitiba,2,11.66,8.16,0,Concluído,Amargo,90
+320,2024-03-06 09:24:01,Barra amarga,Barra,Mercado,Cascavel,7,11,7.7,10,Concluído,Amargo,90
+1470,2025-04-07 18:25:24,Ovo premium,Ovo,Web,Londrina,-1,100.7,47.7,10,Concluído,Amargo,350
+452,2024-05-11 19:33:32,Caixa de bombons,Caixa,Mercado,Cascavel,2,24,15.5,15,Concluído,Misto,250
+33,2024-01-06 11:52:16,Ovo tradicional,Ovo, loja física ,Curitiba,1,55,37,0,Concluído,Ao leite,250
+109,2024-03-19 20:27:30,Caixa de bombons,Caixa,Web,Maringá,1,24,15.5,0,Concluído,Misto,250
+1307,2025-06-08 14:02:01,Barra amarga,Barra,Mercado,Londrina,3,11.66,8.16,10,Concluído,Amargo,90
+465,2024-01-09 09:22:23,Caixa de bombons,Caixa,Mercado,Maringá,2,24,15.5,5,Concluído,Misto,250
+378,2024-01-05 18:41:19,Barra amarga,Barra,Web,Cascavel,1,11,7.7,5,Concluído,Amargo,90
+1116,2025-04-15 20:28:34,Barra amarga,Barra,Web,Cascavel,1,11.66,8.16,10,Cancelado,Amargo,90
+1233,2025-05-23 17:30:39,Caixa de bombons,Caixa,Mercado,Curitiba,7,25.44,16.43,0,Concluído,Misto,250
+1482,2025-04-03 19:35:47,Caixa de bombons,Caixa,Mercado,Maringá,2,25.44,16.43,0,Concluído,Misto,250
+497,2024-01-07 13:36:32,Caixa de bombons,Caixa,Mercado,Maringá,4,24,15.5,0,Concluído,Misto,250
+993,2025-04-11 19:45:21,Barra ao leite,Barra,Web,Maringá,3,8.48,6.15,0,Concluído,Ao leite,90
+917,2025-03-23 17:26:02,Ovo tradicional,Ovo,Loja física,Maringá,2,58.3,39.22,0,Concluído,Ao leite,250
+15,2024-04-10 16:16:45,Ovo premium,Ovo,Loja física,Curitiba,3,95,45,20,Concluído,Amargo,350
+71,2024-03-22 13:37:34,Barra amarga,Barra,Loja física,Cascavel,2,11,7.7,0,Concluído,Amargo,90
+599,2024-06-05 15:34:45,Caixa de bombons,Caixa,Mercado,Curitiba,7,24,15.5,20,Concluído,Misto,250
+1453,2025-05-09 21:08:48,Caixa de bombons,Caixa,Web,Londrina,3,25.44,16.43,20,Concluído,Misto,250
+1435,2025-02-07 10:47:05,Barra amarga,Barra,Loja física,Curitiba,2,11.66,8.16,0,Concluído,Amargo,90
+1085,2025-03-30 13:09:11,Caixa de bombons,Caixa,Mercado,Cascavel,5,25.44,16.43,10,Concluído,Misto,250
+1121,2025-03-15 12:19:25,Barra amarga,Barra,Mercado,Maringá,7,11.66,8.16,5,Concluído,Amargo,90
+371,2024-04-26 16:07:13,Ovo infantil,Ovo,Loja física,Curitiba,2,65,44,25,Concluído,Ao leite,150
+795,2025-06-02 16:55:11,Barra ao leite,Barra,Mercado,Cascavel,2,8.48,6.15,25,Concluído,Ao leite,90
+1321,2025-04-14 09:32:36,Barra ao leite,Barra,Mercado,Cascavel,6,8.48,6.15,5,Concluído,Ao leite,90
+827,2025-04-10 10:38:57,Barra amarga,Barra,Loja física,Londrina,1,11.66,8.16,5,Concluído,Amargo,90
+315,2024-03-23 20:57:54,Caixa de bombons,Caixa,Web,Londrina,1,24,15.5,0,Concluído,Misto,250
+1423,2025-04-03 18:21:38,Ovo tradicional,Ovo,Web,Curitiba,3,58.3,39.22,5,Concluído,Ao leite,250
+1253,2025-05-15 16:31:01,Ovo infantil,Ovo,Mercado,Cascavel,2,68.9,46.64,10,Concluído,Ao leite,150
+1183,2025-04-03 13:38:03,Ovo premium,Ovo,Mercado,Curitiba,5,100.7,47.7,5,Concluído,Amargo,350
+1257,2025-02-20 15:09:14,Barra ao leite,Barra,Loja física,Londrina,3,8.48,6.15,0,Concluído,Ao leite,90
+663,2024-03-13 15:59:50,Barra ao leite,Barra,Mercado,Curitiba,3,8,5.8,0,Concluído,Ao leite,90
+1015,2025-04-25 13:34:11,Barra ao leite,Barra,Loja física,Curitiba,2,8.48,6.15,20,Concluído,Ao leite,90
+1305,2025-04-22 19:30:15,Ovo infantil,Ovo,Mercado,Cascavel,6,68.9,46.64,15,Concluído,Ao leite,150
+1327,2025-04-30 16:25:04,Caixa de bombons,Caixa,Mercado,Cascavel,4,25.44,16.43,25,Concluído,Misto,250
+318,2024-03-05 16:47:04,Ovo tradicional,Ovo,Loja física,Londrina,3,55,37,0,Concluído,Ao leite,250
+128,2024-04-05 14:38:50,Caixa de bombons,Caixa,Loja física,Maringá,3,24,15.5,20,Concluído,Misto,250
+280,2024-03-18 12:57:22,Ovo infantil,Ovo,Loja física,Curitiba,2,65,44,0,Concluído,Ao leite,150
+127,2024-03-07 22:47:40,Barra amarga,Barra,Web,Maringá,3,11,7.7,0,Concluído,Amargo,90
+1315,2025-04-06 18:19:15,Ovo tradicional,Ovo,Web,Maringá,2,58.3,39.22,0,Concluído,Ao leite,250
+792,2025-04-17 18:34:42,Barra amarga,Barra, mercado ,Maringá,4,11.66,8.16,0,Concluído,Amargo,90
+1413,2025-04-15 17:25:50,Caixa de bombons,Caixa,Mercado,Londrina,5,25.44,16.43,10,Concluído,Misto,250
+694,2024-03-19 10:54:29,Caixa de bombons,Caixa,Mercado,Cascavel,5,24,15.5,0,Concluído,Misto,250
+141,2024-06-16 20:31:04,Barra ao leite,Barra,Web,Cascavel,1,8,5.8,25,Cancelado,Ao leite,90
+501,2024-03-14 19:40:21,Caixa de bombons,Caixa,Web,Curitiba,1,24,15.5,5,Concluído,Misto,250
+68,2024-03-13 17:14:35,Ovo premium,Ovo,Mercado,Cascavel,6,95,45,0,Concluído,Amargo,350
+972,2025-04-09 17:41:34,Barra ao leite,Barra,Mercado,Maringá,7,8.48,6.15,10,Concluído,Ao leite,90
+1003,2025-04-03 19:49:56,Caixa de bombons,Caixa,Web,Londrina,3,25.44,16.43,0,Cancelado,Misto,250
+664,2024-04-11 13:54:09,Caixa de bombons,Caixa,Mercado,Londrina,4,24,15.5,0,Concluído,Misto,250
+1196,2025-03-28 18:37:46,Ovo infantil,Ovo,Web,Cascavel,3,68.9,46.64,0,Concluído,Ao leite,150
+579,2024-04-09 19:13:01,Ovo premium,Ovo,Loja física,Curitiba,3,95,45,20,Concluído,Amargo,350
+442,2024-03-21 18:12:31,Ovo premium,Ovo,Loja física,Curitiba,2,95,45,0,Concluído,Amargo,350
+415,2024-03-24 21:51:19,Caixa de bombons,Caixa,Web,Cascavel,2,24,15.5,0,Concluído,Misto,250
+680,2024-03-15 16:44:04,Ovo tradicional,Ovo,Mercado,Londrina,5,55,37,10,Concluído,Ao leite,250
+882,2025-04-23 17:06:17,Caixa de bombons,Caixa,Mercado,Londrina,3,25.44,16.43,20,Concluído,Misto,250
+1178,2025-03-30 18:13:48,Ovo premium,Ovo,Web,Curitiba,2,100.7,47.7,0,Concluído,Amargo,350
+797,2025-01-05 21:51:32,Barra amarga,Barra,Web,Cascavel,3,11.66,8.16,0,Concluído,Amargo,90
+929,2025-03-31 21:59:21,Ovo tradicional,Ovo,Web,Londrina,2,58.3,39.22,5,Concluído,Ao leite,250
+1132,2025-04-02 19:34:34,Ovo tradicional,Ovo,Web,Curitiba,1,58.3,39.22,10,Concluído,Ao leite,250
+1100,2025-03-23 22:25:15,Ovo infantil,Ovo,Web,Cascavel,2,68.9,46.64,10,Concluído,Ao leite,150
+1498,2025-03-07 15:33:35,Barra amarga,Barra,Loja física,Londrina,2,11.66,8.16,0,Concluído,Amargo,90
+253,2024-03-10 21:25:08,Ovo tradicional,Ovo,Web,Londrina,3,55,37,0,Concluído,Ao leite,250
+707,2024-03-23 13:07:30,Ovo tradicional,Ovo,Loja física,Cascavel,3,55,37,5,Concluído,Ao leite,250
+719,2024-03-09 20:38:00,Ovo premium,Ovo,Web,Curitiba,3,95,45,5,Cancelado,Amargo,350
+841,2025-02-28 21:13:53,Barra amarga,Barra,Web,Curitiba,3,11.66,8.16,5,Concluído,Amargo,90
+788,2025-04-11 13:25:43,Barra ao leite,Barra,Mercado,Londrina,2,8.48,6.15,5,Concluído,Ao leite,90
+787,2025-04-07 20:36:29,Ovo premium,Ovo,Web,Londrina,3,100.7,47.7,10,Concluído,Amargo,350
+381,2024-03-18 20:21:16,Barra amarga,Barra,Web,Londrina,1,11,7.7,10,Cancelado,Amargo,90
+319,2024-03-08 09:58:39,Barra amarga,Barra,Mercado,Curitiba,3,11,7.7,10,Concluído,Amargo,90
+551,2024-03-28 18:32:52,Ovo premium,Ovo,Web,Cascavel,1,95,45,0,Concluído,Amargo,350
+1373,2025-04-12 10:32:00,Ovo tradicional,Ovo,Loja física,Cascavel,3,58.3,39.22,0,Concluído,Ao leite,250
+1464,2025-04-20 09:52:25,Ovo tradicional,Ovo,Loja física,Curitiba,1,58.3,39.22,0,Concluído,Ao leite,250
+1375,2025-01-14 21:50:31,Barra ao leite,Barra,Web,Londrina,2,,6.15,5,Concluído,Ao leite,90
+1218,2025-04-26 09:47:52,Barra amarga,Barra,Mercado,Curitiba,2,11.66,8.16,15,Concluído,Amargo,90
+696,2024-04-23 17:11:58,Barra ao leite,Barra,Mercado,Maringá,4,8,5.8,15,Concluído,Ao leite,90
+710,2024-03-29 09:04:00,Ovo premium,Ovo,Loja física,Cascavel,1,95,45,0,Concluído,Amargo,350
+1114,2025-04-13 15:52:54,Barra ao leite,Barra,Mercado,Curitiba,2,8.48,6.15,0,Concluído,Ao leite,90
+243,2024-05-26 16:29:28,Caixa de bombons,Caixa,Mercado,Cascavel,2,24,15.5,25,Concluído,Misto,250
+880,2025-04-22 09:33:51,Ovo infantil,Ovo,Loja física,Londrina,2,68.9,46.64,15,Concluído,Ao leite,150
+207,2024-06-25 10:05:29,Ovo infantil,Ovo,Mercado,Londrina,5,65,44,25,Concluído,Ao leite,150
+281,2024-04-24 13:06:28,Barra amarga,Barra,Loja física,Londrina,3,11,7.7,10,Concluído,Amargo,90
+1421,2025-04-11 11:40:53,Ovo tradicional,Ovo,Mercado,Cascavel,7,58.3,39.22,0,Concluído,Ao leite,250
+414,2024-02-21 21:27:26,Barra amarga,Barra,Web,Londrina,2,11,7.7,0,Cancelado,Amargo,90
+369,2024-06-10 09:06:40,Caixa de bombons,Caixa,Mercado,Londrina,5,24,15.5,10,Concluído,Misto,250
+1334,2025-01-31 17:58:54,Barra amarga,Barra,Mercado,Londrina,7,11.66,8.16,0,Concluído,Amargo,90
+387,2024-03-19 20:14:46,Ovo premium,Ovo,Web,Londrina,3,95,45,0,Concluído,Amargo,350
+958,2025-04-06 10:45:49,Ovo infantil,Ovo,Loja física,Cascavel,3,68.9,46.64,0,Concluído,Ao leite,150
+986,2025-04-10 10:27:00,Caixa de bombons,Caixa,Mercado,Londrina,6,25.44,16.43,0,Concluído,Misto,250
+741,2024-06-28 19:55:00,Caixa de bombons,Caixa,Mercado,Curitiba,4,24,15.5,0,Concluído,Misto,250
+1240,2025-05-03 10:25:20,Ovo infantil,Ovo,Loja física,Maringá,3,68.9,46.64,10,Concluído,Ao leite,150
+343,2024-03-29 19:30:44,Ovo tradicional,Ovo,Loja física,Maringá,1,55,37,0,Cancelado,Ao leite,250
+4,2024-03-08 09:51:01,Ovo premium,Ovo,Loja física,Cascavel,1,95,45,0,Concluído,Amargo,350
+591,2024-05-09 18:17:40,Barra amarga,Barra,Web,Curitiba,3,11,7.7,10,Concluído,Amargo,90
+1086,2025-04-30 12:11:46,Caixa de bombons,Caixa,Loja física,Curitiba,2,25.44,16.43,25,Concluído,Misto,250
+803,2025-04-22 14:29:15,Ovo premium,Ovo,Loja física,Maringá,2,100.7,47.7,0,Concluído,Amargo,350
+635,2024-04-09 15:36:06,Ovo tradicional,Ovo,Loja física,Maringá,3,55,37,25,Concluído,Ao leite,250
+8,2024-06-12 21:36:40,Barra ao leite,Barra,Web,Maringá,1,8,5.8,0,Concluído,Ao leite,90
+1454,2025-04-03 19:49:14,Ovo tradicional,Ovo,Mercado,Cascavel,3,58.3,39.22,10,Concluído,Ao leite,250
+514,2024-03-19 19:41:50,Barra amarga,Barra,Mercado,Londrina,7,11,7.7,0,Concluído,Amargo,90
+1283,2025-06-05 17:22:14,Caixa de bombons,Caixa,Loja física,Maringá,1,25.44,16.43,10,Concluído,Misto,250
+108,2024-03-25 12:03:00,Ovo premium,Ovo,Loja física,Cascavel,3,95,45,5,Concluído,Amargo,350
+1049,2025-04-03 19:49:09,Ovo tradicional,Ovo,Mercado,Londrina,4,58.3,39.22,10,Concluído,Ao leite,250
+628,2024-05-18 17:10:37,Barra amarga,Barra,Loja física,Cascavel,2,11,7.7,20,Concluído,Amargo,90
+1391,2025-01-12 13:03:21,Caixa de bombons,Caixa,Mercado,Londrina,7,25.44,16.43,5,Concluído,Misto,250
+131,2024-02-12 22:07:57,Barra ao leite,Barra,Web,Curitiba,2,8,5.8,0,Concluído,Ao leite,90
+348,2024-03-05 18:50:18,Caixa de bombons,Caixa,Mercado,Curitiba,3,24,15.5,10,Concluído,Misto,250
+309,2024-01-13 21:56:53,Barra ao leite,Barra,Web,Maringá,3,8,5.8,5,Concluído,Ao leite,90
+18,2024-06-22 11:47:26,Ovo tradicional,Ovo,Mercado,Londrina,3,55,37,25,Concluído,Ao leite,250
+22,2024-03-26 13:13:36,Caixa de bombons,Caixa,Mercado,Curitiba,3,24,15.5,0,Concluído,Misto,250
+560,2024-03-22 19:42:58,Ovo tradicional,Ovo,Web,Cascavel,2,55,37,0,Concluído,Ao leite,250
+911,2025-04-15 17:49:36,Ovo premium,Ovo,Loja física,Maringá,2,100.7,47.7,0,Concluído,Amargo,350
+1318,2025-03-30 11:41:46,Barra amarga,Barra,Mercado,Maringá,3,11.66,8.16,0,Concluído,Amargo,90
+727,2024-02-29 15:49:08,Ovo infantil,Ovo,Loja física,Cascavel,2,65,44,0,Concluído,Ao leite,150
+1269,2025-04-04 11:21:36,Caixa de bombons,Caixa,Mercado,Londrina,6,25.44,16.43,0,Concluído,Misto,250
+543,2024-04-04 16:36:25,Ovo premium,Ovo,Loja física,Cascavel,1,95,45,15,Concluído,Amargo,350
+1156,2025-04-05 19:22:05,Barra amarga,Barra,Web,Cascavel,1,11.66,8.16,0,Concluído,Amargo,90
+1072,2025-04-12 20:27:27,Caixa de bombons,Caixa,Web,Londrina,2,25.44,16.43,0,Concluído,Misto,250
+839,2025-04-08 15:41:49,Ovo infantil,Ovo,Loja física,Maringá,3,68.9,46.64,0,Concluído,Ao leite,150
+3,2024-03-10 20:49:57,Ovo infantil,Ovo,Web,Curitiba,1,65,44,0,Concluído,Ao leite,150
+904,2025-05-07 10:24:28,Ovo tradicional,Ovo,Mercado,Londrina,2,58.3,39.22,25,Concluído,Ao leite,250
+558,2024-03-28 14:23:48,Caixa de bombons,Caixa,Loja física,Curitiba,3,24,15.5,0,Concluído,Misto,250
+178,2024-04-18 19:00:15,Ovo tradicional,Ovo,Loja física,Cascavel,1,55,37,20,Concluído,Ao leite,250
+486,2024-04-08 17:48:06,Caixa de bombons,Caixa,Loja física,Maringá,1,24,15.5,0,Concluído,Misto,250
+1347,2025-02-20 16:54:54,Barra ao leite,Barra,Mercado,Londrina,5,8.48,6.15,0,Concluído,Ao leite,90
+384,2024-03-19 17:31:30,Caixa de bombons,Caixa,Mercado,Londrina,5,24,15.5,0,Concluído,Misto,250
+172,2024-04-02 13:17:00,Ovo premium,Ovo,Loja física,Curitiba,3,95,45,15,Concluído,Amargo,350
+1008,2025-04-11 21:40:35,Caixa de bombons,Caixa,Web,Londrina,3,25.44,16.43,10,Concluído,Misto,250
+1063,2025-03-30 21:24:15,Ovo premium,Ovo,Web,Curitiba,2,100.7,47.7,10,Concluído,Amargo,350
+1027,2025-04-22 14:57:36,Caixa de bombons,Caixa,Mercado,Curitiba,4,25.44,16.43,0,Concluído,Misto,250
+988,2025-04-19 19:19:40,Ovo infantil,Ovo,Web,Curitiba,1,68.9,46.64,5,Concluído,Ao leite,150
+800,2025-04-20 14:28:51,Barra ao leite,Barra,Mercado,Cascavel,3,8.48,6.15,0,Concluído,Ao leite,90
+429,2024-04-03 12:53:25,Barra amarga,Barra, loja física ,Maringá,2,11,7.7,20,Concluído,Amargo,90
+1097,2025-05-25 17:01:36,Barra amarga,Barra,Loja física,Londrina,1,11.66,8.16,25,Concluído,Amargo,90
+1079,2025-03-28 13:02:02,Barra ao leite,Barra,Mercado,Cascavel,5,8.48,6.15,0,Concluído,Ao leite,90
+121,2024-06-28 22:09:18,Barra ao leite,Barra,Web,Curitiba,3,8,5.8,0,Concluído,Ao leite,90
+576,2024-03-26 12:03:10,Barra ao leite,Barra,Loja física,Curitiba,1,8,5.8,10,Concluído,Ao leite,90
+416,2024-03-16 12:37:36,Barra ao leite,Barra,Mercado,Curitiba,6,8,5.8,5,Concluído,Ao leite,90
+1082,2025-04-10 18:01:11,Caixa de bombons,Caixa,Loja física,Cascavel,3,25.44,16.43,5,Concluído,Misto,250
+311,2024-05-11 22:30:21,Barra ao leite,Barra,Web,Maringá,2,8,5.8,20,Concluído,Ao leite,90
+1074,2025-04-02 10:02:58,Ovo tradicional,Ovo,Mercado,Curitiba,5,58.3,39.22,0,Concluído,Ao leite,250
+261,2024-01-29 15:27:54,Ovo premium,Ovo,Mercado,Cascavel,4,95,45,10,Concluído,Amargo,350
+1263,2025-04-16 11:16:20,Ovo tradicional,Ovo,Mercado,Londrina,2,58.3,39.22,0,Concluído,Ao leite,250
+1151,2025-02-01 15:20:01,Ovo infantil,Ovo,Mercado,Londrina,4,68.9,46.64,10,Concluído,Ao leite,150
+845,2025-04-12 19:40:47,Barra amarga,Barra,Web,Cascavel,2,11.66,8.16,0,Concluído,Amargo,90
+641,2024-02-01 09:34:37,Barra ao leite,Barra,Mercado,Londrina,4,8,5.8,0,Concluído,Ao leite,90
+648,2024-03-26 19:22:14,Barra ao leite,Barra,Loja física,Londrina,1,8,5.8,10,Concluído,Ao leite,90
+84,2024-01-22 15:40:02,Barra amarga,Barra,Mercado,Maringá,3,11,7.7,0,Concluído,Amargo,90
+485,2024-04-24 14:19:40,Ovo tradicional,Ovo,Loja física,Cascavel,2,55,37,25,Concluído,Ao leite,250
+860,2025-06-01 11:37:27,Caixa de bombons,Caixa,Loja física,Curitiba,3,25.44,16.43,20,Concluído,Misto,250
+1018,2025-04-16 18:47:17,Barra ao leite,Barra,Mercado,Cascavel,7,8.48,6.15,0,Concluído,Ao leite,90
+594,2024-01-13 11:13:27,Barra ao leite,Barra, loja física ,Londrina,3,8,5.8,0,Concluído,Ao leite,90
+456,2024-04-01 12:06:55,Barra ao leite,Barra,Mercado,Curitiba,5,8,5.8,0,Devolvido,Ao leite,90
+10,2024-02-28 17:46:51,Caixa de bombons,Caixa,Mercado,Maringá,7,24,15.5,0,Concluído,Misto,250
+191,2024-03-27 09:33:10,Ovo infantil,Ovo,Mercado,Curitiba,4,65,44,0,Concluído,Ao leite,150
+703,2024-03-02 19:43:55,Caixa de bombons,Caixa,Web,Curitiba,3,24,15.5,0,Concluído,Misto,250
+187,2024-03-22 22:37:45,Ovo premium,Ovo,Web,Cascavel,1,95,45,0,Concluído,Amargo,350
+1089,2025-03-31 21:49:58,Barra ao leite,Barra, web ,Cascavel,3,8.48,6.15,0,Concluído,Ao leite,90
+549,2024-04-15 17:48:54,Ovo tradicional,Ovo,Loja física,Londrina,1,55,37,10,Concluído,Ao leite,250
+520,2024-05-25 18:12:07,Caixa de bombons,Caixa,Loja física,Maringá,1,24,15.5,15,Concluído,Misto,250
+2,2024-04-01 11:41:26,Barra ao leite,Barra,Loja física,Curitiba,1,8,5.8,15,Concluído,Ao leite,90
+857,2025-04-02 10:06:43,Caixa de bombons,Caixa,Mercado,Maringá,3,25.44,16.43,0,Concluído,Misto,250
+673,2024-03-17 21:54:00,Ovo premium,Ovo,Web,Cascavel,2,95,45,5,Concluído,Amargo,350
+148,2024-01-11 17:34:39,Barra ao leite,Barra,Loja física,Curitiba,1,8,5.8,0,Concluído,Ao leite,90
+307,2024-04-14 17:53:07,Ovo tradicional,Ovo,Loja física,Londrina,3,55,37,0,Concluído,Ao leite,250
+875,2025-03-23 20:45:33,Ovo tradicional,Ovo,Web,Londrina,3,,39.22,0,Concluído,Ao leite,250
+1006,2025-04-05 21:29:15,Ovo premium,Ovo,Web,Cascavel,2,100.7,47.7,0,Cancelado,Amargo,350
+1284,2025-05-25 19:36:11,Barra amarga,Barra,Web,Londrina,3,11.66,8.16,0,Cancelado,Amargo,90
+445,2024-03-18 11:55:28,Ovo tradicional,Ovo,Mercado,Londrina,2,55,37,5,Concluído,Ao leite,250
+1198,2025-03-15 17:31:15,Barra amarga,Barra,Loja física,Maringá,1,11.66,8.16,0,Concluído,Amargo,90
+1386,2025-03-13 21:16:30,Caixa de bombons,Caixa, web ,Londrina,1,25.44,16.43,0,Concluído,Misto,250
+1088,2025-04-01 18:31:18,Ovo premium,Ovo,Web,Cascavel,3,100.7,47.7,0,Concluído,Amargo,350
+833,2025-04-27 13:17:55,Barra ao leite,Barra,Mercado,Cascavel,5,8.48,6.15,0,Concluído,Ao leite,90
+849,2025-04-22 15:20:14,Ovo infantil,Ovo,Mercado,Curitiba,2,68.9,46.64,25,Concluído,Ao leite,150
+1117,2025-03-15 12:55:49,Ovo tradicional,Ovo,Mercado,Londrina,5,58.3,39.22,0,Concluído,Ao leite,250
+691,2024-04-11 19:39:37,Barra amarga,Barra,Mercado,Curitiba,5,11,7.7,10,Concluído,Amargo,90
+157,2024-01-14 16:41:18,Caixa de bombons,Caixa,Mercado,Cascavel,2,24,15.5,0,Concluído,Misto,250
+523,2024-01-31 14:59:58,Barra ao leite,Barra,Mercado,Maringá,5,8,5.8,10,Concluído,Ao leite,90
+660,2024-03-03 19:38:03,Ovo tradicional,Ovo, web ,Cascavel,3,55,37,0,Concluído,Ao leite,250
+1442,2025-04-02 21:31:00,Ovo infantil,Ovo,Web,Curitiba,1,68.9,46.64,0,Concluído,Ao leite,150
+1468,2025-03-16 21:36:07,Barra ao leite,Barra,Web,Maringá,3,8.48,6.15,10,Concluído,Ao leite,90
+871,2025-03-13 20:35:09,Caixa de bombons,Caixa,Web,Londrina,2,25.44,16.43,5,Cancelado,Misto,250
+601,2024-04-06 13:09:46,Caixa de bombons,Caixa,Mercado,Curitiba,6,24,15.5,25,Concluído,Misto,250
+370,data_invalida,Caixa de bombons,Caixa,Loja física,Maringá,3,24,15.5,20,Concluído,Misto,250
+650,2024-03-15 13:51:02,Ovo tradicional,Ovo,Mercado,Londrina,7,55,37,5,Cancelado,Ao leite,250
+1000,2025-04-24 22:21:22,Barra ao leite,Barra,Web,Curitiba,1,,6.15,15,Cancelado,Ao leite,90
+1154,2025-02-15 18:02:51,Barra amarga,Barra,Mercado,Maringá,4,11.66,8.16,0,Concluído,Amargo,90
+661,2024-05-23 12:52:19,Barra amarga,Barra,Mercado,Curitiba,4,11,7.7,20,Concluído,Amargo,90
+82,2024-02-24 13:44:36,Barra ao leite,Barra,Mercado,Londrina,6,8,5.8,0,Concluído,Ao leite,90
+51,2024-03-28 11:37:54,Ovo infantil,Ovo,Loja física,Curitiba,1,65,44,0,Concluído,Ao leite,150
+637,2024-04-11 12:40:40,Ovo infantil,Ovo,Mercado,Cascavel,4,65,44,0,Devolvido,Ao leite,150
+859,2025-04-17 18:33:59,Barra ao leite,Barra,Loja física,Maringá,1,8.48,6.15,5,Concluído,Ao leite,90
+590,2024-03-05 12:42:25,Barra ao leite,Barra,Mercado,Maringá,5,8,5.8,0,Concluído,Ao leite,90
+1349,2025-05-01 19:34:18,Ovo premium,Ovo,Web,Curitiba,1,100.7,47.7,10,Concluído,Amargo,350
+820,2025-04-22 19:44:00,Ovo premium,Ovo,Loja física,Maringá,1,100.7,47.7,20,Concluído,Amargo,350
+3,2024-03-10 20:49:57,Ovo infantil,Ovo,Web,Curitiba,1,65,44,0,Concluído,Ao leite,150
+325,2024-04-04 15:57:40,Barra ao leite,Barra,Mercado,Curitiba,6,8,5.8,20,Concluído,Ao leite,90
+1078,2025-04-24 16:18:34,Ovo premium,Ovo,Loja física,Curitiba,1,100.7,47.7,20,Concluído,Amargo,350
+314,2024-06-14 14:09:22,Caixa de bombons,Caixa,Mercado,Curitiba,4,24,15.5,15,Concluído,Misto,250
+1133,2025-03-07 19:48:19,Barra ao leite,Barra,Web,Curitiba,1,8.48,6.15,0,Concluído,Ao leite,90
+265,2024-03-14 15:41:09,Barra ao leite,Barra,Mercado,Maringá,5,8,5.8,5,Concluído,Ao leite,90
+1194,2025-06-28 14:54:20,Barra ao leite,Barra,Loja física,Londrina,2,8.48,6.15,15,Concluído,Ao leite,90
+76,2024-03-01 15:35:42,Ovo premium,Ovo,Loja física,Londrina,2,95,45,5,Concluído,Amargo,350
+251,2024-04-19 19:17:00,Barra amarga,Barra,Web,Curitiba,1,11,7.7,0,Concluído,Amargo,90
+1268,2025-04-19 11:43:57,Ovo premium,Ovo,Loja física,Maringá,3,100.7,47.7,0,Concluído,Amargo,350
+909,2025-04-22 18:24:36,Caixa de bombons,Caixa,Mercado,Londrina,7,25.44,16.43,15,Concluído,Misto,250
+1370,2025-05-17 21:15:57,Ovo infantil,Ovo,Web,Londrina,1,68.9,46.64,20,Cancelado,Ao leite,150
+125,2024-03-06 18:43:02,Barra ao leite,Barra,Web,Maringá,3,,5.8,0,Concluído,Ao leite,90
+1226,2025-03-23 20:40:13,Ovo tradicional,Ovo,Web,Curitiba,3,58.3,39.22,10,Concluído,Ao leite,250
+826,2025-04-02 21:23:22,Barra ao leite,Barra,Web,Cascavel,2,8.48,6.15,0,Concluído,Ao leite,90
+413,2024-02-01 20:44:26,Caixa de bombons,Caixa,Web,Curitiba,3,24,15.5,5,Concluído,Misto,250
+142,2024-02-22 21:53:04,Barra amarga,Barra,Web,Cascavel,1,11,7.7,0,Concluído,Amargo,90
+1486,2025-04-04 10:47:51,Ovo tradicional,Ovo,Mercado,Cascavel,3,58.3,39.22,0,Concluído,Ao leite,250
+1496,2025-04-04 20:34:00,Ovo tradicional,Ovo,Web,Cascavel,3,58.3,39.22,5,Concluído,Ao leite,250
+1309,2025-05-21 14:27:55,Ovo infantil,Ovo,Mercado,Cascavel,5,68.9,46.64,20,Concluído,Ao leite,150
+2,2024-04-01 11:41:26,Barra ao leite,Barra,Loja física,Curitiba,1,8,5.8,15,Concluído,Ao leite,90
+737,2024-03-19 21:49:06,Ovo premium,Ovo,Web,Cascavel,2,95,45,0,Cancelado,Amargo,350
+1446,2025-04-09 18:42:15,Barra ao leite,Barra,Mercado,Cascavel,4,8.48,6.15,0,Concluído,Ao leite,90
+990,2025-06-28 12:14:51,Barra amarga,Barra, mercado ,Cascavel,5,11.66,8.16,25,Concluído,Amargo,90
+1380,2025-04-05 10:55:12,Barra amarga,Barra,Loja física,Londrina,1,11.66,8.16,5,Cancelado,Amargo,90
+372,2024-03-11 20:01:36,Caixa de bombons,Caixa,Web,Londrina,2,24,15.5,0,Concluído,Misto,250
+173,2024-03-18 22:02:50,Ovo tradicional,Ovo,Web,Londrina,2,55,37,0,Concluído,Ao leite,250
+161,2024-05-26 18:00:20,Barra ao leite,Barra,Web,Londrina,1,8,5.8,0,Concluído,Ao leite,90
+37,2024-05-21 13:04:32,Barra ao leite,Barra,Loja física,Maringá,2,8,5.8,15,Concluído,Ao leite,90
+969,2025-02-19 19:07:47,Barra amarga,Barra,Web,Maringá,1,11.66,8.16,0,Concluído,Amargo,90
+617,2024-04-09 15:59:41,Caixa de bombons,Caixa,Loja física,Curitiba,3,24,15.5,0,Concluído,Misto,250
+164,2024-03-30 09:31:34,Barra ao leite,Barra,Mercado,Curitiba,5,8,5.8,0,Concluído,Ao leite,90
+557,2024-04-10 09:55:50,Caixa de bombons,Caixa,Mercado,Londrina,2,24,15.5,10,Concluído,Misto,250
+773,2025-04-24 22:37:10,Barra ao leite,Barra,Web,Londrina,3,8.48,6.15,15,Concluído,Ao leite,90
+1444,2025-04-16 20:37:19,Ovo premium,Ovo,Web,Curitiba,3,100.7,47.7,10,Concluído,Amargo,350
+1210,2025-04-12 19:48:19,Caixa de bombons,Caixa,Mercado,Curitiba,6,25.44,16.43,5,Concluído,Misto,250
+331,2024-03-09 21:25:26,Ovo tradicional,Ovo,Web,Maringá,3,55,37,0,Concluído,Ao leite,250
+1365,2025-05-06 18:06:12,Barra amarga,Barra,Mercado,Maringá,2,11.66,8.16,15,Concluído,Amargo,90
+58,2024-03-14 15:53:01,Caixa de bombons,Caixa,Loja física,Curitiba,1,24,15.5,0,Concluído,Misto,250
+473,2024-03-10 19:20:55,Ovo tradicional,Ovo,Web,Curitiba,2,55,37,0,Concluído,Ao leite,250
+285,2024-02-07 15:30:40,Barra amarga,Barra,Mercado,Cascavel,2,11,7.7,5,Concluído,Amargo,90
+247,2024-03-28 09:59:00,Barra ao leite,Barra,Mercado,Cascavel,4,8,5.8,0,Concluído,Ao leite,90
+208,2024-03-23 13:54:20,Barra amarga,Barra,Mercado,Maringá,4,11,7.7,5,Concluído,Amargo,90
+1170,2025-02-15 11:58:06,Barra ao leite,Barra,Mercado,Curitiba,5,8.48,6.15,0,Concluído,Ao leite,90
+216,2024-05-03 17:13:13,Barra amarga,Barra,Mercado,Cascavel,7,11,7.7,15,Concluído,Amargo,90
+1495,2025-04-22 09:52:11,Barra ao leite,Barra,Mercado,Maringá,6,8.48,6.15,25,Concluído,Ao leite,90
+324,2024-01-01 21:56:45,Caixa de bombons,Caixa,Web,Maringá,2,24,15.5,0,Concluído,Misto,250
+610,2024-03-25 19:00:37,Barra amarga,Barra,Mercado,Curitiba,3,11,7.7,0,Concluído,Amargo,90
+1489,2025-03-30 18:42:27,Barra ao leite,Barra,Web,Curitiba,2,8.48,6.15,0,Concluído,Ao leite,90
+930,2025-03-07 14:32:45,Barra ao leite,Barra,Mercado,Maringá,2,8.48,6.15,0,Concluído,Ao leite,90
+611,2024-04-13 18:17:31,Barra amarga,Barra,Mercado,Londrina,6,11,7.7,20,Concluído,Amargo,90
+977,2025-04-25 17:21:40,Ovo infantil,Ovo,Loja física,Cascavel,3,68.9,46.64,25,Concluído,Ao leite,150
+1221,2025-04-03 11:02:55,Ovo premium,Ovo, loja física ,Cascavel,1,100.7,47.7,10,Concluído,Amargo,350
+112,2024-03-22 09:49:59,Ovo infantil,Ovo,Loja física,Maringá,3,65,44,0,Concluído,Ao leite,150
+1165,2025-04-24 14:27:55,Caixa de bombons,Caixa,Mercado,Maringá,4,25.44,16.43,15,Concluído,Misto,250
+1377,2025-04-22 13:38:48,Barra amarga,Barra,Loja física,Cascavel,3,11.66,8.16,10,Concluído,Amargo,90
+893,2025-05-03 10:01:24,Ovo tradicional,Ovo,Mercado,Cascavel,6,58.3,39.22,20,Cancelado,Ao leite,250
+504,2024-06-14 21:38:29,Barra amarga,Barra,Web,Londrina,2,11,7.7,20,Concluído,Amargo,90
+918,2025-04-02 14:23:43,Barra ao leite,Barra,Mercado,Curitiba,6,8.48,6.15,0,Concluído,Ao leite,90
+656,2024-03-08 17:18:08,Barra ao leite,Barra,Mercado,Maringá,5,8,5.8,0,Concluído,Ao leite,90
+1228,2025-06-16 22:18:46,Ovo tradicional,Ovo,Web,Curitiba,3,58.3,39.22,20,Concluído,Ao leite,250
+1286,2025-04-04 18:07:50,Ovo infantil,Ovo,Web,Curitiba,1,68.9,46.64,0,Concluído,Ao leite,150
+1273,2025-03-31 10:11:02,Ovo infantil,Ovo,Loja física,Curitiba,3,68.9,46.64,0,Concluído,Ao leite,150
+374,2024-03-12 20:12:08,Ovo tradicional,Ovo,Web,Curitiba,2,55,37,0,Cancelado,Ao leite,250
+1167,2025-04-04 15:03:09,Ovo tradicional,Ovo,Loja física,Curitiba,1,58.3,39.22,0,Concluído,Ao leite,250
+1042,2025-04-12 10:41:17,Barra ao leite,Barra,Mercado,Londrina,6,8.48,6.15,0,Concluído,Ao leite,90
+1094,2025-04-05 11:04:05,Ovo infantil,Ovo,Mercado,Cascavel,3,68.9,46.64,10,Concluído,Ao leite,150
+286,2024-05-14 13:58:58,Barra ao leite,Barra,Loja física,Cascavel,2,8,5.8,25,Cancelado,Ao leite,90
+264,2024-03-23 19:39:12,Ovo tradicional,Ovo, mercado ,Maringá,7,55,37,0,Concluído,Ao leite,250
+181,2024-04-02 16:25:02,Caixa de bombons,Caixa,Loja física,Maringá,3,24,15.5,0,Concluído,Misto,250
+156,2024-04-15 10:40:52,Barra amarga,Barra,Mercado,Cascavel,7,11,7.7,10,Concluído,Amargo,90
+1400,2025-04-05 19:16:52,Ovo infantil,Ovo,Web,Curitiba,3,68.9,46.64,5,Concluído,Ao leite,150
+513,2024-04-04 17:44:16,Caixa de bombons,Caixa,Mercado,Londrina,7,24,15.5,0,Concluído,Misto,250
+954,2025-03-19 16:35:38,Barra amarga,Barra,Mercado,Cascavel,5,11.66,8.16,0,Concluído,Amargo,90
+147,2024-06-14 22:36:14,Barra ao leite,Barra,Web,Curitiba,1,8,5.8,0,Concluído,Ao leite,90
+1238,2025-04-12 17:31:41,Caixa de bombons,Caixa,Mercado,Curitiba,5,25.44,16.43,10,Devolvido,Misto,250
+1234,2025-04-25 12:20:26,Barra amarga,Barra,Loja física,Londrina,2,11.66,8.16,15,Concluído,Amargo,90
+293,2024-01-03 18:24:38,Caixa de bombons,Caixa,Web,Maringá,2,24,15.5,0,Cancelado,Misto,250
+236,2024-02-03 10:50:08,Caixa de bombons,Caixa,Loja física,Curitiba,1,24,15.5,0,Concluído,Misto,250
+461,2024-03-05 16:24:47,Ovo premium,Ovo,Loja física,Curitiba,1,95,45,0,Concluído,Amargo,350
+1430,2025-04-13 21:47:06,Ovo tradicional,Ovo,Web,Curitiba,3,58.3,39.22,0,Concluído,Ao leite,250
+278,2024-03-28 09:00:20,Ovo premium,Ovo,Loja física,Londrina,1,95,45,10,Concluído,Amargo,350
+1274,2025-04-26 09:31:40,Caixa de bombons,Caixa,Mercado,Curitiba,5,25.44,16.43,0,Concluído,Misto,250
+516,2024-03-15 10:42:56,Ovo tradicional,Ovo,Loja física,Londrina,3,55,37,10,Concluído,Ao leite,250
+42,2024-03-14 13:08:48,Barra ao leite,Barra,Mercado,Londrina,2,8,5.8,0,Concluído,Ao leite,90
+995,2025-03-29 19:42:56,Caixa de bombons,Caixa,Mercado,Curitiba,2,25.44,16.43,5,Concluído,Misto,250
+1409,2025-04-24 22:10:50,Barra ao leite,Barra,Web,Londrina,1,8.48,6.15,15,Concluído,Ao leite,90
+1057,2025-03-02 15:19:08,Barra amarga,Barra,Loja física,Londrina,3,11.66,8.16,5,Concluído,Amargo,90
+186,2024-04-05 14:03:48,Barra ao leite,Barra,Loja física,Maringá,3,8,5.8,10,Concluído,Ao leite,90
+855,2025-05-11 14:13:48,Caixa de bombons,Caixa,Loja física,Curitiba,2,25.44,16.43,10,Concluído,Misto,250
+747,2024-05-16 10:07:16,Barra ao leite,Barra,Mercado,Maringá,3,8,5.8,20,Concluído,Ao leite,90
+632,2024-03-14 18:12:47,Ovo infantil,Ovo,Mercado,Londrina,6,65,44,0,Concluído,Ao leite,150
+182,2024-03-22 19:11:29,Ovo infantil,Ovo,Web,Londrina,3,65,44,0,Concluído,Ao leite,150
+668,2024-04-05 15:36:58,Ovo premium,Ovo,Loja física,Curitiba,3,95,45,10,Concluído,Amargo,350
+91,2024-03-24 13:19:29,Barra amarga,Barra,Mercado,Curitiba,2,11,7.7,0,Concluído,Amargo,90
+1173,2025-04-18 11:42:38,Barra ao leite,Barra,Mercado,Curitiba,6,8.48,6.15,5,Concluído,Ao leite,90
+1134,2025-04-02 16:16:09,Barra ao leite,Barra,Mercado,Cascavel,7,8.48,6.15,5,Concluído,Ao leite,90
+383,2024-03-02 21:33:04,Barra ao leite,Barra,Web,Maringá,1,8,5.8,0,Concluído,Ao leite,90
+697,2024-04-06 11:43:59,Caixa de bombons,Caixa,Loja física,Londrina,2,24,15.5,15,Cancelado,Misto,250
+957,2025-05-05 16:05:01,Ovo tradicional,Ovo, loja física ,Cascavel,2,58.3,39.22,15,Concluído,Ao leite,250
+511,2024-03-28 13:01:43,Barra amarga,Barra,Loja física,Londrina,3,11,7.7,0,Concluído,Amargo,90
+32,2024-03-20 21:06:25,Barra amarga,Barra,Web,Cascavel,1,11,7.7,0,Concluído,Amargo,90
+12,2024-04-02 15:06:22,Ovo premium,Ovo,Loja física,Maringá,2,95,45,15,Concluído,Amargo,350
+567,2024-04-03 14:50:01,Barra ao leite,Barra,Mercado,Curitiba,6,8,5.8,20,Concluído,Ao leite,90
+828,2025-03-26 18:51:48,Caixa de bombons,Caixa,Mercado,Londrina,3,25.44,16.43,0,Concluído,Misto,250
+1301,2025-02-05 19:14:50,Barra amarga,Barra,Mercado,Maringá,3,11.66,8.16,10,Cancelado,Amargo,90
+966,2025-04-15 10:31:17,Barra ao leite,Barra,Loja física,Londrina,2,8.48,6.15,5,Concluído,Ao leite,90
+361,2024-03-22 22:55:18,Caixa de bombons,Caixa,Web,Maringá,3,24,15.5,0,Concluído,Misto,250
+669,2024-02-24 19:39:20,Caixa de bombons,Caixa,Web,Maringá,1,24,15.5,0,Concluído,Misto,250
+1477,2025-05-05 16:01:21,Caixa de bombons,Caixa,Loja física,Curitiba,1,25.44,16.43,15,Concluído,Misto,250
+1071,2025-03-28 11:42:15,Ovo tradicional,Ovo,Mercado,Curitiba,2,58.3,39.22,10,Concluído,Ao leite,250
+946,2025-03-19 13:04:17,Barra ao leite,Barra,Loja física,Londrina,1,8.48,6.15,10,Concluído,Ao leite,90
+517,2024-03-15 21:34:31,Ovo tradicional,Ovo,Web,Curitiba,3,55,37,5,Concluído,Ao leite,250
+1352,2025-04-09 16:30:54,Caixa de bombons,Caixa,Mercado,Maringá,7,25.44,16.43,0,Concluído,Misto,250
+1437,2025-04-26 14:37:15,Ovo infantil,Ovo,Loja física,Maringá,2,68.9,46.64,25,Concluído,Ao leite,150
+1153,2025-04-30 12:23:51,Barra ao leite,Barra,Mercado,Curitiba,6,8.48,6.15,15,Concluído,Ao leite,90
+951,2025-01-02 12:09:21,Ovo premium,Ovo,Mercado,Londrina,2,100.7,47.7,0,Concluído,Amargo,350
+764,2025-04-02 18:12:57,Ovo tradicional,Ovo,Loja física,Cascavel,1,58.3,39.22,0,Concluído,Ao leite,250
+1135,2025-03-25 19:12:33,Caixa de bombons,Caixa,Mercado,Maringá,5,25.44,16.43,0,Concluído,Misto,250
+1356,2025-04-07 17:22:50,Barra ao leite,Barra,Mercado,Londrina,6,8.48,6.15,5,Concluído,Ao leite,90
+1462,2025-04-09 10:36:12,Ovo infantil,Ovo,Loja física,Cascavel,1,68.9,46.64,0,Concluído,Ao leite,150
+529,2024-06-14 11:21:16,Caixa de bombons,Caixa,Loja física,Cascavel,1,24,15.5,15,Concluído,Misto,250
+1256,2025-04-11 09:19:26,Caixa de bombons,Caixa,Mercado,Curitiba,6,25.44,16.43,5,Concluído,Misto,250
+1125,2025-04-03 12:26:34,Barra ao leite,Barra,Mercado,Maringá,7,,6.15,0,Concluído,Ao leite,90
+571,2024-03-25 12:17:08,Ovo infantil,Ovo,Mercado,Cascavel,4,65,44,0,Concluído,Ao leite,150
+923,2025-04-06 19:31:57,Ovo tradicional,Ovo,Mercado,Londrina,3,58.3,39.22,5,Concluído,Ao leite,250
+113,2024-03-04 14:46:31,Ovo premium,Ovo,Loja física,Curitiba,2,95,45,5,Concluído,Amargo,350
+1075,2025-04-14 14:05:50,Ovo infantil,Ovo,Mercado,Curitiba,5,68.9,46.64,5,Concluído,Ao leite,150
+1449,2025-04-23 14:52:16,Caixa de bombons,Caixa,Mercado,Maringá,3,25.44,16.43,15,Concluído,Misto,250
+1278,2025-03-10 19:23:25,Barra ao leite,Barra,Web,Londrina,2,8.48,6.15,0,Concluído,Ao leite,90
+1427,2025-03-22 09:27:26,Ovo tradicional,Ovo,Loja física,Maringá,1,58.3,39.22,0,Concluído,Ao leite,250
+600,2024-04-09 19:03:13,Ovo tradicional,Ovo,Web,Cascavel,3,55,37,15,Concluído,Ao leite,250
+451,2024-03-16 18:09:16,Ovo tradicional,Ovo,Web,Cascavel,1,55,37,10,Concluído,Ao leite,250
+1077,2025-03-24 10:58:05,Barra ao leite,Barra,Mercado,Maringá,5,8.48,6.15,0,Concluído,Ao leite,90
+699,2024-04-18 11:52:35,Caixa de bombons,Caixa,Loja física,Cascavel,1,24,15.5,0,Concluído,Misto,250
+304,2024-04-07 11:17:21,Barra amarga,Barra,Mercado,Cascavel,3,11,7.7,10,Concluído,Amargo,90
+1200,2025-04-16 19:47:02,Ovo premium,Ovo,Web,Cascavel,2,100.7,47.7,0,Concluído,Amargo,350
+566,2024-03-22 10:28:09,Ovo infantil,Ovo,Loja física,Curitiba,2,65,44,0,Concluído,Ao leite,150
+1033,2025-04-01 18:03:15,Ovo infantil,Ovo,Loja física,Maringá,3,68.9,46.64,10,Concluído,Ao leite,150
+423,2024-04-26 17:48:20,Barra ao leite,Barra,Mercado,Londrina,5,8,5.8,10,Concluído,Ao leite,90
+198,2024-03-03 18:42:03,Ovo premium,Ovo, web ,Curitiba,2,95,45,0,Cancelado,Amargo,350
+436,2024-05-27 18:50:10,Barra ao leite,Barra,Mercado,Londrina,6,8,5.8,15,Concluído,Ao leite,90
+973,2025-03-05 19:13:23,Barra ao leite,Barra,Web,Maringá,1,8.48,6.15,0,Concluído,Ao leite,90
+1407,2025-04-09 09:58:38,Ovo premium,Ovo,Loja física,Maringá,2,100.7,47.7,10,Concluído,Amargo,350
+1465,2025-01-11 20:15:46,Barra amarga,Barra,Web,Maringá,2,11.66,8.16,10,Concluído,Amargo,90
+46,2024-04-09 18:41:43,Barra amarga,Barra,Mercado,Maringá,5,11,7.7,20,Cancelado,Amargo,90
+498,2024-06-28 18:26:13,Caixa de bombons,Caixa,Web,Maringá,1,24,15.5,10,Concluído,Misto,250
+12,2024-04-02 15:06:22,Ovo premium,Ovo,Loja física,Maringá,2,95,45,15,Concluído,Amargo,350
+983,2025-04-01 22:34:00,Barra amarga,Barra,Web,Cascavel,3,11.66,8.16,0,Concluído,Amargo,90
+726,2024-04-24 14:16:13,Barra amarga,Barra, mercado ,Londrina,7,11,7.7,15,Concluído,Amargo,90
+725,2024-03-07 19:24:08,Barra ao leite,Barra,Web,Londrina,3,8,5.8,10,Concluído,Ao leite,90
+1402,2025-04-14 11:29:00,Barra ao leite,Barra,Mercado,Londrina,6,8.48,6.15,5,Devolvido,Ao leite,90
+52,2024-04-26 22:22:36,Ovo infantil,Ovo,Web,Curitiba,3,65,44,25,Concluído,Ao leite,150
+1181,2025-03-29 15:18:30,Ovo tradicional,Ovo,Mercado,Maringá,5,58.3,39.22,0,Concluído,Ao leite,250
+34,2024-04-02 09:34:17,Barra amarga,Barra,Mercado,Cascavel,7,11,7.7,15,Concluído,Amargo,90
+129,2024-03-04 10:42:24,Barra ao leite,Barra,Mercado,Londrina,6,8,5.8,10,Concluído,Ao leite,90
+997,2025-06-19 17:14:17,Caixa de bombons,Caixa,Loja física,Curitiba,3,25.44,16.43,10,Concluído,Misto,250
+158,2024-03-24 14:28:18,Caixa de bombons,Caixa,Mercado,Maringá,4,24,15.5,0,Concluído,Misto,250
+477,2024-04-22 11:11:12,Barra ao leite,Barra,Loja física,Maringá,1,8,5.8,15,Concluído,Ao leite,90
+246,2024-03-22 14:20:24,Barra amarga,Barra,Loja física,Maringá,2,11,7.7,0,Concluído,Amargo,90
+364,2024-02-16 19:35:48,Caixa de bombons,Caixa,Web,Maringá,2,24,15.5,0,Concluído,Misto,250
+717,2024-05-03 11:04:44,Barra amarga,Barra,Mercado,Maringá,6,11,7.7,15,Concluído,Amargo,90
+739,2024-03-22 09:35:45,Ovo infantil,Ovo,Loja física,Maringá,2,65,44,10,Concluído,Ao leite,150
+493,2024-03-07 09:08:33,Ovo tradicional,Ovo,Mercado,Londrina,2,55,37,0,Concluído,Ao leite,250
+66,2024-03-13 13:00:09,Caixa de bombons,Caixa, mercado ,Cascavel,2,24,15.5,10,Concluído,Misto,250
+548,2024-04-01 21:33:05,Barra amarga,Barra,Web,Maringá,1,11,7.7,25,Concluído,Amargo,90
+433,2024-03-02 20:32:02,Ovo premium,Ovo,Web,Maringá,1,95,45,0,Concluído,Amargo,350
+765,2025-03-23 17:16:41,Caixa de bombons,Caixa,Mercado,Curitiba,5,25.44,16.43,0,Concluído,Misto,250
+750,2024-03-20 18:21:59,Barra amarga,Barra,Mercado,Maringá,4,,7.7,0,Cancelado,Amargo,90
+1346,2025-04-17 16:26:39,Caixa de bombons,Caixa,Mercado,Cascavel,5,25.44,16.43,0,Concluído,Misto,250
+1241,2025-02-23 19:36:59,Barra ao leite,Barra,Web,Cascavel,1,8.48,6.15,10,Concluído,Ao leite,90
+165,2024-04-14 14:47:14,Barra amarga,Barra, mercado ,Maringá,7,11,7.7,20,Concluído,Amargo,90
+1172,2025-04-11 18:55:50,Barra ao leite,Barra,Mercado,Curitiba,2,8.48,6.15,0,Concluído,Ao leite,90
+956,2025-04-03 13:48:55,Caixa de bombons,Caixa,Mercado,Maringá,6,25.44,16.43,10,Concluído,Misto,250
+1216,2025-06-25 18:13:48,Barra ao leite,Barra,Mercado,Curitiba,4,8.48,6.15,20,Concluído,Ao leite,90
+959,2025-04-22 18:45:55,Barra ao leite,Barra,Mercado,Maringá,4,8.48,6.15,10,Concluído,Ao leite,90
+59,2024-04-21 16:43:56,Barra amarga,Barra,Mercado,Maringá,5,11,7.7,10,Concluído,Amargo,90
+770,2025-04-10 17:43:04,Barra ao leite,Barra,Mercado,Curitiba,5,8.48,6.15,0,Concluído,Ao leite,90
+467,2024-05-29 17:24:59,Barra amarga,Barra,Mercado,Curitiba,5,11,7.7,25,Concluído,Amargo,90
+744,2024-03-03 21:24:39,Barra amarga,Barra,Web,Cascavel,1,11,7.7,10,Concluído,Amargo,90
+774,2025-04-04 20:28:08,Ovo premium,Ovo,Web,Curitiba,1,100.7,47.7,10,Concluído,Amargo,350
+270,2024-06-16 13:32:10,Caixa de bombons,Caixa,Loja física,Maringá,1,24,15.5,15,Concluído,Misto,250
+856,2025-04-07 09:04:35,Ovo infantil,Ovo,Mercado,Cascavel,3,68.9,46.64,5,Cancelado,Ao leite,150
+756,2025-02-09 11:44:32,Barra ao leite,Barra,Mercado,Maringá,3,8.48,6.15,0,Concluído,Ao leite,90
+588,2024-05-08 11:28:20,Barra amarga,Barra,Mercado,Curitiba,7,11,7.7,15,Concluído,Amargo,90
+222,2024-02-26 19:27:01,Barra ao leite,Barra,Web,Londrina,1,8,5.8,5,Concluído,Ao leite,90
+1381,2025-04-06 11:37:33,Ovo tradicional,Ovo,Mercado,Curitiba,4,58.3,39.22,10,Concluído,Ao leite,250
+736,2024-05-02 18:38:31,Barra amarga,Barra,Loja física,Curitiba,2,11,7.7,10,Concluído,Amargo,90
+1312,2025-04-20 18:38:03,Ovo premium,Ovo,Loja física,Curitiba,2,100.7,47.7,0,Concluído,Amargo,350
+1255,2025-03-31 19:20:50,Ovo premium,Ovo,Web,Londrina,3,100.7,47.7,10,Concluído,Amargo,350
+11,2024-03-24 21:08:33,Ovo premium,Ovo,Web,Cascavel,3,95,45,0,Concluído,Amargo,350
+1332,2025-05-04 19:31:37,Ovo infantil,Ovo,Loja física,Curitiba,3,68.9,46.64,0,Devolvido,Ao leite,150
+878,2025-03-12 17:47:10,Caixa de bombons,Caixa,Loja física,Maringá,3,25.44,16.43,0,Concluído,Misto,250
+622,2024-03-28 14:23:09,Barra amarga,Barra,Mercado,Curitiba,3,11,7.7,0,Concluído,Amargo,90
+1,2024-04-13 09:41:18,Ovo infantil,Ovo,Mercado,Curitiba,3,65,44,0,Concluído,Ao leite,150
+1034,2025-05-01 10:01:42,Barra ao leite,Barra,Mercado,Cascavel,3,8.48,6.15,10,Concluído,Ao leite,90
+759,2025-03-31 19:04:42,Barra amarga,Barra, mercado ,Maringá,6,11.66,8.16,0,Concluído,Amargo,90
+733,2024-04-05 20:33:39,Ovo tradicional,Ovo,Web,Curitiba,1,55,37,20,Concluído,Ao leite,250
+761,2025-02-10 18:06:50,Barra ao leite,Barra,Mercado,Curitiba,7,8.48,6.15,0,Concluído,Ao leite,90
+404,2024-04-29 16:39:41,Ovo infantil,Ovo,Loja física,Maringá,1,65,44,0,Cancelado,Ao leite,150
+1209,2025-01-13 16:12:28,Barra amarga,Barra,Loja física,Curitiba,1,11.66,8.16,10,Concluído,Amargo,90
+538,2024-03-04 11:46:23,Caixa de bombons,Caixa,Mercado,Cascavel,5,24,15.5,0,Concluído,Misto,250
+1036,2025-05-01 13:23:24,Ovo infantil,Ovo,Loja física,Londrina,1,68.9,46.64,20,Concluído,Ao leite,150
+1092,2025-02-26 16:27:01,Caixa de bombons,Caixa,Loja física,Londrina,2,25.44,16.43,10,Concluído,Misto,250
+1328,2025-03-28 09:10:55,Ovo tradicional,Ovo,Loja física,Curitiba,1,58.3,39.22,10,Devolvido,Ao leite,250
+313,2024-03-08 19:23:37,Barra ao leite,Barra,Web,Cascavel,2,8,5.8,0,Concluído,Ao leite,90
+512,2024-03-20 15:55:22,Ovo premium,Ovo,Mercado,Curitiba,7,95,45,0,Concluído,Amargo,350
+1062,2025-05-31 16:24:59,Barra ao leite,Barra,Loja física,Cascavel,3,8.48,6.15,25,Concluído,Ao leite,90
+368,2024-05-03 19:07:01,Barra ao leite,Barra,Web,Maringá,3,8,5.8,0,Concluído,Ao leite,90
+738,2024-03-10 21:52:20,Caixa de bombons,Caixa,Web,Curitiba,3,24,15.5,10,Concluído,Misto,250
+27,2024-06-02 22:30:18,Caixa de bombons,Caixa,Web,Maringá,1,24,15.5,15,Concluído,Misto,250
+1376,2025-04-12 19:39:50,Ovo tradicional,Ovo,Web,Curitiba,1,58.3,39.22,5,Concluído,Ao leite,250
+479,2024-04-13 18:00:57,Barra ao leite,Barra,Mercado,Londrina,6,8,5.8,0,Concluído,Ao leite,90
+1405,2025-01-09 10:08:08,Caixa de bombons,Caixa,Mercado,Curitiba,7,25.44,16.43,5,Concluído,Misto,250
+405,2024-04-03 12:45:17,Ovo premium,Ovo,Loja física,Londrina,2,95,45,10,Concluído,Amargo,350
+1022,2025-03-07 09:13:57,Barra amarga,Barra,Mercado,Curitiba,3,11.66,8.16,5,Concluído,Amargo,90
+360,2024-03-25 19:57:14,Barra ao leite,Barra,Mercado,Maringá,7,8,5.8,0,Concluído,Ao leite,90
+1080,2025-03-20 22:47:07,Barra ao leite,Barra,Web,Londrina,3,8.48,6.15,10,Concluído,Ao leite,90
+1081,2025-04-23 18:21:55,Ovo tradicional,Ovo,Web,Londrina,3,58.3,39.22,10,Concluído,Ao leite,250
+811,2025-06-27 17:02:10,Barra amarga,Barra,Mercado,Londrina,7,11.66,8.16,10,Concluído,Amargo,90
+1317,2025-05-02 17:46:28,Ovo infantil,Ovo,Loja física,Cascavel,2,68.9,46.64,25,Devolvido,Ao leite,150
+569,2024-03-19 14:29:26,Barra amarga,Barra,Mercado,Londrina,4,11,7.7,10,Concluído,Amargo,90
+136,2024-02-06 17:26:21,Barra ao leite,Barra,Mercado,Maringá,6,8,5.8,0,Concluído,Ao leite,90
+420,2024-03-01 18:27:18,Caixa de bombons,Caixa,Web,Maringá,-1,24,15.5,5,Concluído,Misto,250
+804,2025-04-06 19:38:04,Ovo tradicional,Ovo,Mercado,Maringá,2,58.3,39.22,5,Concluído,Ao leite,250
+99,2024-01-17 21:20:27,Ovo tradicional,Ovo, web ,Curitiba,1,55,37,0,Concluído,Ao leite,250
+522,2024-03-03 14:22:58,Caixa de bombons,Caixa,Mercado,Londrina,7,24,15.5,0,Concluído,Misto,250
+50,2024-03-05 17:21:48,Caixa de bombons,Caixa,Mercado,Cascavel,2,24,15.5,0,Concluído,Misto,250
+355,2024-03-31 10:34:56,Ovo premium,Ovo,Loja física,Maringá,3,95,45,0,Devolvido,Amargo,350
+1136,2025-05-07 15:39:28,Caixa de bombons,Caixa,Mercado,Curitiba,3,25.44,16.43,0,Concluído,Misto,250
+462,2024-03-29 20:53:34,Ovo premium,Ovo, web ,Maringá,1,95,45,0,Concluído,Amargo,350
+377,2024-03-20 20:08:20,Ovo tradicional,Ovo,Web,Cascavel,1,55,37,0,Concluído,Ao leite,250
+815,2025-04-02 14:28:33,Barra ao leite,Barra,Mercado,Cascavel,3,8.48,6.15,5,Concluído,Ao leite,90
+1142,2025-04-20 19:13:48,Ovo premium,Ovo,Web,Maringá,3,100.7,47.7,0,Concluído,Amargo,350
+249,2024-04-21 19:03:38,Ovo infantil,Ovo,Loja física,Cascavel,3,65,44,15,Concluído,Ao leite,150
+564,2024-01-08 09:01:38,Ovo infantil,Ovo,Mercado,Londrina,3,65,44,0,Concluído,Ao leite,150
+1232,2025-04-14 15:10:00,Caixa de bombons,Caixa,Mercado,Londrina,4,25.44,16.43,0,Concluído,Misto,250
+1295,2025-04-05 13:18:20,Caixa de bombons,Caixa,Loja física,Curitiba,2,25.44,16.43,0,Concluído,Misto,250
+532,2024-01-06 21:46:46,Barra ao leite,Barra,Web,Maringá,1,8,5.8,10,Concluído,Ao leite,90
+507,2024-03-30 13:10:47,Ovo premium,Ovo,Loja física,Curitiba,2,95,45,0,Concluído,Amargo,350
+808,2025-04-20 10:39:04,Caixa de bombons,Caixa,Mercado,Cascavel,7,25.44,16.43,10,Concluído,Misto,250
+356,2024-04-12 10:11:34,Barra ao leite,Barra,Loja física,Londrina,3,8,5.8,15,Concluído,Ao leite,90
+563,2024-03-22 14:19:04,Barra ao leite,Barra,Mercado,Londrina,7,8,5.8,0,Concluído,Ao leite,90
+829,2025-02-08 12:23:38,Barra ao leite,Barra,Mercado,Cascavel,4,8.48,6.15,5,Concluído,Ao leite,90
+397,2024-03-19 18:57:55,Caixa de bombons,Caixa,Web,Curitiba,2,24,15.5,10,Concluído,Misto,250
+77,2024-04-23 19:56:22,Ovo tradicional,Ovo,Web,Curitiba,2,55,37,20,Concluído,Ao leite,250
+14,2024-06-17 18:44:01,Barra amarga,Barra,Mercado,Cascavel,3,11,7.7,20,Concluído,Amargo,90
+1436,2025-04-04 19:26:09,Ovo tradicional,Ovo,Mercado,Cascavel,7,58.3,39.22,10,Concluído,Ao leite,250
+115,2024-05-22 19:26:06,Barra ao leite,Barra,Mercado,Cascavel,4,8,5.8,25,Concluído,Ao leite,90
+1355,2025-04-08 11:53:49,Caixa de bombons,Caixa,Mercado,Curitiba,4,25.44,16.43,10,Concluído,Misto,250
+1021,2025-04-29 09:44:39,Ovo tradicional,Ovo,Mercado,Cascavel,6,58.3,39.22,10,Concluído,Ao leite,250
+816,2025-03-07 10:27:27,Barra ao leite,Barra,Loja física,Maringá,2,8.48,6.15,10,Concluído,Ao leite,90
+1387,2025-05-02 13:30:33,Barra ao leite,Barra,Mercado,Maringá,4,8.48,6.15,10,Cancelado,Ao leite,90
+399,2024-03-23 19:51:01,Barra ao leite,Barra,Mercado,Curitiba,5,8,5.8,10,Concluído,Ao leite,90
+1041,2025-06-09 14:42:07,Caixa de bombons,Caixa,Loja física,Curitiba,3,25.44,16.43,15,Concluído,Misto,250
+1345,2025-04-15 11:13:11,Barra amarga,Barra,Mercado,Maringá,3,11.66,8.16,5,Concluído,Amargo,90
+459,2024-02-29 21:12:04,Caixa de bombons,Caixa,Web,Maringá,3,24,15.5,0,Concluído,Misto,250
+1020,2025-01-27 11:11:01,Caixa de bombons,Caixa,Mercado,Londrina,2,25.44,16.43,10,Concluído,Misto,250
+901,2025-04-08 22:32:05,Ovo tradicional,Ovo,Web,Londrina,3,58.3,39.22,0,Concluído,Ao leite,250
+380,2024-04-04 12:38:21,Ovo tradicional,Ovo,Loja física,Londrina,1,55,,15,Concluído,Ao leite,250
+720,2024-04-06 12:03:08,Ovo infantil,Ovo,Loja física,Curitiba,3,65,44,25,Concluído,Ao leite,150
+135,2024-06-27 22:38:53,Barra amarga,Barra,Web,Maringá,2,11,7.7,15,Concluído,Amargo,90
+1244,2025-04-23 19:37:50,Ovo premium,Ovo,Web,Londrina,1,100.7,47.7,20,Concluído,Amargo,350
+731,2024-02-05 11:10:50,Caixa de bombons,Caixa,Mercado,Maringá,5,24,15.5,0,Concluído,Misto,250
+150,2024-03-08 17:20:04,Caixa de bombons,Caixa,Loja física,Curitiba,2,24,15.5,0,Concluído,Misto,250
+885,2025-04-13 14:50:06,Barra ao leite,Barra,Mercado,Londrina,6,8.48,6.15,0,Concluído,Ao leite,90
+294,2024-05-30 18:51:23,Barra amarga,Barra,Web,Cascavel,2,11,7.7,25,Concluído,Amargo,90
+1416,2025-04-16 11:27:59,Caixa de bombons,Caixa,Mercado,Londrina,4,25.44,16.43,10,Concluído,Misto,250
+1177,2025-04-16 09:30:47,Barra amarga,Barra,Mercado,Cascavel,4,11.66,8.16,10,Concluído,Amargo,90
+583,2024-05-07 20:47:03,Caixa de bombons,Caixa,Web,Cascavel,1,24,15.5,0,Concluído,Misto,250
+634,2024-03-13 14:23:51,Caixa de bombons,Caixa,Mercado,Curitiba,7,24,15.5,0,Concluído,Misto,250
+4,2024-03-08 09:51:01,Ovo premium,Ovo,Loja física,Cascavel,1,95,45,0,Concluído,Amargo,350
+472,2024-02-28 19:00:00,Barra amarga,Barra,Web,Londrina,1,11,7.7,0,Concluído,Amargo,90
+65,2024-03-23 11:30:44,Ovo tradicional,Ovo,Mercado,Cascavel,2,55,37,0,Concluído,Ao leite,250
+1367,2025-05-29 10:09:52,Caixa de bombons,Caixa,Loja física,Curitiba,3,25.44,16.43,0,Concluído,Misto,250
+132,2024-03-12 22:52:37,Ovo tradicional,Ovo, web ,Cascavel,2,55,37,0,Concluído,Ao leite,250
+688,2024-06-24 14:11:53,Caixa de bombons,Caixa,Mercado,Cascavel,2,24,15.5,25,Concluído,Misto,250
+301,2024-03-23 09:00:58,Barra ao leite,Barra,Mercado,Cascavel,6,8,5.8,5,Concluído,Ao leite,90
+758,2025-04-07 14:08:24,Caixa de bombons,Caixa,Mercado,Curitiba,2,25.44,16.43,0,Concluído,Misto,250
+809,2025-04-30 16:53:53,Ovo premium,Ovo,Loja física,Londrina,2,100.7,47.7,25,Concluído,Amargo,350
+469,2024-03-17 19:44:00,Barra ao leite,Barra,Mercado,Londrina,7,8,5.8,0,Concluído,Ao leite,90
+24,2024-03-18 09:09:31,Barra ao leite,Barra,Mercado,Londrina,6,8,5.8,10,Concluído,Ao leite,90
+83,2024-03-06 13:27:05,Caixa de bombons,Caixa,Mercado,Curitiba,4,24,15.5,10,Concluído,Misto,250
+28,2024-03-29 17:01:46,Barra ao leite,Barra,Mercado,Maringá,2,8,5.8,10,Concluído,Ao leite,90
+7,2024-02-09 13:45:26,Barra ao leite,Barra,Mercado,Cascavel,6,8,5.8,10,Concluído,Ao leite,90
+495,2024-02-24 14:20:46,Barra ao leite,Barra, mercado ,Cascavel,2,8,5.8,5,Devolvido,Ao leite,90
+1001,2025-02-22 14:59:43,Barra ao leite,Barra,Loja física,Cascavel,2,8.48,6.15,0,Concluído,Ao leite,90
+1379,2025-06-25 22:36:32,Barra ao leite,Barra,Web,Londrina,2,8.48,6.15,25,Cancelado,Ao leite,90
+410,2024-04-28 15:13:54,Caixa de bombons,Caixa,Mercado,Curitiba,5,24,15.5,15,Cancelado,Misto,250
+789,2025-04-12 11:02:24,Ovo tradicional,Ovo,Loja física,Cascavel,2,58.3,39.22,5,Concluído,Ao leite,250
+873,2025-04-13 17:40:49,Barra ao leite,Barra,Mercado,Maringá,5,8.48,6.15,10,Concluído,Ao leite,90
+1004,2025-04-10 15:08:00,Barra ao leite,Barra,Mercado,Londrina,7,8.48,6.15,0,Cancelado,Ao leite,90
+984,2025-04-11 18:28:06,Barra ao leite,Barra,Mercado,Londrina,4,8.48,6.15,10,Concluído,Ao leite,90
+57,2024-03-13 18:24:17,Barra ao leite,Barra,Mercado,Cascavel,5,8,5.8,10,Concluído,Ao leite,90
+119,2024-05-12 21:20:31,Barra ao leite,Barra,Web,Cascavel,2,8,5.8,10,Concluído,Ao leite,90
+1310,2025-05-23 16:27:19,Barra amarga,Barra,Mercado,Cascavel,4,11.66,8.16,15,Concluído,Amargo,90
+1258,2025-04-21 17:33:20,Ovo tradicional,Ovo,Mercado,Curitiba,3,58.3,39.22,25,Concluído,Ao leite,250
+780,2025-04-11 19:26:51,Ovo premium,Ovo,Web,Cascavel,2,100.7,47.7,0,Concluído,Amargo,350
+1401,2025-04-28 09:07:08,Barra amarga,Barra,Mercado,Cascavel,4,11.66,8.16,10,Concluído,Amargo,90
+868,2025-02-16 19:18:21,Caixa de bombons,Caixa,Loja física,Londrina,3,25.44,16.43,0,Concluído,Misto,250
+701,2024-03-13 22:36:39,Caixa de bombons,Caixa,Web,Curitiba,1,24,15.5,0,Concluído,Misto,250
+812,2025-01-13 17:36:52,Barra amarga,Barra,Mercado,Londrina,4,11.66,8.16,0,Cancelado,Amargo,90
+437,2024-03-25 21:35:32,Ovo tradicional,Ovo,Web,Curitiba,3,55,37,5,Concluído,Ao leite,250
+453,2024-01-04 18:48:16,Caixa de bombons,Caixa,Mercado,Curitiba,4,24,15.5,5,Concluído,Misto,250
+638,2024-03-13 21:22:33,Ovo premium,Ovo,Web,Curitiba,2,95,45,0,Concluído,Amargo,350
+989,2025-04-27 14:11:22,Caixa de bombons,Caixa,Loja física,Curitiba,1,25.44,16.43,20,Concluído,Misto,250
+574,2024-03-17 20:09:15,Ovo tradicional,Ovo,Web,Cascavel,3,55,37,5,Cancelado,Ao leite,250
+887,2025-06-24 19:27:56,Caixa de bombons,Caixa,Loja física,Maringá,3,25.44,16.43,25,Concluído,Misto,250
+525,2024-03-05 20:39:37,Barra amarga,Barra,Web,Maringá,2,11,7.7,0,Concluído,Amargo,90
+1188,2025-04-02 18:11:32,Barra ao leite,Barra, mercado ,Cascavel,2,8.48,6.15,0,Concluído,Ao leite,90
+1337,2025-03-31 18:39:18,Ovo premium,Ovo,Web,Curitiba,2,100.7,47.7,10,Concluído,Amargo,350
+359,2024-04-08 13:26:24,Barra ao leite,Barra,Mercado,Curitiba,5,8,5.8,20,Concluído,Ao leite,90
+499,2024-06-24 18:45:05,Caixa de bombons,Caixa,Mercado,Cascavel,7,24,15.5,25,Concluído,Misto,250
+1466,2025-06-28 14:33:37,Ovo infantil,Ovo,Mercado,Maringá,5,68.9,46.64,10,Concluído,Ao leite,150
+892,2025-04-06 18:51:56,Barra ao leite,Barra,Web,Londrina,2,8.48,6.15,5,Cancelado,Ao leite,90
+1093,2025-03-27 21:14:00,Ovo premium,Ovo,Web,Cascavel,3,100.7,47.7,10,Concluído,Amargo,350
+712,2024-03-30 18:37:29,Caixa de bombons,Caixa,Mercado,Maringá,2,24,15.5,10,Concluído,Misto,250
+1491,2025-04-04 20:21:47,Ovo infantil,Ovo,Web,Maringá,3,68.9,46.64,0,Cancelado,Ao leite,150
+1388,2025-04-16 19:25:07,Caixa de bombons,Caixa,Web,Londrina,2,25.44,16.43,0,Concluído,Misto,250
+1476,2025-04-17 18:25:40,Ovo premium,Ovo,Mercado,Cascavel,4,100.7,47.7,5,Concluído,Amargo,350
+1390,2025-04-30 13:10:57,Ovo tradicional,Ovo,Loja física,Londrina,1,58.3,39.22,10,Concluído,Ao leite,250
+745,2024-04-05 14:39:53,Caixa de bombons,Caixa,Mercado,Curitiba,4,24,15.5,25,Concluído,Misto,250
+6,2024-03-20 11:31:05,Ovo infantil,Ovo,Loja física,Curitiba,1,65,44,10,Concluído,Ao leite,150
+390,2024-04-20 18:14:15,Caixa de bombons,Caixa,Web,Londrina,2,24,15.5,25,Concluído,Misto,250
+556,2024-03-10 11:35:07,Barra amarga,Barra,Loja física,Cascavel,1,11,7.7,0,Concluído,Amargo,90
+753,2025-04-13 19:55:27,Barra ao leite,Barra,Web,Maringá,3,8.48,6.15,0,Concluído,Ao leite,90
+1055,2025-02-21 12:52:42,Caixa de bombons,Caixa,Loja física,Maringá,3,25.44,16.43,10,Concluído,Misto,250
+494,2024-03-27 12:46:18,Ovo infantil,Ovo,Mercado,Cascavel,6,65,44,5,Concluído,Ao leite,150
+1195,2025-04-27 14:35:11,Caixa de bombons,Caixa,Mercado,Cascavel,6,25.44,16.43,20,Concluído,Misto,250
+891,2025-03-16 15:35:14,Barra amarga,Barra, loja física ,Cascavel,1,11.66,8.16,0,Concluído,Amargo,90
+1087,2025-04-11 21:54:46,Barra ao leite,Barra,Web,Londrina,1,8.48,6.15,5,Concluído,Ao leite,90
+446,2024-06-03 19:31:46,Ovo premium,Ovo,Web,Cascavel,2,95,45,20,Devolvido,Amargo,350
+110,2024-03-28 22:02:43,Barra ao leite,Barra,Web,Londrina,2,8,5.8,0,Concluído,Ao leite,90
+613,2024-03-06 19:11:18,Ovo tradicional,Ovo,Web,Cascavel,1,55,37,5,Concluído,Ao leite,250
+346,2024-03-15 16:32:45,Ovo infantil,Ovo,Mercado,Maringá,7,65,44,10,Concluído,Ao leite,150
+895,2025-04-15 20:11:05,Ovo tradicional,Ovo,Web,Curitiba,2,58.3,39.22,0,Concluído,Ao leite,250
+937,2025-04-02 19:51:04,Caixa de bombons,Caixa,Mercado,Maringá,2,25.44,16.43,0,Concluído,Misto,250
+263,2024-03-10 17:22:14,Barra ao leite,Barra,Loja física,Cascavel,3,8,5.8,0,Concluído,Ao leite,90
+1224,2025-04-16 17:57:53,Barra amarga,Barra,Mercado,Cascavel,5,11.66,8.16,0,Concluído,Amargo,90
+771,2025-04-01 21:40:42,Ovo premium,Ovo,Web,Maringá,1,100.7,47.7,0,Concluído,Amargo,350
+117,2024-05-12 19:40:17,Barra amarga,Barra,Loja física,Maringá,3,11,7.7,15,Concluído,Amargo,90
+104,2024-03-20 15:08:50,Ovo tradicional,Ovo,Mercado,Maringá,6,55,37,0,Concluído,Ao leite,250
+259,2024-03-04 09:09:44,Ovo tradicional,Ovo,Mercado,Curitiba,3,55,37,0,Concluído,Ao leite,250
+932,2025-06-19 17:11:17,Caixa de bombons,Caixa,Mercado,Londrina,7,25.44,16.43,0,Concluído,Misto,250
+1140,2025-03-30 19:38:54,Ovo infantil,Ovo,Web,Londrina,2,68.9,,0,Concluído,Ao leite,150
+907,2025-03-31 14:02:31,Barra amarga,Barra,Mercado,Cascavel,7,11.66,8.16,10,Concluído,Amargo,90
+607,2024-03-26 18:11:40,Barra ao leite,Barra,Mercado,Curitiba,2,8,5.8,0,Concluído,Ao leite,90
+430,2024-04-28 14:45:36,Caixa de bombons,Caixa,Mercado,Londrina,5,24,15.5,10,Concluído,Misto,250
+684,2024-03-17 18:59:03,Ovo premium,Ovo,Mercado,Londrina,5,95,45,5,Concluído,Amargo,350
+1364,2025-03-13 12:08:01,Barra ao leite,Barra,Mercado,Maringá,2,8.48,6.15,10,Concluído,Ao leite,90
+1150,2025-02-27 19:27:27,Barra ao leite,Barra,Web,Curitiba,2,8.48,6.15,0,Concluído,Ao leite,90
+568,2024-04-02 17:11:50,Ovo tradicional,Ovo,Loja física,Curitiba,3,55,37,25,Concluído,Ao leite,250
+434,2024-06-30 17:59:45,Barra ao leite,Barra,Mercado,Londrina,2,8,5.8,20,Concluído,Ao leite,90
+1107,2025-05-27 09:47:54,Caixa de bombons,Caixa,Loja física,Curitiba,1,25.44,16.43,0,Concluído,Misto,250
+889,2025-04-19 18:05:24,Ovo tradicional,Ovo,Web,Maringá,1,58.3,39.22,0,Concluído,Ao leite,250
+1045,2025-05-06 11:43:06,Caixa de bombons,Caixa,Loja física,Londrina,1,25.44,16.43,10,Concluído,Misto,250
+277,2024-01-07 16:12:38,Barra ao leite,Barra,Mercado,Cascavel,3,8,5.8,0,Concluído,Ao leite,90
+781,2025-04-07 18:21:47,Ovo premium,Ovo,Web,Londrina,3,100.7,47.7,0,Concluído,Amargo,350
+810,2025-04-16 22:05:17,Ovo infantil,Ovo,Web,Cascavel,3,68.9,46.64,0,Concluído,Ao leite,150
+426,2024-03-06 20:54:55,Ovo premium,Ovo,Web,Curitiba,3,95,45,0,Concluído,Amargo,350
+122,2024-04-06 13:57:50,Barra ao leite,Barra,Mercado,Londrina,3,8,5.8,20,Concluído,Ao leite,90
+212,2024-03-07 15:05:07,Ovo infantil,Ovo,Mercado,Cascavel,2,65,44,10,Cancelado,Ao leite,150
+547,2024-02-21 11:34:46,Caixa de bombons,Caixa,Mercado,Cascavel,5,24,15.5,0,Concluído,Misto,250
+395,2024-01-26 18:59:29,Caixa de bombons,Caixa,Web,Maringá,1,24,15.5,10,Concluído,Misto,250
+748,2024-03-21 10:45:30,Barra ao leite,Barra,Loja física,Londrina,2,8,5.8,0,Concluído,Ao leite,90
+718,2024-02-02 19:55:16,Barra ao leite,Barra,Loja física,Londrina,1,8,5.8,0,Concluído,Ao leite,90
+1106,2025-04-09 22:32:35,Ovo tradicional,Ovo,Web,Cascavel,2,58.3,39.22,0,Concluído,Ao leite,250
+38,2024-03-21 16:38:15,Barra ao leite,Barra,Mercado,Cascavel,6,8,5.8,10,Cancelado,Ao leite,90
+392,2024-03-28 15:27:05,Caixa de bombons,Caixa,Loja física,Maringá,1,24,15.5,0,Concluído,Misto,250
+863,2025-04-29 17:18:14,Ovo infantil,Ovo,Loja física,Cascavel,1,68.9,46.64,25,Concluído,Ao leite,150
+1443,2025-04-14 14:05:17,Barra ao leite,Barra,Mercado,Curitiba,5,8.48,6.15,0,Concluído,Ao leite,90
+1304,2025-04-02 21:13:37,Barra ao leite,Barra,Web,Maringá,3,8.48,6.15,0,Concluído,Ao leite,90
+836,2025-04-29 16:38:34,Barra ao leite,Barra,Mercado,Curitiba,4,8.48,6.15,25,Concluído,Ao leite,90
+716,2024-04-05 15:08:00,Caixa de bombons,Caixa,Loja física,Maringá,3,24,15.5,0,Concluído,Misto,250
+1084,2025-06-18 11:56:44,Barra amarga,Barra,Mercado,Curitiba,2,11.66,8.16,15,Concluído,Amargo,90
+489,2024-05-26 14:03:12,Ovo tradicional,Ovo,Loja física,Maringá,2,55,37,0,Concluído,Ao leite,250
+903,2025-04-25 20:12:01,Ovo premium,Ovo,Web,Maringá,1,100.7,47.7,20,Concluído,Amargo,350
+321,2024-03-18 13:43:47,Ovo infantil,Ovo,Mercado,Cascavel,5,65,44,0,Concluído,Ao leite,150
+130,2024-03-17 19:09:47,Ovo tradicional,Ovo,Loja física,Cascavel,1,55,37,5,Concluído,Ao leite,250
+367,2024-04-07 10:42:33,Barra amarga,Barra,Mercado,Cascavel,4,11,7.7,25,Concluído,Amargo,90
+1245,2025-04-12 12:19:31,Barra amarga,Barra,Mercado,Cascavel,4,11.66,8.16,0,Concluído,Amargo,90
+441,2024-03-07 19:19:51,Caixa de bombons,Caixa,Web,Cascavel,1,24,15.5,0,Concluído,Misto,250
+118,2024-04-24 16:02:26,Caixa de bombons,Caixa,Mercado,Londrina,3,24,15.5,15,Concluído,Misto,250
+1065,2025-04-27 16:27:28,Ovo premium,Ovo,Loja física,Londrina,3,100.7,47.7,0,Concluído,Amargo,350
+603,2024-05-29 19:15:21,Barra ao leite,Barra,Mercado,Maringá,3,8,5.8,15,Concluído,Ao leite,90
+662,2024-03-28 20:47:53,Ovo premium,Ovo,Web,Cascavel,1,95,45,0,Concluído,Amargo,350
+29,2024-03-24 13:19:10,Ovo infantil,Ovo,Loja física,Curitiba,1,65,44,0,Concluído,Ao leite,150
+317,2024-01-15 20:43:01,Barra ao leite,Barra,Web,Cascavel,2,8,5.8,5,Concluído,Ao leite,90
+644,2024-03-19 19:01:29,Barra amarga,Barra,Mercado,Londrina,5,11,7.7,0,Devolvido,Amargo,90
+385,2024-03-08 19:47:28,Barra ao leite,Barra,Mercado,Maringá,7,8,5.8,0,Concluído,Ao leite,90
+440,2024-04-05 16:37:32,Barra ao leite,Barra,Loja física,Cascavel,3,8,5.8,20,Concluído,Ao leite,90
+1311,2025-02-27 20:06:18,Caixa de bombons,Caixa,Web,Curitiba,1,25.44,16.43,10,Concluído,Misto,250
+1474,2025-05-08 14:11:27,Ovo premium,Ovo,Mercado,Curitiba,7,100.7,47.7,15,Concluído,Amargo,350
+749,2024-03-31 17:57:26,Barra amarga,Barra,Loja física,Maringá,3,11,7.7,0,Concluído,Amargo,90
+484,2024-03-06 14:25:33,Caixa de bombons,Caixa,Mercado,Curitiba,7,24,15.5,0,Concluído,Misto,250
+819,2025-06-09 18:58:21,Caixa de bombons,Caixa,Loja física,Maringá,2,25.44,16.43,20,Concluído,Misto,250
+595,2024-03-19 22:43:48,Ovo premium,Ovo,Web,Londrina,1,95,45,5,Concluído,Amargo,350
+775,2025-01-26 20:17:50,Ovo infantil,Ovo,Web,Curitiba,1,68.9,46.64,0,Concluído,Ao leite,150
+53,2024-03-12 16:23:04,Ovo tradicional,Ovo,Mercado,Maringá,3,55,37,10,Concluído,Ao leite,250
+1054,2025-04-12 22:30:04,Ovo premium,Ovo,Web,Londrina,2,100.7,47.7,10,Concluído,Amargo,350
+1406,2025-04-14 20:28:34,Caixa de bombons,Caixa,Web,Curitiba,1,25.44,16.43,10,Concluído,Misto,250
+192,2024-03-19 19:44:16,Caixa de bombons,Caixa,Mercado,Curitiba,4,24,15.5,10,Concluído,Misto,250
+210,2024-04-04 18:56:22,Ovo tradicional,Ovo,Loja física,Maringá,-1,55,37,15,Concluído,Ao leite,250
+732,2024-03-20 09:50:02,Ovo tradicional,Ovo,Mercado,Curitiba,2,55,37,0,Concluído,Ao leite,250
+503,2024-03-25 10:08:02,Caixa de bombons,Caixa,Mercado,Curitiba,3,24,15.5,0,Concluído,Misto,250
+1287,2025-03-26 19:33:17,Ovo premium,Ovo, loja física ,Cascavel,3,100.7,47.7,0,Concluído,Amargo,350
+695,2024-03-28 13:36:08,Caixa de bombons,Caixa,Mercado,Londrina,6,24,15.5,10,Concluído,Misto,250
+981,2025-04-07 12:20:12,Barra ao leite,Barra,Mercado,Londrina,2,8.48,6.15,10,Concluído,Ao leite,90
+643,2024-03-22 11:29:35,Barra amarga,Barra,Mercado,Londrina,5,11,7.7,0,Concluído,Amargo,90
+396,2024-03-24 11:10:04,Ovo infantil,Ovo, mercado ,Curitiba,2,65,44,0,Concluído,Ao leite,150
+487,2024-03-23 22:59:26,Ovo infantil,Ovo,Web,Cascavel,1,65,44,0,Concluído,Ao leite,150
+1217,2025-04-23 19:53:42,Barra ao leite,Barra,Loja física,Londrina,3,8.48,6.15,10,Concluído,Ao leite,90
+431,2024-03-20 22:06:09,Ovo premium,Ovo,Web,Londrina,3,95,45,0,Concluído,Amargo,350
+274,2024-01-09 09:12:15,Caixa de bombons,Caixa,Mercado,Maringá,7,24,15.5,0,Concluído,Misto,250
+757,2025-01-04 15:32:20,Barra amarga,Barra,Mercado,Maringá,5,11.66,8.16,5,Concluído,Amargo,90
+914,2025-04-21 14:04:40,Barra amarga,Barra,Mercado,Maringá,7,11.66,8.16,10,Concluído,Amargo,90
+1141,2025-04-07 16:03:19,Barra ao leite,Barra,Mercado,Maringá,7,8.48,6.15,0,Concluído,Ao leite,90
+35,2024-03-29 17:56:34,Ovo tradicional,Ovo,Loja física,Cascavel,1,55,37,0,Concluído,Ao leite,250
+602,2024-03-23 14:38:06,Caixa de bombons,Caixa,Mercado,Maringá,7,24,15.5,5,Concluído,Misto,250
+924,2025-03-31 21:21:31,Ovo tradicional,Ovo, web ,Curitiba,3,58.3,39.22,5,Concluído,Ao leite,250
+651,2024-03-20 09:41:33,Ovo tradicional,Ovo,Mercado,Maringá,2,55,37,5,Concluído,Ao leite,250
+1058,2025-04-05 19:42:26,Caixa de bombons,Caixa,Web,Curitiba,2,25.44,16.43,0,Concluído,Misto,250
+670,2024-03-24 22:01:53,Ovo tradicional,Ovo,Web,Londrina,1,55,37,0,Concluído,Ao leite,250
+1363,2025-04-25 19:03:55,Ovo tradicional,Ovo,Web,Cascavel,2,58.3,39.22,25,Concluído,Ao leite,250
+899,2025-04-21 09:48:40,Barra amarga,Barra,Loja física,Londrina,2,11.66,8.16,20,Concluído,Amargo,90
+1271,2025-03-31 20:29:51,Barra ao leite,Barra,Web,Londrina,2,8.48,6.15,10,Concluído,Ao leite,90
+87,2024-04-01 09:56:42,Caixa de bombons,Caixa,Mercado,Maringá,4,24,15.5,0,Concluído,Misto,250
+1382,2025-04-17 10:53:25,Caixa de bombons,Caixa,Mercado,Maringá,6,25.44,16.43,0,Concluído,Misto,250
+1046,2025-04-06 13:37:33,Ovo tradicional,Ovo,Loja física,Curitiba,3,58.3,39.22,5,Concluído,Ao leite,250
+1091,2025-04-08 18:43:51,Caixa de bombons,Caixa,Mercado,Londrina,5,25.44,16.43,0,Concluído,Misto,250
+45,2024-06-18 18:54:24,Ovo infantil,Ovo,Loja física,Londrina,2,65,44,25,Concluído,Ao leite,150
+1461,2025-03-28 20:35:53,Ovo premium,Ovo,Web,Maringá,1,100.7,47.7,0,Concluído,Amargo,350
+709,2024-03-28 16:33:12,Ovo infantil,Ovo,Loja física,Maringá,1,65,44,0,Concluído,Ao leite,150
+1102,2025-01-13 15:44:32,Barra ao leite,Barra,Mercado,Curitiba,5,8.48,6.15,10,Concluído,Ao leite,90
+1039,2025-03-21 14:20:53,Caixa de bombons,Caixa,Mercado,Maringá,4,25.44,16.43,0,Concluído,Misto,250
+457,2024-03-19 19:10:53,Barra ao leite,Barra,Mercado,Londrina,5,8,5.8,0,Concluído,Ao leite,90
+203,2024-03-19 13:02:58,Barra ao leite,Barra,Mercado,Curitiba,5,8,5.8,0,Concluído,Ao leite,90
+435,2024-04-14 11:03:30,Ovo premium,Ovo,Loja física,Curitiba,1,95,45,10,Concluído,Amargo,350
+838,2025-02-01 10:10:20,Caixa de bombons,Caixa,Mercado,Londrina,5,25.44,16.43,0,Concluído,Misto,250
+1189,2025-01-23 15:18:25,Barra ao leite,Barra,Loja física,Cascavel,3,8.48,6.15,0,Concluído,Ao leite,90
+1266,2025-04-14 09:39:57,Barra ao leite,Barra,Mercado,Cascavel,4,8.48,6.15,0,Concluído,Ao leite,90
+1338,2025-04-19 19:31:27,Barra ao leite,Barra,Mercado,Curitiba,2,8.48,6.15,5,Concluído,Ao leite,90
+948,2025-04-27 15:13:28,Caixa de bombons,Caixa,Loja física,Curitiba,3,25.44,16.43,15,Concluído,Misto,250
+1220,2025-04-16 10:48:01,Barra amarga,Barra,Mercado,Londrina,6,11.66,8.16,0,Concluído,Amargo,90
+1122,2025-02-19 21:50:42,Barra ao leite,Barra, web ,Londrina,2,8.48,6.15,0,Concluído,Ao leite,90
+242,2024-03-26 11:10:50,Barra ao leite,Barra,Mercado,Maringá,3,8,5.8,10,Concluído,Ao leite,90
+337,2024-06-26 19:29:02,Barra ao leite,Barra,Web,Londrina,3,8,5.8,10,Concluído,Ao leite,90
+861,2025-01-08 19:51:49,Barra amarga,Barra,Loja física,Maringá,2,11.66,8.16,5,Concluído,Amargo,90
+1479,2025-05-03 10:29:40,Ovo premium,Ovo,Loja física,Cascavel,1,100.7,47.7,0,Concluído,Amargo,350
+215,2024-01-14 14:53:13,Barra ao leite,Barra,Mercado,Maringá,3,8,5.8,5,Concluído,Ao leite,90
+746,2024-01-24 09:50:28,Caixa de bombons,Caixa,Mercado,Londrina,2,24,15.5,5,Concluído,Misto,250
+254,2024-01-01 15:35:24,Barra amarga,Barra,Mercado,Cascavel,2,11,7.7,0,Concluído,Amargo,90
+1184,2025-02-05 20:16:25,Barra amarga,Barra,Web,Curitiba,3,11.66,8.16,0,Concluído,Amargo,90
+230,2024-03-29 19:27:35,Barra amarga,Barra,Loja física,Londrina,1,11,7.7,0,Concluído,Amargo,90
+961,2025-04-13 19:29:00,Caixa de bombons,Caixa,Loja física,Londrina,2,25.44,16.43,5,Concluído,Misto,250
+266,2024-03-09 19:12:11,Barra ao leite,Barra,Web,Curitiba,2,8,5.8,0,Devolvido,Ao leite,90
+21,2024-03-12 09:27:59,Ovo infantil,Ovo,Loja física,Curitiba,2,65,44,10,Concluído,Ao leite,150
+1012,2025-04-04 14:45:25,Barra ao leite,Barra,Mercado,Maringá,6,8.48,6.15,5,Concluído,Ao leite,90
+256,2024-01-09 18:37:50,Barra amarga,Barra,Mercado,Cascavel,7,11,7.7,10,Concluído,Amargo,90
+606,2024-03-27 18:02:40,Ovo tradicional,Ovo,Loja física,Curitiba,2,55,37,10,Concluído,Ao leite,250
+1249,2025-03-06 18:40:24,Barra amarga,Barra,Mercado,Curitiba,7,11.66,8.16,0,Concluído,Amargo,90
+1456,2025-03-25 19:38:27,Barra ao leite,Barra,Web,Cascavel,2,8.48,6.15,0,Concluído,Ao leite,90
+100,2024-05-27 18:05:50,Caixa de bombons,Caixa,Loja física,Maringá,1,24,15.5,10,Concluído,Misto,250
+339,2024-03-28 15:10:03,Barra amarga,Barra,Mercado,Curitiba,2,11,7.7,10,Concluído,Amargo,90
+1166,2025-04-02 09:39:08,Ovo premium,Ovo,Loja física,Curitiba,1,100.7,47.7,5,Concluído,Amargo,350
+350,2024-03-24 13:09:40,Ovo tradicional,Ovo,Loja física,Londrina,3,55,37,5,Concluído,Ao leite,250
+922,2025-04-07 15:23:08,Caixa de bombons,Caixa,Mercado,Maringá,7,25.44,16.43,0,Concluído,Misto,250
+282,2024-03-14 16:09:58,Ovo tradicional,Ovo,Loja física,Cascavel,1,55,37,0,Concluído,Ao leite,250
+941,2025-04-16 09:34:32,Barra amarga,Barra,Mercado,Cascavel,5,11.66,8.16,0,Concluído,Amargo,90
+450,2024-02-16 21:42:33,Barra ao leite,Barra,Web,Maringá,2,8,5.8,0,Concluído,Ao leite,90
+832,2025-05-06 22:28:07,Ovo premium,Ovo,Web,Cascavel,3,100.7,47.7,20,Concluído,Amargo,350
+340,2024-03-20 12:06:43,Barra ao leite,Barra,Mercado,Curitiba,2,8,5.8,5,Concluído,Ao leite,90
+1211,2025-04-24 14:59:07,Caixa de bombons,Caixa,Mercado,Cascavel,7,25.44,16.43,15,Concluído,Misto,250
+649,2024-03-18 21:04:46,Ovo tradicional,Ovo,Web,Curitiba,1,55,37,5,Concluído,Ao leite,250
+1247,2025-04-02 17:30:07,Barra amarga,Barra,Mercado,Maringá,4,11.66,8.16,5,Concluído,Amargo,90
+1485,2025-04-05 19:32:19,Ovo premium,Ovo, web ,Curitiba,3,100.7,47.7,5,Concluído,Amargo,350
+685,2024-04-17 13:09:52,Ovo premium,Ovo,Loja física,Londrina,1,95,45,20,Concluído,Amargo,350
+1044,2025-04-30 14:26:56,Caixa de bombons,Caixa,Mercado,Maringá,6,25.44,16.43,15,Concluído,Misto,250
+61,2024-05-05 19:45:34,Caixa de bombons,Caixa,Web,Cascavel,2,24,15.5,25,Concluído,Misto,250
+823,2025-04-15 21:53:15,Ovo premium,Ovo,Web,Cascavel,3,100.7,47.7,10,Concluído,Amargo,350
+1259,2025-05-13 19:24:14,Ovo premium,Ovo,Loja física,Curitiba,3,100.7,47.7,25,Concluído,Amargo,350
+195,2024-04-02 11:11:32,Barra ao leite,Barra,Mercado,Maringá,4,8,5.8,25,Concluído,Ao leite,90
+145,2024-01-18 16:37:18,Barra amarga,Barra,Loja física,Maringá,1,11,7.7,0,Concluído,Amargo,90
+190,2024-03-17 22:07:33,Ovo premium,Ovo,Web,Cascavel,2,95,,0,Concluído,Amargo,350
+544,2024-03-24 16:09:17,Barra ao leite,Barra,Mercado,Curitiba,6,8,5.8,0,Concluído,Ao leite,90
+799,2025-03-18 18:21:34,Barra ao leite,Barra,Web,Londrina,2,8.48,6.15,0,Concluído,Ao leite,90
+768,2025-04-04 12:09:34,Ovo tradicional,Ovo,Loja física,Londrina,2,58.3,39.22,0,Concluído,Ao leite,250
+534,2024-03-07 16:02:51,Barra amarga,Barra,Loja física,Maringá,2,11,7.7,0,Concluído,Amargo,90
+327,2024-03-24 12:45:34,Ovo tradicional,Ovo,Loja física,Curitiba,1,55,37,0,Concluído,Ao leite,250
+401,2024-04-10 17:52:30,Barra ao leite,Barra,Mercado,Cascavel,2,8,5.8,15,Concluído,Ao leite,90
+779,2025-03-15 21:15:09,Barra ao leite,Barra,Web,Curitiba,3,8.48,6.15,5,Concluído,Ao leite,90
+1316,2025-04-08 19:50:43,Ovo infantil,Ovo,Mercado,Cascavel,4,68.9,46.64,10,Concluído,Ao leite,150
+9,2024-04-01 19:58:10,Barra ao leite,Barra,Web,Cascavel,1,8,5.8,20,Concluído,Ao leite,90
+762,2025-01-30 10:31:04,Barra amarga,Barra,Loja física,Maringá,1,11.66,8.16,0,Concluído,Amargo,90
+1333,2025-03-16 19:22:16,Caixa de bombons,Caixa,Web,Maringá,2,25.44,16.43,0,Concluído,Misto,250
+463,2024-04-04 10:58:21,Ovo tradicional,Ovo,Loja física,Cascavel,2,55,37,15,Concluído,Ao leite,250
+1483,2025-04-13 14:46:53,Ovo infantil,Ovo,Loja física,Cascavel,3,68.9,46.64,0,Concluído,Ao leite,150
+1480,data_invalida,Barra ao leite,Barra,Mercado,Londrina,2,8.48,6.15,0,Concluído,Ao leite,90
+866,2025-03-19 12:18:27,Caixa de bombons,Caixa,Mercado,Maringá,4,25.44,16.43,0,Concluído,Misto,250
+807,2025-04-21 18:59:30,Ovo tradicional,Ovo,Loja física,Curitiba,2,58.3,39.22,0,Concluído,Ao leite,250
+299,2024-05-19 15:39:08,Caixa de bombons,Caixa,Mercado,Curitiba,4,24,15.5,10,Concluído,Misto,250
+724,2024-03-26 19:07:37,Ovo tradicional,Ovo,Loja física,Londrina,2,55,37,0,Concluído,Ao leite,250
+349,2024-03-12 19:54:16,Ovo premium,Ovo,Web,Curitiba,3,95,45,0,Concluído,Amargo,350
+13,2024-03-14 11:26:07,Ovo tradicional,Ovo,Mercado,Londrina,2,55,37,0,Concluído,Ao leite,250
+15,2024-04-10 16:16:45,Ovo premium,Ovo,Loja física,Curitiba,3,95,45,20,Concluído,Amargo,350
+1014,2025-06-23 21:00:24,Caixa de bombons,Caixa,Web,Cascavel,2,25.44,16.43,0,Concluído,Misto,250
+98,2024-04-04 18:36:29,Barra ao leite,Barra,Mercado,Maringá,7,8,5.8,25,Concluído,Ao leite,90
+1460,2025-02-11 15:33:50,Caixa de bombons,Caixa,Loja física,Curitiba,3,25.44,16.43,0,Concluído,Misto,250
+678,2024-04-02 18:33:41,Barra ao leite,Barra,Loja física,Londrina,3,8,5.8,20,Concluído,Ao leite,90
+1038,2025-04-02 13:25:09,Barra ao leite,Barra,Loja física,Curitiba,1,8.48,6.15,0,Concluído,Ao leite,90
+1139,2025-04-15 18:03:48,Barra ao leite,Barra,Web,Londrina,3,8.48,6.15,5,Concluído,Ao leite,90
+1252,2025-02-22 16:50:43,Caixa de bombons,Caixa,Mercado,Maringá,3,25.44,16.43,0,Concluído,Misto,250
+540,2024-04-03 18:39:37,Ovo tradicional,Ovo,Web,Maringá,3,55,37,25,Concluído,Ao leite,250
+284,2024-03-13 12:45:19,Ovo tradicional,Ovo,Loja física,Londrina,3,55,37,5,Concluído,Ao leite,250
+1330,2025-04-30 19:19:16,Ovo tradicional,Ovo,Mercado,Maringá,6,58.3,,15,Concluído,Ao leite,250
+1179,2025-05-31 13:08:05,Barra ao leite,Barra,Mercado,Londrina,3,8.48,6.15,10,Cancelado,Ao leite,90
+1130,2025-04-10 12:45:13,Caixa de bombons,Caixa,Mercado,Cascavel,6,25.44,16.43,10,Concluído,Misto,250
+782,2025-04-20 21:46:44,Ovo infantil,Ovo,Web,Curitiba,3,68.9,46.64,0,Concluído,Ao leite,150
+735,2024-03-17 22:31:04,Ovo tradicional,Ovo,Web,Londrina,1,55,37,0,Cancelado,Ao leite,250
+1129,2025-04-01 09:08:28,Ovo tradicional,Ovo,Mercado,Londrina,5,58.3,39.22,10,Concluído,Ao leite,250
+288,2024-03-30 13:38:15,Ovo premium,Ovo,Loja física,Maringá,1,95,45,0,Concluído,Amargo,350
+1393,2025-04-06 22:32:54,Ovo infantil,Ovo,Web,Curitiba,2,68.9,46.64,5,Concluído,Ao leite,150
+1109,2025-05-08 18:10:59,Ovo infantil,Ovo,Loja física,Curitiba,1,68.9,46.64,15,Concluído,Ao leite,150
+683,2024-01-01 22:25:15,Barra ao leite,Barra,Web,Londrina,2,8,5.8,0,Concluído,Ao leite,90
+206,2024-03-14 19:08:53,Ovo premium,Ovo,Loja física,Curitiba,1,95,45,10,Concluído,Amargo,350
+159,2024-01-01 10:31:30,Barra amarga,Barra,Mercado,Cascavel,4,11,7.7,0,Concluído,Amargo,90
+297,2024-04-02 17:26:27,Caixa de bombons,Caixa, mercado ,Curitiba,4,24,15.5,15,Concluído,Misto,250
+491,2024-03-18 11:56:42,Caixa de bombons,Caixa,Mercado,Curitiba,2,24,15.5,5,Concluído,Misto,250
+976,2025-03-20 11:07:29,Ovo infantil,Ovo,Mercado,Cascavel,7,68.9,46.64,10,Concluído,Ao leite,150
+333,2024-03-14 20:35:54,Ovo premium,Ovo,Web,Cascavel,1,95,45,0,Concluído,Amargo,350
+1302,2025-03-11 13:38:10,Ovo tradicional,Ovo,Loja física,Cascavel,2,58.3,39.22,5,Concluído,Ao leite,250
+1230,2025-03-18 09:23:44,Barra amarga,Barra,Loja física,Cascavel,3,11.66,8.16,0,Concluído,Amargo,90
+1237,2025-03-19 14:26:46,Barra ao leite,Barra,Loja física,Londrina,2,8.48,6.15,0,Concluído,Ao leite,90
+1371,2025-04-16 15:41:29,Ovo tradicional,Ovo,Loja física,Curitiba,1,58.3,39.22,5,Concluído,Ao leite,250
+798,2025-04-04 17:44:35,Caixa de bombons,Caixa,Mercado,Londrina,4,25.44,16.43,10,Concluído,Misto,250
+1358,2025-04-06 13:42:20,Barra ao leite,Barra,Loja física,Maringá,1,8.48,6.15,10,Concluído,Ao leite,90
+994,2025-04-28 22:23:29,Ovo premium,Ovo,Web,Maringá,1,100.7,47.7,0,Concluído,Amargo,350
+335,2024-03-18 17:47:48,Ovo tradicional,Ovo,Loja física,Maringá,1,55,37,10,Concluído,Ao leite,250
+806,2025-03-25 19:38:14,Ovo tradicional,Ovo,Web,Curitiba,3,58.3,39.22,0,Concluído,Ao leite,250
+64,2024-03-26 14:29:29,Caixa de bombons,Caixa,Loja física,Cascavel,3,24,15.5,0,Concluído,Misto,250
+6,2024-03-20 11:31:05,Ovo infantil,Ovo,Loja física,Curitiba,1,65,44,10,Concluído,Ao leite,150
+1219,2025-04-10 13:06:32,Barra ao leite,Barra,Mercado,Londrina,5,8.48,6.15,5,Concluído,Ao leite,90
+526,2024-06-29 16:00:33,Caixa de bombons,Caixa,Mercado,Maringá,2,24,15.5,20,Concluído,Misto,250
+751,2025-02-15 20:46:51,Barra amarga,Barra,Web,Cascavel,2,11.66,8.16,0,Concluído,Amargo,90
+627,2024-04-02 22:01:05,Ovo premium,Ovo, web ,Curitiba,1,95,45,10,Cancelado,Amargo,350
+1395,2025-03-14 21:35:04,Ovo tradicional,Ovo,Web,Maringá,1,58.3,39.22,5,Concluído,Ao leite,250
+565,2024-03-07 14:43:01,Barra ao leite,Barra,Mercado,Londrina,3,8,5.8,0,Concluído,Ao leite,90
+881,2025-04-05 09:11:15,Ovo infantil,Ovo,Loja física,Cascavel,1,68.9,46.64,0,Concluído,Ao leite,150
+1285,2025-04-03 22:59:10,Ovo premium,Ovo,Web,Curitiba,2,100.7,47.7,0,Concluído,Amargo,350
+140,2024-03-19 15:09:05,Barra ao leite,Barra,Loja física,Maringá,3,8,5.8,10,Concluído,Ao leite,90
+535,2024-04-06 09:08:36,Barra ao leite,Barra,Loja física,Maringá,1,8,5.8,15,Concluído,Ao leite,90
+785,2025-03-22 10:51:38,Barra ao leite,Barra,Mercado,Curitiba,4,8.48,6.15,0,Concluído,Ao leite,90
+1335,2025-05-16 19:23:08,Ovo infantil,Ovo,Web,Londrina,1,68.9,46.64,25,Concluído,Ao leite,150
+1275,2025-04-11 19:13:33,Ovo tradicional,Ovo,Web,Cascavel,3,58.3,39.22,10,Concluído,Ao leite,250
+1108,2025-05-03 19:34:37,Ovo infantil,Ovo,Loja física,Curitiba,1,68.9,46.64,0,Concluído,Ao leite,150
+1294,2025-01-08 18:22:59,Caixa de bombons,Caixa,Loja física,Maringá,2,25.44,16.43,0,Concluído,Misto,250
+920,2025-03-20 18:52:58,Barra amarga,Barra,Web,Cascavel,1,11.66,8.16,0,Concluído,Amargo,90
+351,2024-05-09 13:33:11,Caixa de bombons,Caixa,Mercado,Maringá,6,24,15.5,10,Concluído,Misto,250
+614,2024-03-31 19:33:09,Ovo premium,Ovo,Loja física,Curitiba,1,95,45,0,Concluído,Amargo,350
+97,2024-03-22 17:53:14,Caixa de bombons,Caixa,Mercado,Curitiba,2,24,15.5,10,Concluído,Misto,250
+1298,2025-01-11 15:17:02,Barra ao leite,Barra,Mercado,Cascavel,2,8.48,6.15,0,Concluído,Ao leite,90
+1434,2025-04-25 09:59:04,Caixa de bombons,Caixa,Mercado,Curitiba,7,25.44,16.43,0,Concluído,Misto,250
+1277,2025-04-20 13:45:46,Barra ao leite,Barra,Mercado,Maringá,4,8.48,6.15,5,Concluído,Ao leite,90
+199,2024-03-03 14:08:24,Caixa de bombons,Caixa,Loja física,Cascavel,1,24,15.5,0,Concluído,Misto,250
+144,2024-03-21 17:58:25,Barra ao leite,Barra,Mercado,Maringá,4,8,5.8,10,Concluído,Ao leite,90
+460,2024-03-26 18:50:47,Ovo premium,Ovo,Loja física,Cascavel,1,95,45,0,Concluído,Amargo,350
+1193,2025-01-27 11:20:00,Caixa de bombons,Caixa,Mercado,Maringá,5,25.44,16.43,0,Concluído,Misto,250
+1203,2025-04-26 14:16:26,Ovo infantil,Ovo,Loja física,Curitiba,2,68.9,46.64,25,Concluído,Ao leite,150
+955,2025-05-19 21:53:34,Ovo premium,Ovo,Web,Cascavel,3,100.7,47.7,0,Concluído,Amargo,350
+1213,2025-03-30 15:10:02,Barra ao leite,Barra,Mercado,Curitiba,6,8.48,6.15,0,Concluído,Ao leite,90
+1056,2025-04-20 12:48:22,Ovo infantil,Ovo, loja física ,Maringá,3,68.9,46.64,0,Concluído,Ao leite,150
+790,2025-04-02 19:59:58,Barra amarga,Barra,Loja física,Maringá,2,11.66,8.16,10,Concluído,Amargo,90
+1308,2025-04-12 09:26:53,Barra amarga,Barra,Mercado,Maringá,2,11.66,8.16,5,Concluído,Amargo,90
+229,2024-04-06 14:48:49,Caixa de bombons,Caixa,Loja física,Cascavel,2,24,15.5,0,Concluído,Misto,250
+618,2024-03-25 21:42:46,Caixa de bombons,Caixa,Web,Maringá,2,24,15.5,0,Devolvido,Misto,250
+357,2024-03-11 18:44:12,Ovo premium,Ovo,Web,Curitiba,2,95,45,0,Devolvido,Amargo,350
+921,2025-04-10 16:36:12,Ovo infantil,Ovo,Loja física,Curitiba,3,68.9,46.64,5,Concluído,Ao leite,150
+1040,2025-04-07 14:06:00,Caixa de bombons,Caixa,Loja física,Maringá,1,25.44,16.43,10,Concluído,Misto,250
+1497,2025-04-04 19:11:30,Ovo premium,Ovo,Loja física,Londrina,1,100.7,47.7,0,Concluído,Amargo,350
+218,2024-05-19 15:30:04,Barra amarga,Barra,Loja física,Londrina,2,11,7.7,25,Concluído,Amargo,90
+672,2024-03-16 19:57:43,Ovo infantil,Ovo,Web,Maringá,3,65,44,5,Concluído,Ao leite,150
+1187,2025-04-24 09:07:14,Caixa de bombons,Caixa,Mercado,Maringá,6,25.44,16.43,0,Concluído,Misto,250
+88,2024-03-03 20:15:39,Ovo infantil,Ovo,Web,Curitiba,2,65,44,0,Concluído,Ao leite,150
+1119,2025-05-04 10:55:45,Barra ao leite,Barra,Mercado,Maringá,4,8.48,6.15,10,Concluído,Ao leite,90
+7,2024-02-09 13:45:26,Barra ao leite,Barra,Mercado,Cascavel,6,8,5.8,10,Concluído,Ao leite,90
+586,2024-04-05 19:24:19,Caixa de bombons,Caixa,Mercado,Londrina,6,24,15.5,0,Cancelado,Misto,250
+615,2024-02-23 18:34:16,Caixa de bombons,Caixa,Web,Maringá,1,24,15.5,10,Concluído,Misto,250
+1439,2025-04-14 10:08:27,Ovo infantil,Ovo,Mercado,Maringá,4,68.9,46.64,0,Concluído,Ao leite,150
+1250,2025-03-19 18:02:30,Barra amarga,Barra,Mercado,Cascavel,5,,8.16,0,Concluído,Amargo,90
+945,2025-04-06 12:12:59,Ovo infantil,Ovo,Loja física,Cascavel,2,68.9,46.64,5,Concluído,Ao leite,150
+455,2024-02-25 12:35:51,Caixa de bombons,Caixa,Mercado,Curitiba,3,24,15.5,0,Concluído,Misto,250
+223,2024-06-29 17:58:34,Ovo tradicional,Ovo,Loja física,Cascavel,1,55,37,20,Concluído,Ao leite,250
+1120,2025-04-25 17:01:40,Caixa de bombons,Caixa,Mercado,Maringá,5,25.44,16.43,10,Concluído,Misto,250
+1043,2025-06-26 14:02:35,Caixa de bombons,Caixa,Mercado,Curitiba,3,25.44,16.43,25,Concluído,Misto,250
+1350,2025-03-12 20:14:06,Ovo tradicional,Ovo,Web,Curitiba,1,58.3,39.22,10,Concluído,Ao leite,250
+154,2024-04-03 16:07:08,Caixa de bombons,Caixa,Mercado,Curitiba,3,24,15.5,10,Concluído,Misto,250
+1128,2025-03-31 14:09:40,Caixa de bombons,Caixa,Mercado,Maringá,7,25.44,16.43,0,Concluído,Misto,250
+1111,2025-03-14 15:51:06,Caixa de bombons,Caixa,Mercado,Curitiba,4,25.44,16.43,0,Concluído,Misto,250
+1331,2025-03-25 20:17:45,Barra ao leite,Barra,Web,Cascavel,1,8.48,6.15,0,Concluído,Ao leite,90
+1032,2025-03-20 12:49:19,Caixa de bombons,Caixa,Mercado,Maringá,7,25.44,16.43,5,Concluído,Misto,250
+766,2025-04-24 15:58:51,Ovo tradicional,Ovo,Loja física,Maringá,2,58.3,39.22,10,Concluído,Ao leite,250
+1138,2025-03-24 19:55:28,Ovo infantil,Ovo,Web,Cascavel,2,68.9,46.64,0,Concluído,Ao leite,150
+616,2024-03-18 20:34:03,Barra amarga,Barra,Web,Maringá,1,11,7.7,10,Concluído,Amargo,90
+834,2025-04-17 09:19:33,Ovo premium,Ovo,Loja física,Maringá,2,100.7,47.7,0,Concluído,Amargo,350
+814,2025-05-22 13:33:43,Barra amarga,Barra,Mercado,Londrina,6,11.66,8.16,0,Devolvido,Amargo,90
+693,2024-04-10 16:56:51,Ovo tradicional,Ovo, mercado ,Curitiba,6,55,37,0,Concluído,Ao leite,250
+1023,2025-04-09 09:55:32,Caixa de bombons,Caixa, mercado ,Cascavel,5,25.44,16.43,10,Concluído,Misto,250
+167,2024-03-19 18:55:28,Ovo tradicional,Ovo,Web,Curitiba,1,55,37,0,Concluído,Ao leite,250
+953,2025-04-18 09:42:26,Barra amarga,Barra,Mercado,Cascavel,6,11.66,8.16,0,Concluído,Amargo,90
+1145,2025-05-13 13:21:04,Ovo infantil,Ovo,Loja física,Cascavel,1,68.9,46.64,0,Concluído,Ao leite,150
+466,2024-03-20 12:50:19,Barra amarga,Barra,Mercado,Cascavel,3,11,7.7,0,Concluído,Amargo,90
+722,2024-03-30 16:28:27,Barra amarga,Barra,Loja física,Londrina,1,11,7.7,0,Concluído,Amargo,90
+1190,2025-03-29 20:51:36,Caixa de bombons,Caixa,Web,Maringá,2,25.44,16.43,0,Concluído,Misto,250
+240,2024-03-07 22:41:59,Ovo tradicional,Ovo,Web,Maringá,1,55,37,10,Concluído,Ao leite,250
+31,2024-03-27 20:18:19,Ovo infantil,Ovo,Web,Maringá,1,65,44,5,Concluído,Ao leite,150
+867,2025-04-21 12:50:48,Ovo tradicional,Ovo,Loja física,Maringá,2,58.3,39.22,25,Concluído,Ao leite,250
+729,2024-03-01 15:35:44,Caixa de bombons,Caixa,Mercado,Maringá,7,24,15.5,5,Concluído,Misto,250
+271,2024-04-07 12:24:39,Barra ao leite,Barra,Mercado,Curitiba,3,8,5.8,0,Concluído,Ao leite,90
+666,2024-01-24 19:36:02,Barra ao leite,Barra,Mercado,Curitiba,5,8,5.8,0,Concluído,Ao leite,90
+934,2025-04-16 12:49:50,Barra ao leite,Barra,Mercado,Londrina,5,8.48,6.15,5,Concluído,Ao leite,90
+134,2024-03-02 13:28:11,Ovo premium,Ovo,Loja física,Londrina,1,95,45,5,Concluído,Amargo,350
+519,2024-03-26 21:05:09,Barra amarga,Barra,Web,Cascavel,3,11,7.7,0,Concluído,Amargo,90
+1148,2025-04-04 14:44:34,Ovo infantil,Ovo,Mercado,Maringá,4,68.9,46.64,5,Concluído,Ao leite,150
+1246,2025-01-09 20:41:04,Barra amarga,Barra,Web,Cascavel,1,11.66,8.16,5,Concluído,Amargo,90
+153,2024-04-23 16:34:05,Barra ao leite,Barra,Mercado,Curitiba,3,8,5.8,25,Concluído,Ao leite,90
+1384,2025-04-25 16:58:58,Barra ao leite,Barra,Mercado,Maringá,5,8.48,6.15,25,Concluído,Ao leite,90
+888,2025-06-06 19:27:19,Barra ao leite,Barra,Web,Maringá,3,8.48,6.15,25,Concluído,Ao leite,90
+962,2025-04-19 10:03:33,Barra amarga,Barra,Mercado,Curitiba,5,11.66,8.16,0,Concluído,Amargo,90
+105,2024-02-29 20:51:09,Barra ao leite,Barra,Web,Maringá,2,8,5.8,0,Concluído,Ao leite,90
+821,2025-04-10 10:22:36,Barra ao leite,Barra,Mercado,Cascavel,2,8.48,6.15,10,Concluído,Ao leite,90
+478,2024-05-10 12:30:30,Caixa de bombons,Caixa,Loja física,Maringá,1,24,15.5,10,Concluído,Misto,250
+1329,2025-04-14 16:29:00,Barra amarga,Barra,Mercado,Londrina,3,11.66,8.16,5,Concluído,Amargo,90
+705,2024-04-20 18:26:21,Barra ao leite,Barra,Mercado,Curitiba,2,8,5.8,25,Concluído,Ao leite,90
+506,2024-03-14 19:39:43,Barra ao leite,Barra,Mercado,Maringá,7,8,5.8,0,Concluído,Ao leite,90
+296,2024-03-01 18:47:20,Barra amarga,Barra,Mercado,Maringá,2,11,7.7,10,Concluído,Amargo,90
+605,2024-03-24 14:44:17,Barra amarga,Barra,Mercado,Maringá,4,11,7.7,0,Concluído,Amargo,90
+379,2024-04-29 16:39:21,Barra amarga,Barra,Loja física,Londrina,3,11,7.7,25,Concluído,Amargo,90
+48,2024-04-19 09:29:37,Caixa de bombons,Caixa,Mercado,Maringá,5,24,15.5,15,Devolvido,Misto,250
+896,2025-06-21 16:23:10,Barra ao leite,Barra,Loja física,Maringá,2,8.48,6.15,15,Concluído,Ao leite,90
+202,2024-03-18 22:21:02,Ovo premium,Ovo,Web,Londrina,3,95,45,5,Devolvido,Amargo,350
+1208,2025-05-14 18:42:42,Caixa de bombons,Caixa,Mercado,Londrina,4,25.44,16.43,15,Concluído,Misto,250
+1176,2025-04-28 17:12:37,Ovo infantil,Ovo,Loja física,Curitiba,3,68.9,46.64,10,Concluído,Ao leite,150
+1182,2025-04-09 15:43:39,Barra amarga,Barra,Mercado,Cascavel,7,11.66,8.16,0,Concluído,Amargo,90
+631,2024-04-23 20:19:08,Ovo tradicional,Ovo,Web,Londrina,3,55,37,0,Concluído,Ao leite,250
+403,2024-02-28 15:31:32,Caixa de bombons,Caixa,Mercado,Londrina,4,24,15.5,0,Concluído,Misto,250
+742,2024-04-11 15:14:19,Ovo premium,Ovo,Loja física,Maringá,2,95,45,20,Concluído,Amargo,350
+89,2024-04-01 14:36:57,Barra ao leite,Barra,Mercado,Maringá,3,8,5.8,20,Concluído,Ao leite,90
+1272,2025-04-21 15:51:54,Ovo tradicional,Ovo,Loja física,Maringá,3,58.3,39.22,10,Concluído,Ao leite,250
+577,2024-04-03 16:48:06,Caixa de bombons,Caixa,Loja física,Cascavel,1,24,15.5,15,Concluído,Misto,250
+682,2024-01-05 19:45:39,Barra amarga,Barra,Web,Maringá,2,11,7.7,10,Devolvido,Amargo,90
+1410,2025-04-10 13:49:43,Barra ao leite,Barra,Mercado,Maringá,7,8.48,6.15,0,Concluído,Ao leite,90
+1326,2025-03-06 16:53:51,Ovo tradicional,Ovo,Mercado,Londrina,6,58.3,39.22,10,Concluído,Ao leite,250
+1192,2025-04-25 16:41:23,Ovo premium,Ovo,Loja física,Maringá,3,100.7,47.7,15,Concluído,Amargo,350
+1297,2025-04-24 14:21:53,Caixa de bombons,Caixa,Mercado,Curitiba,5,25.44,16.43,15,Concluído,Misto,250
+41,2024-03-24 20:46:58,Barra ao leite,Barra,Web,Curitiba,2,8,5.8,10,Concluído,Ao leite,90
+1303,2025-01-30 14:27:45,Caixa de bombons,Caixa,Mercado,Cascavel,4,25.44,16.43,10,Concluído,Misto,250
+244,2024-06-03 11:43:23,Barra amarga,Barra,Loja física,Londrina,2,11,7.7,25,Concluído,Amargo,90
+1357,2025-02-02 09:07:06,Barra amarga,Barra,Mercado,Londrina,6,11.66,8.16,0,Concluído,Amargo,90
+783,2025-04-02 09:41:26,Barra amarga,Barra,Mercado,Cascavel,3,11.66,8.16,0,Concluído,Amargo,90
+1205,2025-04-21 18:50:51,Caixa de bombons,Caixa,Mercado,Cascavel,6,25.44,16.43,20,Concluído,Misto,250
+1459,2025-04-19 19:53:37,Ovo premium,Ovo,Loja física,Cascavel,2,100.7,47.7,10,Concluído,Amargo,350
+1341,2025-05-04 22:30:12,Ovo infantil,Ovo,Web,Cascavel,3,68.9,46.64,15,Concluído,Ao leite,150
+283,2024-02-18 21:16:17,Caixa de bombons,Caixa,Web,Curitiba,2,24,15.5,0,Concluído,Misto,250
+1418,2025-01-29 19:15:24,Caixa de bombons,Caixa,Loja física,Maringá,3,25.44,16.43,0,Concluído,Misto,250
+174,2024-03-17 15:39:11,Barra amarga,Barra,Mercado,Londrina,5,11,7.7,0,Concluído,Amargo,90
+197,2024-06-22 15:13:49,Barra ao leite,Barra,Loja física,Maringá,1,8,5.8,20,Concluído,Ao leite,90
+1236,2025-01-26 18:35:07,Caixa de bombons,Caixa,Web,Curitiba,2,25.44,16.43,10,Concluído,Misto,250
+1163,2025-03-30 18:03:19,Caixa de bombons,Caixa,Mercado,Londrina,3,25.44,16.43,10,Concluído,Misto,250
+1455,2025-05-06 09:12:28,Barra amarga,Barra,Loja física,Cascavel,1,11.66,8.16,0,Concluído,Amargo,90
+93,2024-03-09 19:56:59,Caixa de bombons,Caixa,Web,Londrina,2,24,15.5,0,Concluído,Misto,250
+844,2025-05-17 10:14:28,Caixa de bombons,Caixa,Mercado,Cascavel,6,25.44,16.43,10,Concluído,Misto,250
+279,2024-01-28 14:16:48,Caixa de bombons,Caixa,Mercado,Cascavel,2,24,15.5,0,Concluído,Misto,250
+767,2025-04-27 15:42:28,Caixa de bombons,Caixa,Loja física,Londrina,3,25.44,16.43,0,Concluído,Misto,250
+870,2025-04-14 14:21:10,Caixa de bombons,Caixa,Mercado,Curitiba,7,25.44,16.43,10,Concluído,Misto,250
+665,2024-03-20 11:50:11,Barra ao leite,Barra,Mercado,Maringá,4,8,5.8,10,Concluído,Ao leite,90
+1292,2025-04-18 22:36:48,Caixa de bombons,Caixa,Web,Maringá,3,25.44,16.43,5,Concluído,Misto,250
+1053,2025-05-29 16:04:10,Barra amarga,Barra,Loja física,Curitiba,2,11.66,8.16,15,Concluído,Amargo,90
+562,2024-06-15 16:46:10,Caixa de bombons,Caixa,Mercado,Cascavel,2,24,15.5,10,Concluído,Misto,250
+49,2024-05-26 16:25:55,Caixa de bombons,Caixa,Mercado,Cascavel,3,24,15.5,25,Concluído,Misto,250
+980,2025-04-07 09:59:33,Ovo premium,Ovo,Mercado,Londrina,7,100.7,47.7,0,Concluído,Amargo,350
+700,2024-06-16 19:03:36,Barra amarga,Barra,Mercado,Londrina,2,11,7.7,10,Concluído,Amargo,90
+1313,2025-04-17 17:10:46,Caixa de bombons,Caixa,Mercado,Londrina,4,25.44,16.43,0,Concluído,Misto,250
+1227,2025-01-17 18:43:55,Barra amarga,Barra,Web,Londrina,1,11.66,8.16,10,Concluído,Amargo,90
+347,2024-04-07 16:52:56,Barra amarga,Barra,Mercado,Cascavel,7,11,7.7,25,Concluído,Amargo,90
+427,2024-06-22 16:19:03,Barra ao leite,Barra,Loja física,Maringá,1,8,5.8,0,Concluído,Ao leite,90
+234,2024-06-26 12:21:32,Barra ao leite,Barra,Loja física,Maringá,2,8,5.8,15,Concluído,Ao leite,90
+1147,2025-06-02 16:32:28,Barra ao leite,Barra,Loja física,Cascavel,2,8.48,6.15,20,Concluído,Ao leite,90
+168,2024-03-27 09:02:29,Ovo infantil,Ovo,Loja física,Cascavel,2,65,44,0,Concluído,Ao leite,150
+755,2025-04-02 19:09:17,Barra ao leite,Barra,Web,Maringá,1,8.48,6.15,10,Concluído,Ao leite,90
+1019,2025-05-03 17:18:11,Ovo tradicional,Ovo,Loja física,Curitiba,2,58.3,39.22,15,Concluído,Ao leite,250
+1469,2025-04-08 12:02:48,Barra amarga,Barra,Mercado,Maringá,5,11.66,8.16,0,Concluído,Amargo,90
+275,2024-04-13 13:11:27,Barra ao leite,Barra,Loja física,Maringá,2,8,5.8,25,Concluído,Ao leite,90
+20,2024-03-10 10:30:34,Barra ao leite,Barra,Loja física,Curitiba,1,8,5.8,0,Concluído,Ao leite,90
+1115,2025-03-02 19:06:38,Ovo tradicional,Ovo,Web,Curitiba,3,58.3,39.22,10,Concluído,Ao leite,250
+205,2024-04-26 20:21:56,Ovo premium,Ovo,Web,Maringá,1,95,45,25,Concluído,Amargo,350
+580,2024-03-10 22:26:13,Ovo premium,Ovo,Web,Cascavel,1,95,45,0,Concluído,Amargo,350
+239,2024-03-20 09:06:47,Barra amarga,Barra,Mercado,Londrina,5,11,7.7,5,Concluído,Amargo,90
+734,2024-03-23 15:16:39,Caixa de bombons,Caixa,Mercado,Maringá,6,24,15.5,0,Concluído,Misto,250
+55,2024-04-01 22:03:07,Caixa de bombons,Caixa,Web,Cascavel,2,24,15.5,25,Concluído,Misto,250
+60,2024-04-01 18:55:45,Ovo infantil,Ovo,Web,Maringá,1,65,44,0,Concluído,Ao leite,150
+1101,2025-03-19 12:15:39,Caixa de bombons,Caixa,Loja física,Maringá,3,25.44,16.43,0,Concluído,Misto,250
+1070,2025-04-08 14:21:57,Barra ao leite,Barra,Loja física,Londrina,3,8.48,6.15,0,Concluído,Ao leite,90
+886,2025-01-07 14:00:47,Barra amarga,Barra,Mercado,Londrina,7,11.66,8.16,5,Concluído,Amargo,90
+847,2025-04-01 19:29:46,Ovo infantil,Ovo,Loja física,Curitiba,3,68.9,46.64,5,Concluído,Ao leite,150
+858,2025-03-19 12:20:10,Barra ao leite,Barra, mercado ,Londrina,7,8.48,6.15,0,Concluído,Ao leite,90
+39,2024-01-12 18:32:34,Caixa de bombons,Caixa,Loja física,Maringá,1,24,15.5,0,Concluído,Misto,250
+949,2025-04-11 14:29:02,Ovo tradicional,Ovo,Mercado,Curitiba,6,58.3,39.22,0,Concluído,Ao leite,250
+273,2024-01-24 18:10:27,Barra amarga,Barra,Mercado,Curitiba,2,11,7.7,5,Concluído,Amargo,90
+1162,2025-04-10 11:11:50,Ovo infantil,Ovo,Loja física,Cascavel,1,68.9,46.64,0,Concluído,Ao leite,150
+139,2024-02-23 20:18:22,Barra ao leite,Barra,Web,Curitiba,2,8,5.8,0,Concluído,Ao leite,90
+1348,2025-03-27 19:28:42,Ovo premium,Ovo,Web,Curitiba,1,100.7,47.7,0,Concluído,Amargo,350
+92,2024-05-17 16:04:53,Caixa de bombons,Caixa,Mercado,Maringá,3,24,15.5,0,Concluído,Misto,250
+813,2025-04-08 13:16:44,Ovo premium,Ovo,Mercado,Maringá,6,100.7,47.7,0,Concluído,Amargo,350
+1206,2025-05-07 12:53:36,Ovo tradicional,Ovo,Loja física,Cascavel,1,58.3,39.22,20,Concluído,Ao leite,250
+328,2024-03-24 15:28:52,Ovo infantil,Ovo,Mercado,Cascavel,5,65,44,5,Concluído,Ao leite,150
+1212,2025-01-23 18:01:24,Barra amarga,Barra,Mercado,Londrina,5,11.66,8.16,5,Concluído,Amargo,90
+56,2024-06-12 18:15:44,Barra ao leite,Barra,Mercado,Maringá,6,8,5.8,15,Concluído,Ao leite,90
+846,2025-04-21 21:51:08,Ovo infantil,Ovo,Web,Londrina,3,68.9,46.64,20,Concluído,Ao leite,150
+1143,2025-03-03 11:55:04,Barra ao leite,Barra,Mercado,Cascavel,6,8.48,6.15,5,Concluído,Ao leite,90
+225,2024-03-31 22:03:49,Ovo infantil,Ovo,Web,Londrina,3,65,44,0,Concluído,Ao leite,150
+552,2024-03-19 13:47:10,Caixa de bombons,Caixa,Mercado,Londrina,4,24,15.5,0,Concluído,Misto,250
+444,2024-04-21 16:34:22,Barra amarga,Barra,Mercado,Londrina,3,11,7.7,0,Concluído,Amargo,90
+1319,2025-03-29 12:21:01,Barra ao leite,Barra,Loja física,Londrina,1,8.48,6.15,0,Concluído,Ao leite,90
+176,2024-04-21 14:29:23,Ovo tradicional,Ovo,Loja física,Cascavel,3,55,37,25,Concluído,Ao leite,250
+424,2024-02-25 22:24:10,Barra ao leite,Barra,Web,Cascavel,3,8,5.8,0,Cancelado,Ao leite,90
+163,2024-06-20 15:57:38,Barra amarga,Barra,Mercado,Curitiba,5,11,7.7,0,Concluído,Amargo,90
+931,2025-03-18 11:12:20,Caixa de bombons,Caixa,Mercado,Curitiba,5,25.44,16.43,0,Concluído,Misto,250
+471,2024-06-23 10:16:50,Barra ao leite,Barra,Loja física,Cascavel,1,8,5.8,15,Concluído,Ao leite,90
+1037,2025-04-20 18:41:00,Caixa de bombons,Caixa,Mercado,Maringá,5,25.44,16.43,10,Concluído,Misto,250
+1260,2025-04-30 21:19:11,Ovo tradicional,Ovo,Web,Cascavel,-1,58.3,39.22,20,Concluído,Ao leite,250
+496,2024-05-11 16:07:01,Caixa de bombons,Caixa,Mercado,Cascavel,7,24,15.5,20,Concluído,Misto,250
+30,2024-04-09 17:51:29,Ovo infantil,Ovo,Mercado,Londrina,5,65,44,10,Concluído,Ao leite,150
+1118,2025-04-14 11:48:13,Ovo tradicional,Ovo,Loja física,Cascavel,1,58.3,39.22,0,Concluído,Ao leite,250
+166,2024-06-05 18:51:49,Caixa de bombons,Caixa,Mercado,Curitiba,4,24,15.5,15,Concluído,Misto,250
+1265,2025-04-02 15:29:14,Caixa de bombons,Caixa,Loja física,Maringá,2,25.44,16.43,0,Concluído,Misto,250
+1175,2025-04-22 13:33:33,Barra ao leite,Barra,Mercado,Maringá,4,8.48,6.15,0,Devolvido,Ao leite,90
+170,2024-03-25 20:06:35,Barra ao leite,Barra,Web,Maringá,1,8,5.8,0,Cancelado,Ao leite,90
+221,2024-03-26 20:23:52,Ovo premium,Ovo,Web,Londrina,1,95,45,0,Concluído,Amargo,350
+1467,2025-03-29 20:28:35,Ovo premium,Ovo,Web,Maringá,2,100.7,47.7,0,Concluído,Amargo,350
+1426,2025-04-23 18:49:20,Ovo infantil,Ovo,Mercado,Maringá,7,68.9,46.64,15,Concluído,Ao leite,150
+898,2025-04-26 11:18:57,Ovo tradicional,Ovo,Loja física,Curitiba,2,58.3,39.22,15,Concluído,Ao leite,250
+448,2024-04-24 15:24:38,Caixa de bombons,Caixa,Mercado,Cascavel,2,24,15.5,0,Concluído,Misto,250
+723,2024-05-13 22:54:48,Barra ao leite,Barra,Web,Maringá,1,8,5.8,10,Cancelado,Ao leite,90
+1052,2025-06-01 10:46:16,Caixa de bombons,Caixa,Mercado,Londrina,2,25.44,16.43,15,Concluído,Misto,250
+784,2025-05-09 10:59:30,Barra ao leite,Barra,Mercado,Cascavel,6,8.48,6.15,10,Concluído,Ao leite,90
+642,2024-03-03 22:56:09,Barra amarga,Barra,Web,Curitiba,1,11,7.7,10,Cancelado,Amargo,90
+1322,2025-02-22 11:37:17,Barra ao leite,Barra,Loja física,Maringá,1,8.48,6.15,5,Concluído,Ao leite,90
+102,2024-02-23 14:13:31,Ovo tradicional,Ovo,Mercado,Curitiba,3,55,37,0,Concluído,Ao leite,250
+626,2024-03-02 19:15:06,Barra amarga,Barra,Web,Curitiba,1,11,7.7,10,Concluído,Amargo,90
+1214,2025-05-03 14:10:22,Caixa de bombons,Caixa,Mercado,Maringá,2,25.44,16.43,10,Concluído,Misto,250
+982,2025-04-16 22:41:42,Ovo tradicional,Ovo,Web,Maringá,2,58.3,39.22,10,Concluído,Ao leite,250
+960,2025-04-17 19:12:20,Ovo premium,Ovo,Mercado,Londrina,4,100.7,47.7,0,Concluído,Amargo,350
+1267,2025-03-30 18:08:40,Caixa de bombons,Caixa,Web,Curitiba,2,25.44,16.43,0,Concluído,Misto,250
+417,2024-03-20 21:04:34,Ovo premium,Ovo,Web,Londrina,1,95,45,0,Concluído,Amargo,350
+1005,2025-01-12 14:11:37,Barra ao leite,Barra,Loja física,Londrina,2,8.48,6.15,0,Concluído,Ao leite,90
+690,2024-03-17 19:54:28,Barra ao leite,Barra,Mercado,Maringá,6,8,5.8,0,Concluído,Ao leite,90
+987,2025-03-29 22:07:29,Barra amarga,Barra,Web,Maringá,1,11.66,8.16,10,Concluído,Amargo,90
+260,2024-01-21 21:15:48,Caixa de bombons,Caixa,Web,Curitiba,2,24,15.5,5,Concluído,Misto,250
+947,2025-05-07 09:08:44,Ovo tradicional,Ovo,Mercado,Londrina,6,58.3,39.22,10,Concluído,Ao leite,250
+389,2024-03-21 14:10:08,Barra ao leite,Barra,Mercado,Maringá,7,8,5.8,0,Cancelado,Ao leite,90
+204,2024-04-17 14:14:35,Ovo infantil,Ovo,Mercado,Cascavel,6,65,44,25,Concluído,Ao leite,150
+555,2024-04-05 18:28:40,Barra ao leite,Barra,Web,Cascavel,1,8,5.8,15,Concluído,Ao leite,90
+1344,2025-03-31 21:42:51,Ovo premium,Ovo,Web,Cascavel,1,100.7,47.7,5,Concluído,Amargo,350
+608,2024-02-21 19:45:46,Caixa de bombons,Caixa,Mercado,Londrina,7,24,15.5,0,Concluído,Misto,250
+211,2024-03-21 17:14:19,Caixa de bombons,Caixa,Mercado,Cascavel,3,24,15.5,10,Concluído,Misto,250
+1425,2025-02-27 22:34:09,Barra ao leite,Barra,Web,Maringá,3,8.48,6.15,10,Concluído,Ao leite,90
+681,2024-03-04 19:56:35,Ovo premium,Ovo,Web,Londrina,1,95,45,10,Concluído,Amargo,350
+1126,2025-04-19 12:17:21,Caixa de bombons,Caixa,Loja física,Londrina,2,25.44,16.43,0,Concluído,Misto,250
+231,2024-03-29 10:10:58,Barra amarga,Barra, loja física ,Curitiba,2,11,7.7,10,Concluído,Amargo,90
+894,2025-04-10 18:42:42,Ovo premium,Ovo,Loja física,Londrina,2,100.7,47.7,0,Concluído,Amargo,350
+1050,2025-02-01 10:10:43,Caixa de bombons,Caixa,Mercado,Cascavel,-1,25.44,16.43,0,Concluído,Misto,250
+876,2025-04-01 09:30:36,Caixa de bombons,Caixa,Mercado,Londrina,6,25.44,16.43,0,Concluído,Misto,250
+597,2024-03-17 20:51:55,Ovo infantil,Ovo,Web,Cascavel,2,65,44,0,Concluído,Ao leite,150
+352,2024-03-18 18:49:03,Ovo infantil,Ovo,Loja física,Cascavel,1,65,44,0,Concluído,Ao leite,150
+1494,2025-03-31 16:26:44,Ovo tradicional,Ovo,Mercado,Cascavel,5,58.3,39.22,10,Concluído,Ao leite,250
+470,2024-03-30 09:18:18,Barra amarga,Barra,Mercado,Maringá,3,11,7.7,0,Cancelado,Amargo,90
+73,2024-05-08 15:12:02,Barra amarga,Barra,Loja física,Curitiba,3,11,7.7,20,Concluído,Amargo,90
+138,2024-04-14 12:31:28,Barra ao leite,Barra,Mercado,Cascavel,7,8,5.8,20,Concluído,Ao leite,90
+633,2024-03-01 22:34:16,Ovo premium,Ovo,Web,Curitiba,3,95,45,0,Concluído,Amargo,350
+106,2024-04-14 09:15:32,Caixa de bombons,Caixa,Mercado,Cascavel,7,24,15.5,25,Cancelado,Misto,250
+978,2025-03-20 09:45:18,Barra ao leite,Barra,Mercado,Maringá,2,8.48,6.15,10,Concluído,Ao leite,90
+573,2024-03-30 18:19:40,Ovo infantil,Ovo,Mercado,Maringá,5,65,44,0,Concluído,Ao leite,150
+432,2024-02-19 21:56:15,Barra ao leite,Barra,Web,Curitiba,1,8,5.8,0,Concluído,Ao leite,90
+1399,2025-03-19 22:14:38,Barra amarga,Barra,Web,Cascavel,2,11.66,8.16,10,Concluído,Amargo,90
+842,2025-04-05 20:03:02,Barra ao leite,Barra,Web,Maringá,3,8.48,6.15,0,Concluído,Ao leite,90
+975,2025-04-17 18:27:15,Ovo tradicional,Ovo,Web,Londrina,3,58.3,39.22,10,Concluído,Ao leite,250
+300,2024-04-02 10:08:26,Ovo infantil,Ovo,Loja física,Maringá,1,65,44,0,Devolvido,Ao leite,150
+933,2025-03-25 14:49:20,Caixa de bombons,Caixa,Mercado,Maringá,4,25.44,16.43,10,Concluído,Misto,250
+1385,2025-03-24 13:19:44,Barra ao leite,Barra,Mercado,Maringá,3,8.48,6.15,0,Concluído,Ao leite,90
+1096,2025-04-06 19:30:49,Barra amarga,Barra,Mercado,Maringá,5,11.66,8.16,0,Concluído,Amargo,90
+778,2025-03-28 19:50:48,Ovo infantil,Ovo,Web,Cascavel,1,68.9,46.64,0,Concluído,Ao leite,150
+596,2024-04-10 22:49:45,Ovo tradicional,Ovo,Web,Curitiba,2,55,37,20,Concluído,Ao leite,250
+1419,2025-03-04 09:04:19,Barra amarga,Barra, mercado ,Londrina,6,11.66,8.16,0,Concluído,Amargo,90
+248,2024-03-28 10:09:15,Ovo premium,Ovo,Loja física,Cascavel,1,95,45,10,Concluído,Amargo,350
+476,2024-01-02 10:19:56,Barra ao leite,Barra,Mercado,Maringá,6,8,5.8,10,Concluído,Ao leite,90
+546,2024-03-30 15:24:38,Barra ao leite,Barra,Mercado,Cascavel,3,8,5.8,5,Concluído,Ao leite,90
+1417,2025-04-10 10:59:17,Barra ao leite,Barra,Mercado,Cascavel,5,8.48,6.15,5,Concluído,Ao leite,90
+1270,2025-04-11 11:30:54,Barra ao leite,Barra,Loja física,Cascavel,1,8.48,6.15,10,Concluído,Ao leite,90
+194,2024-03-19 20:30:35,Ovo premium,Ovo,Web,Cascavel,2,95,45,0,Concluído,Amargo,350
+919,2025-04-09 17:52:26,Barra ao leite,Barra,Mercado,Londrina,5,8.48,6.15,5,Concluído,Ao leite,90
+1281,2025-04-27 09:46:33,Caixa de bombons,Caixa,Mercado,Curitiba,2,25.44,16.43,10,Concluído,Misto,250
+1047,2025-04-25 22:19:19,Barra ao leite,Barra,Web,Maringá,3,8.48,6.15,15,Concluído,Ao leite,90
+228,2024-01-01 22:46:45,Caixa de bombons,Caixa,Web,Cascavel,1,24,15.5,5,Concluído,Misto,250
+336,2024-04-29 13:58:32,Barra ao leite,Barra,Mercado,Curitiba,6,8,5.8,20,Concluído,Ao leite,90
+1353,2025-04-17 21:43:14,Barra ao leite,Barra, web ,Londrina,1,8.48,6.15,0,Concluído,Ao leite,90
+1158,2025-05-01 20:52:42,Ovo premium,Ovo,Web,Londrina,1,100.7,47.7,0,Concluído,Amargo,350
+1180,2025-04-12 21:21:35,Barra amarga,Barra,Web,Maringá,2,11.66,8.16,0,Concluído,Amargo,90
+706,2024-02-09 22:57:57,Ovo infantil,Ovo,Web,Londrina,1,65,44,10,Concluído,Ao leite,150
+713,2024-04-01 19:11:58,Barra amarga,Barra,Loja física,Maringá,3,11,7.7,10,Concluído,Amargo,90
+10,2024-02-28 17:46:51,Caixa de bombons,Caixa,Mercado,Maringá,7,24,15.5,0,Concluído,Misto,250
+589,2024-06-10 20:31:04,Caixa de bombons,Caixa,Web,Londrina,1,24,15.5,15,Concluído,Misto,250
+1394,2025-04-11 20:00:32,Ovo tradicional,Ovo,Web,Maringá,3,58.3,39.22,10,Concluído,Ao leite,250
+302,2024-04-03 17:25:14,Barra amarga,Barra,Loja física,Curitiba,2,11,7.7,20,Concluído,Amargo,90
+900,2025-04-14 16:21:05,Ovo premium,Ovo,Mercado,Londrina,7,100.7,47.7,0,Concluído,Amargo,350
+241,2024-03-28 20:27:46,Ovo infantil,Ovo,Web,Londrina,3,65,44,0,Concluído,Ao leite,150
+965,2025-04-30 18:48:45,Ovo premium,Ovo,Web,Curitiba,3,100.7,47.7,20,Concluído,Amargo,350
+209,2024-03-06 19:35:00,Ovo premium,Ovo,Web,Curitiba,3,95,45,0,Cancelado,Amargo,350
+938,2025-03-29 09:04:28,Caixa de bombons,Caixa,Loja física,Maringá,2,25.44,16.43,10,Concluído,Misto,250
+9,2024-04-01 19:58:10,Barra ao leite,Barra,Web,Cascavel,1,8,5.8,20,Concluído,Ao leite,90
+44,2024-02-29 18:53:36,Barra ao leite,Barra,Loja física,Londrina,2,8,5.8,0,Concluído,Ao leite,90
+226,2024-04-07 16:36:30,Barra amarga,Barra,Loja física,Maringá,1,11,7.7,25,Concluído,Amargo,90
+80,2024-02-16 21:48:19,Barra ao leite,Barra,Web,Curitiba,2,8,5.8,0,Concluído,Ao leite,90
+1472,2025-02-28 18:38:52,Barra ao leite,Barra,Web,Cascavel,3,8.48,6.15,0,Concluído,Ao leite,90
+376,2024-04-08 16:29:27,Barra ao leite,Barra,Mercado,Curitiba,7,8,5.8,0,Concluído,Ao leite,90
+1009,2025-03-10 19:49:37,Barra ao leite,Barra,Web,Londrina,2,8.48,6.15,5,Cancelado,Ao leite,90
+1,2024-04-13 09:41:18,Ovo infantil,Ovo,Mercado,Curitiba,3,65,44,0,Concluído,Ao leite,150
+114,2024-03-17 14:19:00,Barra ao leite,Barra,Mercado,Londrina,5,8,5.8,0,Concluído,Ao leite,90
+910,2025-04-09 09:59:48,Barra ao leite,Barra,Mercado,Curitiba,4,8.48,6.15,0,Concluído,Ao leite,90
+1447,2025-05-03 19:11:35,Ovo infantil,Ovo,Web,Cascavel,2,68.9,46.64,0,Devolvido,Ao leite,150
+1408,2025-03-31 18:23:13,Ovo premium,Ovo,Web,Maringá,1,100.7,47.7,0,Concluído,Amargo,350
+1025,2025-03-28 19:10:33,Ovo premium,Ovo,Web,Cascavel,1,100.7,47.7,0,Concluído,Amargo,350
+521,2024-05-02 12:42:26,Barra ao leite,Barra,Loja física,Maringá,3,8,5.8,25,Concluído,Ao leite,90
+621,2024-03-29 20:58:42,Ovo premium,Ovo,Web,Cascavel,1,95,45,10,Concluído,Amargo,350
+853,2025-04-04 20:25:07,Ovo tradicional,Ovo,Web,Cascavel,3,58.3,39.22,0,Devolvido,Ao leite,250
+647,2024-04-07 18:47:07,Ovo tradicional,Ovo,Loja física,Maringá,1,55,37,25,Concluído,Ao leite,250
+1445,2025-01-01 18:20:12,Barra amarga,Barra,Mercado,Londrina,4,11.66,8.16,0,Concluído,Amargo,90
+620,2024-04-08 09:43:10,Barra amarga,Barra,Loja física,Cascavel,1,11,7.7,25,Concluído,Amargo,90
+1186,2025-04-16 13:14:17,Caixa de bombons,Caixa,Mercado,Maringá,6,25.44,16.43,0,Concluído,Misto,250
+671,2024-05-10 19:28:07,Caixa de bombons,Caixa,Mercado,Londrina,7,24,15.5,0,Concluído,Misto,250
+287,2024-03-17 12:20:26,Barra ao leite,Barra,Loja física,Londrina,3,8,5.8,5,Concluído,Ao leite,90
+831,2025-03-23 21:28:41,Caixa de bombons,Caixa,Web,Curitiba,1,25.44,16.43,0,Cancelado,Misto,250
+312,2024-03-26 09:24:55,Ovo premium,Ovo,Mercado,Maringá,3,95,45,0,Devolvido,Amargo,350
+292,2024-06-08 18:53:57,Barra amarga,Barra,Web,Cascavel,2,11,7.7,10,Concluído,Amargo,90
+541,2024-03-09 17:44:43,Caixa de bombons,Caixa,Mercado,Londrina,7,24,15.5,0,Concluído,Misto,250
+1090,2025-05-04 15:23:35,Ovo tradicional,Ovo,Loja física,Curitiba,2,58.3,39.22,0,Concluído,Ao leite,250
+200,2024-03-29 22:53:41,Ovo infantil,Ovo,Web,Londrina,2,65,44,0,Concluído,Ao leite,150
+464,2024-05-08 19:09:23,Barra amarga,Barra,Web,Londrina,2,11,7.7,15,Concluído,Amargo,90
+515,2024-03-13 18:07:34,Barra ao leite,Barra,Mercado,Maringá,6,8,5.8,5,Concluído,Ao leite,90
+103,2024-03-09 19:15:58,Ovo premium,Ovo,Web,Cascavel,2,95,45,10,Concluído,Amargo,350
+490,2024-03-18 18:31:59,Ovo tradicional,Ovo,Web,Cascavel,2,55,37,0,Concluído,Ao leite,250
+943,2025-04-02 19:22:27,Ovo tradicional,Ovo,Web,Curitiba,1,58.3,39.22,0,Concluído,Ao leite,250
+341,2024-03-14 13:22:16,Caixa de bombons,Caixa,Loja física,Maringá,1,24,15.5,0,Cancelado,Misto,250
+1404,2025-05-09 15:36:30,Ovo infantil,Ovo,Loja física,Londrina,3,68.9,46.64,0,Concluído,Ao leite,150
+822,2025-04-08 20:50:39,Caixa de bombons,Caixa,Web,Maringá,1,25.44,16.43,5,Concluído,Misto,250
+326,2024-03-14 21:15:05,Ovo premium,Ovo,Web,Curitiba,3,95,45,10,Concluído,Amargo,350
+40,2024-04-26 15:38:11,Ovo premium,Ovo,Loja física,Cascavel,1,95,45,20,Concluído,Amargo,350
+363,2024-05-10 15:54:08,Barra amarga,Barra, loja física ,Curitiba,3,11,7.7,15,Concluído,Amargo,90
+677,2024-04-06 14:11:19,Ovo premium,Ovo,Loja física,Cascavel,1,95,45,15,Concluído,Amargo,350
+1168,2025-04-09 18:01:44,Barra ao leite,Barra,Loja física,Maringá,3,8.48,6.15,10,Concluído,Ao leite,90
+801,2025-02-03 19:16:39,Barra ao leite,Barra,Loja física,Cascavel,3,8.48,6.15,0,Concluído,Ao leite,90
+991,2025-04-20 16:56:51,Barra ao leite,Barra,Mercado,Londrina,7,8.48,6.15,0,Concluído,Ao leite,90
+169,2024-03-29 19:46:02,Barra ao leite,Barra,Mercado,Cascavel,6,8,5.8,10,Concluído,Ao leite,90
+1343,2025-04-14 19:05:28,Caixa de bombons,Caixa,Mercado,Cascavel,6,25.44,16.43,0,Devolvido,Misto,250
+545,2024-03-10 15:37:19,Ovo infantil,Ovo,Mercado,Curitiba,2,65,44,0,Concluído,Ao leite,150
+408,2024-03-09 16:51:18,Barra ao leite,Barra,Mercado,Londrina,5,8,5.8,10,Concluído,Ao leite,90
+358,2024-03-13 10:10:16,Caixa de bombons,Caixa,Mercado,Londrina,3,24,15.5,5,Concluído,Misto,250
+992,2025-04-02 10:43:16,Ovo tradicional,Ovo,Mercado,Cascavel,4,58.3,39.22,0,Concluído,Ao leite,250
+1149,2025-06-12 18:34:44,Barra ao leite,Barra,Web,Maringá,2,8.48,6.15,20,Concluído,Ao leite,90
+366,2024-05-03 13:26:19,Barra ao leite,Barra,Mercado,Cascavel,4,8,5.8,20,Concluído,Ao leite,90
+1112,2025-03-31 13:55:29,Barra ao leite,Barra,Mercado,Cascavel,2,8.48,6.15,10,Concluído,Ao leite,90
+1059,2025-06-28 19:37:16,Barra ao leite,Barra,Web,Londrina,1,8.48,6.15,0,Cancelado,Ao leite,90
+817,2025-06-09 10:10:57,Barra ao leite,Barra,Loja física,Curitiba,3,8.48,6.15,0,Concluído,Ao leite,90
+1451,2025-04-18 19:39:55,Ovo premium,Ovo,Web,Curitiba,1,100.7,47.7,10,Concluído,Amargo,350
+101,2024-04-11 16:38:14,Barra ao leite,Barra,Loja física,Curitiba,2,8,5.8,0,Cancelado,Ao leite,90
+629,2024-06-17 17:26:43,Barra amarga,Barra,Mercado,Londrina,7,11,7.7,10,Concluído,Amargo,90
+890,2025-01-28 10:16:25,Barra amarga,Barra,Loja física,Maringá,3,11.66,8.16,0,Concluído,Amargo,90
+107,2024-04-04 17:41:25,Ovo tradicional,Ovo,Mercado,Londrina,6,55,37,20,Cancelado,Ao leite,250
+1067,2025-05-09 22:36:52,Barra ao leite,Barra,Web,Curitiba,3,8.48,6.15,15,Concluído,Ao leite,90
+1243,2025-03-28 19:53:57,Ovo premium,Ovo,Web,Londrina,3,100.7,47.7,0,Concluído,Amargo,350
+1389,2025-02-08 10:31:22,Barra amarga,Barra,Mercado,Maringá,7,11.66,8.16,0,Concluído,Amargo,90
+505,2024-04-02 17:53:34,Barra ao leite,Barra,Mercado,Maringá,6,8,5.8,10,Concluído,Ao leite,90
+1433,2025-04-15 19:03:35,Ovo premium,Ovo,Web,Curitiba,2,100.7,47.7,0,Concluído,Amargo,350
+329,2024-04-02 21:47:26,Ovo premium,Ovo,Web,Curitiba,3,95,45,0,Concluído,Amargo,350
+85,2024-03-01 19:54:53,Caixa de bombons,Caixa,Mercado,Curitiba,7,24,15.5,10,Concluído,Misto,250
+686,2024-03-26 16:21:50,Barra amarga,Barra,Loja física,Cascavel,1,11,7.7,0,Concluído,Amargo,90
+1031,2025-03-31 17:02:28,Barra amarga,Barra,Mercado,Maringá,4,11.66,8.16,5,Concluído,Amargo,90
+1099,2025-04-07 09:26:10,Caixa de bombons,Caixa,Mercado,Cascavel,3,25.44,16.43,0,Concluído,Misto,250
+802,2025-05-31 15:45:09,Barra amarga,Barra,Loja física,Curitiba,2,11.66,8.16,20,Concluído,Amargo,90
+238,2024-05-28 17:04:25,Barra ao leite,Barra,Loja física,Cascavel,1,8,5.8,0,Concluído,Ao leite,90
+1481,2025-04-10 11:06:36,Barra ao leite,Barra,Mercado,Maringá,4,8.48,6.15,0,Concluído,Ao leite,90
+1110,data_invalida,Barra ao leite,Barra,Mercado,Londrina,7,8.48,6.15,0,Concluído,Ao leite,90
+196,2024-03-20 19:14:51,Caixa de bombons,Caixa,Mercado,Cascavel,4,24,15.5,0,Concluído,Misto,250
+62,2024-03-09 12:39:11,Ovo premium,Ovo,Loja física,Maringá,3,95,45,10,Concluído,Amargo,350
+1422,2025-04-06 12:58:10,Ovo premium,Ovo,Loja física,Londrina,1,100.7,47.7,0,Concluído,Amargo,350
+474,2024-02-23 18:57:08,Barra ao leite,Barra,Web,Maringá,3,8,5.8,5,Concluído,Ao leite,90
+1374,2025-03-27 09:16:33,Ovo tradicional,Ovo,Loja física,Cascavel,3,58.3,39.22,0,Concluído,Ao leite,250
+449,2024-03-06 15:07:03,Barra ao leite,Barra,Mercado,Maringá,4,8,5.8,0,Concluído,Ao leite,90
+1342,2025-04-09 14:18:06,Barra amarga,Barra,Mercado,Maringá,5,11.66,8.16,10,Concluído,Amargo,90
+835,2025-04-03 18:50:20,Barra ao leite,Barra,Mercado,Cascavel,6,8.48,6.15,5,Concluído,Ao leite,90
+533,2024-06-06 12:07:15,Barra ao leite,Barra,Loja física,Curitiba,2,8,5.8,20,Concluído,Ao leite,90
+1397,2025-05-03 09:05:26,Ovo infantil,Ovo,Loja física,Londrina,3,68.9,46.64,25,Concluído,Ao leite,150
+1242,2025-05-09 16:10:00,Caixa de bombons,Caixa,Loja física,Maringá,3,25.44,16.43,0,Concluído,Misto,250
+133,2024-03-14 21:00:37,Caixa de bombons,Caixa,Web,Cascavel,3,24,15.5,0,Concluído,Misto,250
+1378,2025-04-21 19:31:19,Ovo premium,Ovo,Mercado,Maringá,5,100.7,47.7,25,Concluído,Amargo,350
+1288,2025-04-09 15:19:35,Caixa de bombons,Caixa,Mercado,Londrina,2,25.44,16.43,0,Concluído,Misto,250
+492,2024-03-06 14:20:43,Ovo premium,Ovo,Loja física,Londrina,1,95,45,0,Concluído,Amargo,350
+391,2024-02-29 11:35:46,Barra ao leite,Barra,Loja física,Cascavel,1,8,5.8,0,Concluído,Ao leite,90
+624,2024-02-07 19:27:29,Caixa de bombons,Caixa,Web,Cascavel,2,24,15.5,0,Concluído,Misto,250
+14,2024-06-17 18:44:01,Barra amarga,Barra,Mercado,Cascavel,3,11,7.7,20,Concluído,Amargo,90
+1010,2025-05-11 19:49:52,Caixa de bombons,Caixa,Mercado,Curitiba,2,25.44,16.43,25,Concluído,Misto,250
+78,2024-03-01 15:30:30,Caixa de bombons,Caixa,Mercado,Maringá,2,24,15.5,10,Concluído,Misto,250
+1420,2025-02-17 12:13:04,Barra ao leite,Barra,Loja física,Maringá,1,8.48,6.15,0,Concluído,Ao leite,90
+1124,2025-04-26 17:01:10,Barra ao leite,Barra,Loja física,Cascavel,1,8.48,6.15,0,Concluído,Ao leite,90
+689,2024-03-20 16:51:16,Caixa de bombons,Caixa,Mercado,Londrina,3,24,15.5,0,Concluído,Misto,250
+587,2024-03-26 22:50:02,Caixa de bombons,Caixa,Web,Maringá,3,24,15.5,0,Concluído,Misto,250
+786,2025-03-28 13:57:07,Barra amarga,Barra,Mercado,Londrina,3,11.66,8.16,0,Concluído,Amargo,90
+1411,2025-04-19 14:16:26,Barra amarga,Barra,Mercado,Cascavel,7,11.66,8.16,0,Concluído,Amargo,90
+245,2024-06-05 14:21:59,Caixa de bombons,Caixa,Mercado,Cascavel,5,24,15.5,0,Concluído,Misto,250
+1225,2025-04-28 15:46:23,Ovo infantil,Ovo,Loja física,Maringá,3,68.9,46.64,25,Concluído,Ao leite,150
+796,2025-04-25 14:04:23,Ovo infantil,Ovo,Loja física,Londrina,3,68.9,46.64,15,Concluído,Ao leite,150
+999,2025-04-07 13:03:58,Ovo infantil,Ovo,Loja física,Curitiba,1,68.9,46.64,5,Concluído,Ao leite,150
+201,2024-03-19 17:28:25,Barra amarga,Barra,Mercado,Curitiba,5,11,7.7,10,Concluído,Amargo,90
+500,2024-03-28 10:57:31,Caixa de bombons,Caixa,Loja física,Curitiba,2,,15.5,5,Concluído,Misto,250
+824,2025-04-22 16:14:32,Ovo infantil,Ovo,Mercado,Londrina,5,68.9,46.64,0,Concluído,Ao leite,150
+482,2024-03-19 18:14:22,Barra ao leite,Barra,Mercado,Cascavel,7,8,5.8,0,Concluído,Ao leite,90
+185,2024-05-27 15:10:49,Barra amarga,Barra,Mercado,Maringá,3,11,7.7,0,Concluído,Amargo,90
+180,2024-04-18 11:37:32,Ovo tradicional,Ovo,Loja física,Cascavel,1,55,37,15,Concluído,Ao leite,250
+217,2024-03-18 15:57:45,Barra amarga,Barra,Loja física,Londrina,3,11,7.7,10,Concluído,Amargo,90
+850,2025-01-23 20:34:18,Ovo infantil,Ovo,Web,Londrina,3,68.9,46.64,10,Concluído,Ao leite,150
+970,2025-04-07 19:39:36,Barra ao leite,Barra,Mercado,Curitiba,6,8.48,6.15,0,Concluído,Ao leite,90
+968,2025-04-12 20:29:26,Ovo premium,Ovo,Web,Maringá,2,100.7,47.7,10,Devolvido,Amargo,350
+36,2024-03-18 19:18:41,Barra ao leite,Barra,Mercado,Cascavel,4,8,5.8,10,Concluído,Ao leite,90
+655,2024-03-21 15:21:51,Caixa de bombons,Caixa,Mercado,Londrina,4,24,15.5,10,Concluído,Misto,250
+220,2024-04-03 19:28:25,Caixa de bombons,Caixa,Web,Londrina,2,24,15.5,20,Concluído,Misto,250
+1450,2025-01-10 09:30:47,Caixa de bombons,Caixa,Mercado,Londrina,4,25.44,16.43,0,Concluído,Misto,250
+1169,2025-01-19 20:25:50,Barra amarga,Barra,Web,Londrina,2,11.66,8.16,0,Concluído,Amargo,90
+927,2025-04-14 14:51:27,Barra ao leite,Barra,Mercado,Londrina,5,8.48,6.15,0,Concluído,Ao leite,90
+508,2024-06-21 15:48:34,Ovo infantil,Ovo,Loja física,Maringá,3,65,44,25,Concluído,Ao leite,150
+213,2024-03-24 19:42:31,Ovo infantil,Ovo,Mercado,Londrina,7,65,44,10,Concluído,Ao leite,150
+851,2025-03-28 12:14:07,Barra amarga,Barra,Mercado,Curitiba,6,11.66,8.16,0,Concluído,Amargo,90
+227,2024-04-06 18:30:49,Barra amarga,Barra,Mercado,Curitiba,6,11,7.7,10,Concluído,Amargo,90
+740,data_invalida,Barra amarga,Barra,Mercado,Cascavel,7,11,7.7,0,Concluído,Amargo,90
+584,2024-03-26 21:03:31,Ovo premium,Ovo,Web,Curitiba,2,95,45,0,Concluído,Amargo,350
+409,2024-06-30 14:38:44,Barra ao leite,Barra,Mercado,Curitiba,3,8,5.8,10,Concluído,Ao leite,90
+1104,2025-03-30 10:39:04,Barra ao leite,Barra,Mercado,Londrina,6,8.48,6.15,10,Concluído,Ao leite,90
+332,2024-04-12 20:48:05,Barra amarga,Barra,Web,Maringá,1,11,7.7,20,Concluído,Amargo,90
+1144,2025-04-02 19:31:14,Barra amarga,Barra,Web,Maringá,2,11.66,8.16,0,Concluído,Amargo,90
+375,2024-04-04 17:23:40,Ovo premium,Ovo,Loja física,Londrina,1,,45,10,Concluído,Amargo,350
+425,2024-05-11 14:03:04,Caixa de bombons,Caixa,Mercado,Londrina,2,24,15.5,10,Concluído,Misto,250
+996,2025-02-15 21:58:43,Caixa de bombons,Caixa,Web,Cascavel,3,25.44,16.43,0,Concluído,Misto,250
+715,2024-01-10 14:09:17,Barra ao leite,Barra,Mercado,Curitiba,7,8,5.8,0,Concluído,Ao leite,90
+1199,2025-03-28 22:32:33,Caixa de bombons,Caixa,Web,Curitiba,2,25.44,16.43,5,Concluído,Misto,250
+481,2024-03-21 15:19:17,Ovo infantil,Ovo,Loja física,Maringá,3,65,44,5,Concluído,Ao leite,150
+1024,2025-04-08 18:01:05,Barra ao leite,Barra,Mercado,Maringá,2,8.48,6.15,5,Concluído,Ao leite,90
+711,2024-04-25 18:41:52,Ovo tradicional,Ovo,Loja física,Londrina,1,55,37,25,Concluído,Ao leite,250
+152,2024-02-19 18:23:21,Caixa de bombons,Caixa,Web,Curitiba,1,24,15.5,0,Concluído,Misto,250
+1487,2025-04-23 21:15:52,Ovo tradicional,Ovo,Web,Cascavel,3,58.3,39.22,15,Concluído,Ao leite,250
+1366,2025-05-02 21:43:27,Caixa de bombons,Caixa,Web,Maringá,2,25.44,16.43,10,Concluído,Misto,250
+219,2024-03-22 21:45:51,Ovo premium,Ovo,Web,Curitiba,1,95,45,0,Concluído,Amargo,350
+840,2025-04-08 21:23:17,Ovo premium,Ovo,Web,Maringá,-1,100.7,47.7,0,Concluído,Amargo,350
+388,2024-04-17 16:01:24,Caixa de bombons,Caixa,Mercado,Cascavel,2,24,15.5,20,Concluído,Misto,250
+1215,2025-04-11 17:44:51,Caixa de bombons,Caixa,Mercado,Cascavel,3,25.44,16.43,0,Concluído,Misto,250
+912,2025-04-01 18:07:12,Caixa de bombons,Caixa,Web,Curitiba,3,25.44,16.43,0,Concluído,Misto,250
+592,2024-03-09 12:42:46,Barra ao leite,Barra,Mercado,Curitiba,2,8,5.8,10,Concluído,Ao leite,90
+1424,2025-05-24 18:50:05,Barra ao leite,Barra,Web,Maringá,1,8.48,6.15,25,Cancelado,Ao leite,90
+116,2024-03-29 11:51:00,Caixa de bombons,Caixa,Mercado,Curitiba,2,24,15.5,0,Concluído,Misto,250
+468,2024-04-15 12:45:39,Barra ao leite,Barra,Mercado,Cascavel,3,8,5.8,10,Concluído,Ao leite,90
+1351,2025-04-10 15:41:11,Ovo tradicional,Ovo,Mercado,Londrina,2,58.3,39.22,0,Concluído,Ao leite,250
+1441,2025-04-11 10:07:54,Ovo tradicional,Ovo,Mercado,Cascavel,4,58.3,39.22,10,Concluído,Ao leite,250
+354,2024-06-23 19:58:56,Caixa de bombons,Caixa,Mercado,Cascavel,6,24,15.5,0,Concluído,Misto,250
+1340,2025-04-07 12:15:02,Barra ao leite,Barra,Mercado,Londrina,5,8.48,6.15,10,Concluído,Ao leite,90
+488,2024-02-23 20:52:28,Barra ao leite,Barra,Web,Curitiba,3,8,5.8,0,Concluído,Ao leite,90
+1320,2025-04-06 22:19:37,Barra amarga,Barra, web ,Maringá,3,11.66,8.16,5,Concluído,Amargo,90
+974,2025-04-16 19:40:45,Barra ao leite,Barra,Mercado,Maringá,5,8.48,6.15,10,Concluído,Ao leite,90
+353,2024-04-07 10:37:45,Caixa de bombons,Caixa,Mercado,Cascavel,6,24,15.5,0,Concluído,Misto,250
+81,2024-01-01 10:15:30,Caixa de bombons,Caixa,Mercado,Maringá,3,24,15.5,0,Concluído,Misto,250
+189,2024-05-01 15:34:57,Barra ao leite,Barra,Mercado,Maringá,2,8,5.8,20,Concluído,Ao leite,90
+1492,2025-05-07 09:39:15,Barra ao leite,Barra,Mercado,Curitiba,5,8.48,6.15,0,Concluído,Ao leite,90
+43,2024-03-12 10:46:47,Ovo tradicional,Ovo,Loja física,Curitiba,2,55,37,0,Concluído,Ao leite,250
+1440,2025-03-27 12:38:24,Caixa de bombons,Caixa,Mercado,Curitiba,6,25.44,16.43,0,Concluído,Misto,250
+630,2024-03-31 21:03:23,Ovo tradicional,Ovo,Web,Londrina,-1,55,37,0,Concluído,Ao leite,250
+480,2024-03-04 22:50:05,Ovo infantil,Ovo,Web,Maringá,3,65,44,0,Concluído,Ao leite,150
+1146,2025-04-08 22:23:11,Ovo infantil,Ovo,Web,Maringá,2,68.9,46.64,0,Concluído,Ao leite,150
+23,2024-06-12 19:50:39,Caixa de bombons,Caixa,Web,Curitiba,2,24,15.5,0,Concluído,Misto,250
+1429,2025-01-05 15:20:22,Barra ao leite,Barra,Loja física,Londrina,3,8.48,6.15,5,Concluído,Ao leite,90
+1069,2025-06-27 17:57:13,Barra amarga,Barra,Mercado,Curitiba,5,11.66,8.16,15,Concluído,Amargo,90
+1073,2025-04-13 09:11:01,Ovo tradicional,Ovo,Loja física,Cascavel,2,58.3,39.22,10,Concluído,Ao leite,250
+137,2024-04-01 12:03:07,Barra ao leite,Barra,Mercado,Maringá,5,8,5.8,10,Concluído,Ao leite,90
+1457,2025-04-06 18:36:21,Ovo premium,Ovo,Web,Londrina,1,100.7,47.7,0,Concluído,Amargo,350
+26,2024-03-09 18:10:14,Caixa de bombons,Caixa,Mercado,Londrina,6,24,15.5,0,Concluído,Misto,250
+1174,2025-03-26 19:16:18,Barra ao leite,Barra,Mercado,Maringá,3,8.48,6.15,10,Concluído,Ao leite,90
+126,2024-03-04 19:27:52,Ovo tradicional,Ovo,Web,Curitiba,1,55,37,0,Concluído,Ao leite,250
+72,2024-03-30 19:35:17,Barra ao leite,Barra,Web,Cascavel,3,8,5.8,5,Concluído,Ao leite,90
+1161,2025-04-17 17:13:57,Ovo infantil,Ovo,Loja física,Maringá,3,68.9,46.64,5,Concluído,Ao leite,150
+1064,2025-04-06 18:58:10,Ovo premium,Ovo,Web,Londrina,2,100.7,47.7,0,Concluído,Amargo,350
+776,2025-04-06 17:49:43,Barra amarga,Barra,Mercado,Cascavel,3,11.66,8.16,0,Concluído,Amargo,90
+95,2024-05-02 21:21:47,Barra ao leite,Barra,Web,Maringá,1,8,5.8,10,Devolvido,Ao leite,90
+310,2024-02-13 15:33:40,Caixa de bombons,Caixa,Loja física,Londrina,1,24,15.5,0,Concluído,Misto,250
+233,2024-03-20 09:35:53,Caixa de bombons,Caixa,Mercado,Maringá,2,24,15.5,0,Concluído,Misto,250
+698,2024-02-24 10:27:17,Barra ao leite,Barra,Loja física,Cascavel,2,8,5.8,0,Concluído,Ao leite,90
+458,2024-03-30 17:14:39,Ovo tradicional,Ovo,Mercado,Cascavel,2,55,37,0,Concluído,Ao leite,250
+619,2024-03-25 22:26:11,Barra amarga,Barra,Web,Maringá,2,11,7.7,0,Concluído,Amargo,90
+54,2024-03-06 19:59:10,Ovo premium,Ovo,Web,Curitiba,3,95,45,0,Concluído,Amargo,350
+1362,2025-04-27 10:46:21,Barra ao leite,Barra,Loja física,Londrina,1,8.48,6.15,10,Concluído,Ao leite,90
+188,2024-04-06 18:51:46,Ovo infantil,Ovo,Loja física,Curitiba,3,65,44,0,Concluído,Ao leite,150
+1412,2025-04-01 09:05:17,Ovo infantil,Ovo,Loja física,Maringá,1,68.9,46.64,10,Concluído,Ao leite,150
+1164,2025-03-25 21:39:37,Ovo premium,Ovo,Web,Cascavel,2,100.7,47.7,0,Concluído,Amargo,350
+362,2024-04-08 19:48:05,Barra amarga,Barra,Mercado,Cascavel,7,11,7.7,15,Concluído,Amargo,90
+702,2024-03-27 16:38:30,Barra amarga,Barra,Mercado,Maringá,4,11,7.7,5,Concluído,Amargo,90
+17,2024-03-11 15:03:36,Barra amarga,Barra,Mercado,Maringá,7,11,7.7,10,Concluído,Amargo,90
+184,2024-03-18 16:17:30,Barra ao leite,Barra,Mercado,Maringá,7,8,5.8,0,Concluído,Ao leite,90
+763,2025-03-17 15:39:53,Barra ao leite,Barra,Mercado,Curitiba,6,8.48,6.15,0,Concluído,Ao leite,90
+1403,2025-03-17 11:01:05,Caixa de bombons,Caixa,Mercado,Maringá,7,25.44,16.43,10,Concluído,Misto,250
+1306,2025-04-21 18:19:21,Ovo infantil,Ovo,Loja física,Cascavel,3,68.9,46.64,10,Concluído,Ao leite,150
+536,2024-02-29 19:31:05,Barra ao leite,Barra,Loja física,Curitiba,1,8,5.8,5,Cancelado,Ao leite,90
+268,2024-03-18 21:47:56,Barra amarga,Barra,Web,Curitiba,1,11,7.7,0,Concluído,Amargo,90
+1127,2025-04-01 15:00:16,Caixa de bombons,Caixa,Mercado,Cascavel,5,25.44,16.43,0,Concluído,Misto,250
+518,2024-02-21 17:10:22,Caixa de bombons,Caixa,Loja física,Curitiba,3,24,15.5,0,Concluído,Misto,250
+1499,2025-01-03 21:27:15,Barra ao leite,Barra,Web,Londrina,3,8.48,6.15,0,Concluído,Ao leite,90
+854,2025-03-14 18:24:13,Barra amarga,Barra,Web,Curitiba,3,11.66,8.16,0,Concluído,Amargo,90
+667,2024-04-07 15:11:55,Barra ao leite,Barra,Loja física,Maringá,2,8,5.8,15,Concluído,Ao leite,90
+1159,2025-04-06 17:28:20,Barra ao leite,Barra,Mercado,Maringá,7,8.48,6.15,0,Concluído,Ao leite,90
+769,2025-04-13 16:02:11,Ovo infantil,Ovo,Mercado,Curitiba,7,68.9,46.64,5,Concluído,Ao leite,150
+754,2025-04-16 18:37:32,Ovo infantil,Ovo,Loja física,Curitiba,2,68.9,46.64,0,Concluído,Ao leite,150
+402,2024-05-06 19:36:24,Barra amarga,Barra,Web,Londrina,2,11,7.7,0,Concluído,Amargo,90
+1016,2025-04-20 12:20:59,Caixa de bombons,Caixa,Mercado,Londrina,3,25.44,16.43,0,Concluído,Misto,250
+1336,2025-03-26 22:26:12,Ovo premium,Ovo,Web,Cascavel,2,100.7,47.7,10,Concluído,Amargo,350
+269,2024-03-20 10:02:34,Ovo tradicional,Ovo,Mercado,Cascavel,6,55,37,10,Concluído,Ao leite,250
+971,2025-03-19 19:59:53,Barra ao leite,Barra,Web,Curitiba,3,8.48,6.15,10,Concluído,Ao leite,90
+575,2024-03-18 19:47:55,Ovo premium,Ovo,Web,Cascavel,2,95,45,0,Concluído,Amargo,350
+344,2024-03-10 22:47:08,Barra amarga,Barra,Web,Cascavel,2,11,7.7,10,Concluído,Amargo,90
+794,2025-04-11 17:50:44,Ovo premium,Ovo,Loja física,Cascavel,3,100.7,47.7,0,Concluído,Amargo,350
+883,2025-04-15 10:48:06,Barra ao leite,Barra,Mercado,Cascavel,6,8.48,6.15,10,Concluído,Ao leite,90
+483,2024-03-10 14:29:15,Ovo tradicional,Ovo,Loja física,Curitiba,3,55,37,0,Concluído,Ao leite,250
+1261,2025-03-24 18:20:52,Ovo premium,Ovo,Web,Londrina,3,100.7,47.7,0,Concluído,Amargo,350
+175,2024-03-28 21:50:22,Caixa de bombons,Caixa,Web,Londrina,1,24,15.5,0,Cancelado,Misto,250
+1392,2025-06-07 18:38:30,Barra ao leite,Barra,Loja física,Cascavel,1,8.48,6.15,20,Concluído,Ao leite,90
+1324,2025-04-04 20:42:30,Caixa de bombons,Caixa,Web,Curitiba,3,25.44,16.43,10,Concluído,Misto,250
+411,2024-03-19 15:10:19,Barra amarga,Barra,Mercado,Cascavel,5,11,7.7,10,Concluído,Amargo,90
+1289,2025-03-26 22:41:13,Caixa de bombons,Caixa,Web,Cascavel,1,25.44,16.43,0,Concluído,Misto,250
+1290,2025-03-26 12:06:30,Caixa de bombons,Caixa,Mercado,Londrina,6,25.44,16.43,5,Concluído,Misto,250
+334,2024-03-20 16:49:12,Barra ao leite,Barra,Mercado,Cascavel,6,8,5.8,10,Concluído,Ao leite,90
+1500,2025-02-20 16:41:41,Barra amarga,Barra,Mercado,Maringá,4,,8.16,5,Concluído,Amargo,90
+19,2024-01-27 10:44:28,Barra amarga,Barra,Mercado,Cascavel,3,11,7.7,0,Concluído,Amargo,90
+1473,2025-06-01 14:11:15,Barra ao leite,Barra,Mercado,Cascavel,3,8.48,6.15,0,Concluído,Ao leite,90
+1235,2025-03-26 18:05:33,Barra ao leite,Barra,Mercado,Maringá,6,8.48,6.15,0,Concluído,Ao leite,90
+639,2024-03-15 10:09:27,Ovo premium,Ovo,Loja física,Maringá,3,95,45,0,Concluído,Amargo,350
+979,2025-02-27 18:22:27,Barra ao leite,Barra,Mercado,Maringá,6,8.48,6.15,10,Cancelado,Ao leite,90
+1279,2025-03-25 21:23:49,Ovo premium,Ovo,Web,Londrina,1,100.7,47.7,0,Concluído,Amargo,350
+1398,2025-04-09 22:38:41,Ovo premium,Ovo,Web,Curitiba,1,100.7,47.7,0,Concluído,Amargo,350
+90,2024-03-11 11:20:25,Caixa de bombons,Caixa,Mercado,Londrina,2,24,15.5,5,Concluído,Misto,250
+1201,2025-03-05 20:11:47,Barra amarga,Barra,Web,Maringá,1,11.66,8.16,0,Concluído,Amargo,90
+985,2025-03-20 18:50:18,Barra ao leite,Barra,Mercado,Londrina,7,8.48,6.15,0,Concluído,Ao leite,90
+1223,2025-04-26 15:44:41,Barra ao leite,Barra,Mercado,Curitiba,2,8.48,6.15,20,Concluído,Ao leite,90
+636,2024-03-25 22:10:41,Ovo premium,Ovo,Web,Curitiba,1,95,45,0,Cancelado,Amargo,350
+950,2025-03-27 19:35:46,Barra ao leite,Barra,Web,Maringá,1,8.48,,0,Concluído,Ao leite,90
+257,2024-01-19 15:05:34,Barra ao leite,Barra,Mercado,Cascavel,4,8,5.8,0,Concluído,Ao leite,90
+1369,2025-04-09 15:57:35,Ovo tradicional,Ovo,Loja física,Cascavel,3,58.3,39.22,5,Concluído,Ao leite,250
+1155,2025-04-25 21:38:22,Ovo premium,Ovo, web ,Londrina,2,100.7,47.7,20,Cancelado,Amargo,350
+232,2024-06-26 19:48:04,Ovo premium,Ovo,Mercado,Cascavel,5,95,45,20,Concluído,Amargo,350
+290,2024-03-18 15:51:19,Ovo tradicional,Ovo,Mercado,Londrina,6,55,37,10,Concluído,Ao leite,250
+250,2024-03-27 18:07:31,Ovo premium,Ovo,Loja física,Londrina,3,,45,0,Concluído,Amargo,350
+67,2024-04-14 12:24:23,Barra amarga,Barra,Loja física,Cascavel,1,11,7.7,0,Concluído,Amargo,90
+805,2025-04-10 19:40:47,Barra ao leite,Barra,Loja física,Curitiba,2,8.48,6.15,10,Concluído,Ao leite,90
+531,2024-03-19 19:31:34,Caixa de bombons,Caixa,Mercado,Londrina,5,24,15.5,0,Cancelado,Misto,250
+16,2024-03-04 21:52:50,Ovo premium,Ovo,Web,Maringá,3,95,45,0,Concluído,Amargo,350
+1339,2025-05-18 11:08:16,Ovo tradicional,Ovo,Mercado,Cascavel,7,58.3,39.22,10,Concluído,Ao leite,250
+708,2024-04-25 19:06:26,Ovo infantil,Ovo,Mercado,Curitiba,7,65,44,25,Concluído,Ao leite,150
+1360,2025-04-28 10:53:14,Ovo premium,Ovo,Loja física,Curitiba,2,100.7,47.7,10,Concluído,Amargo,350
+1432,2025-03-18 20:33:34,Ovo tradicional,Ovo,Web,Londrina,1,58.3,39.22,0,Concluído,Ao leite,250
+559,2024-03-28 10:23:04,Ovo infantil,Ovo,Loja física,Londrina,1,65,44,0,Concluído,Ao leite,150
+935,2025-04-11 18:39:07,Barra ao leite,Barra,Web,Curitiba,2,8.48,6.15,10,Concluído,Ao leite,90
+338,2024-04-07 22:53:28,Ovo premium,Ovo,Web,Curitiba,2,95,45,25,Concluído,Amargo,350
+13,2024-03-14 11:26:07,Ovo tradicional,Ovo,Mercado,Londrina,2,55,37,0,Concluído,Ao leite,250
+1095,2025-04-15 11:50:36,Caixa de bombons,Caixa,Mercado,Londrina,4,25.44,16.43,0,Concluído,Misto,250
+902,2025-04-09 09:45:34,Barra ao leite,Barra,Loja física,Curitiba,1,8.48,6.15,0,Concluído,Ao leite,90
+75,2024-03-06 20:09:41,Ovo tradicional,Ovo,Web,Londrina,1,55,37,5,Cancelado,Ao leite,250
+291,2024-03-21 12:49:11,Ovo infantil,Ovo,Mercado,Londrina,5,65,44,0,Concluído,Ao leite,150
+419,2024-02-24 21:39:05,Barra ao leite,Barra,Web,Curitiba,2,8,5.8,0,Concluído,Ao leite,90
+527,2024-01-11 12:38:29,Barra ao leite,Barra,Mercado,Cascavel,2,8,5.8,0,Concluído,Ao leite,90
+865,2025-04-16 09:20:43,Barra amarga,Barra,Loja física,Cascavel,2,11.66,8.16,0,Concluído,Amargo,90
+728,2024-01-06 14:23:25,Barra amarga,Barra,Loja física,Cascavel,3,11,7.7,5,Concluído,Amargo,90
+1207,2025-03-29 09:09:42,Caixa de bombons,Caixa,Mercado,Cascavel,2,25.44,16.43,0,Concluído,Misto,250
+1414,2025-04-03 09:50:22,Barra amarga,Barra,Mercado,Curitiba,2,11.66,8.16,0,Concluído,Amargo,90
+1202,2025-04-03 20:40:12,Caixa de bombons,Caixa,Web,Londrina,1,25.44,16.43,0,Concluído,Misto,250
+171,2024-03-25 15:20:24,Ovo premium,Ovo,Loja física,Curitiba,2,95,45,0,Concluído,Amargo,350
+316,2024-03-26 09:27:00,Barra ao leite,Barra,Mercado,Cascavel,6,8,5.8,10,Concluído,Ao leite,90
+657,2024-03-17 17:10:52,Caixa de bombons,Caixa,Mercado,Maringá,2,24,15.5,0,Concluído,Misto,250
+752,2025-04-09 17:31:24,Ovo tradicional,Ovo,Loja física,Curitiba,2,58.3,39.22,5,Concluído,Ao leite,250
+653,2024-03-18 12:14:14,Caixa de bombons,Caixa,Loja física,Londrina,2,24,15.5,5,Concluído,Misto,250
+830,2025-04-15 18:38:51,Barra amarga,Barra,Web,Londrina,3,11.66,8.16,10,Concluído,Amargo,90
+852,2025-04-18 16:38:08,Barra ao leite,Barra,Mercado,Londrina,7,8.48,6.15,0,Concluído,Ao leite,90
+1383,2025-04-14 10:34:41,Barra ao leite,Barra,Mercado,Cascavel,6,8.48,6.15,0,Concluído,Ao leite,90
+1060,2025-04-05 19:29:14,Ovo infantil,Ovo,Web,Maringá,1,68.9,46.64,0,Concluído,Ao leite,150
+162,2024-06-17 16:16:40,Barra ao leite,Barra,Mercado,Cascavel,5,8,5.8,20,Concluído,Ao leite,90
+146,2024-03-23 10:36:57,Barra ao leite,Barra,Loja física,Curitiba,3,8,5.8,5,Concluído,Ao leite,90
+658,2024-03-29 17:17:39,Barra ao leite,Barra,Mercado,Maringá,6,8,5.8,5,Concluído,Ao leite,90
+963,2025-04-01 11:07:09,Caixa de bombons,Caixa,Mercado,Maringá,5,25.44,16.43,0,Concluído,Misto,250
+8,2024-06-12 21:36:40,Barra ao leite,Barra,Web,Maringá,1,8,5.8,0,Concluído,Ao leite,90
+308,2024-04-11 16:42:39,Ovo premium,Ovo,Mercado,Cascavel,5,95,45,10,Concluído,Amargo,350
+69,2024-03-12 09:18:31,Ovo infantil,Ovo,Loja física,Maringá,2,65,44,0,Concluído,Ao leite,150
+509,2024-04-12 09:58:42,Barra amarga,Barra,Mercado,Curitiba,7,11,7.7,0,Concluído,Amargo,90
+772,2025-03-08 19:04:10,Barra ao leite,Barra,Web,Cascavel,2,8.48,6.15,0,Concluído,Ao leite,90
+539,2024-02-27 20:59:30,Barra amarga,Barra,Web,Maringá,3,11,7.7,10,Concluído,Amargo,90
+258,2024-04-04 16:03:19,Barra amarga,Barra,Loja física,Londrina,2,11,7.7,20,Concluído,Amargo,90
+925,2025-04-11 22:31:42,Ovo premium,Ovo,Web,Maringá,1,100.7,47.7,0,Concluído,Amargo,350
+578,2024-03-30 17:48:16,Ovo tradicional,Ovo,Loja física,Maringá,3,55,37,0,Concluído,Ao leite,250
+1323,2025-02-04 17:54:16,Barra amarga,Barra,Mercado,Londrina,3,11.66,8.16,0,Concluído,Amargo,90
+1431,2025-03-21 18:41:07,Barra amarga,Barra,Mercado,Londrina,7,11.66,8.16,0,Concluído,Amargo,90
+1011,2025-04-15 15:57:48,Ovo premium,Ovo,Loja física,Londrina,3,100.7,47.7,10,Concluído,Amargo,350
+1300,2025-03-31 18:23:47,Barra amarga,Barra,Web,Maringá,2,11.66,8.16,0,Cancelado,Amargo,90
+1254,2025-06-29 18:38:06,Caixa de bombons,Caixa, web ,Londrina,3,25.44,16.43,10,Concluído,Misto,250
+1066,2025-04-13 09:08:52,Ovo premium,Ovo,Loja física,Curitiba,2,100.7,47.7,0,Concluído,Amargo,350
+1051,2025-04-11 19:41:50,Barra ao leite,Barra,Mercado,Cascavel,6,8.48,6.15,0,Concluído,Ao leite,90
+906,2025-02-27 09:40:26,Barra ao leite,Barra,Loja física,Londrina,1,8.48,6.15,0,Concluído,Ao leite,90
+1299,2025-04-05 10:00:07,Barra ao leite,Barra,Mercado,Cascavel,6,8.48,6.15,0,Cancelado,Ao leite,90
+760,2025-04-20 15:53:29,Caixa de bombons,Caixa,Mercado,Curitiba,5,25.44,,0,Cancelado,Misto,250
+623,2024-04-04 16:54:02,Barra ao leite,Barra,Mercado,Curitiba,7,8,5.8,25,Cancelado,Ao leite,90
+1325,2025-03-13 18:53:41,Barra ao leite,Barra,Web,Maringá,3,8.48,6.15,0,Concluído,Ao leite,90
+1314,2025-04-15 19:03:37,Barra ao leite,Barra,Loja física,Maringá,3,8.48,6.15,10,Concluído,Ao leite,90
+905,2025-01-22 18:48:26,Barra amarga,Barra,Mercado,Curitiba,5,11.66,8.16,0,Concluído,Amargo,90
+570,2024-05-12 14:49:48,Barra ao leite,Barra,Mercado,Londrina,3,8,,15,Concluído,Ao leite,90
+1282,2025-03-26 19:50:41,Ovo premium,Ovo,Web,Londrina,2,100.7,47.7,10,Concluído,Amargo,350
+406,2024-03-09 18:54:48,Ovo infantil,Ovo,Loja física,Londrina,1,65,44,0,Concluído,Ao leite,150
+438,2024-04-07 14:45:07,Barra amarga,Barra,Loja física,Curitiba,3,11,7.7,15,Concluído,Amargo,90
+874,2025-04-09 13:18:30,Barra ao leite,Barra,Loja física,Maringá,1,8.48,6.15,5,Concluído,Ao leite,90
+295,2024-03-21 14:00:26,Ovo premium,Ovo,Loja física,Maringá,2,95,45,0,Concluído,Amargo,350
+1017,2025-04-17 19:19:19,Ovo tradicional,Ovo,Loja física,Cascavel,3,58.3,39.22,10,Concluído,Ao leite,250
+276,2024-03-19 13:24:42,Ovo infantil,Ovo,Loja física,Londrina,1,65,44,0,Concluído,Ao leite,150
+537,2024-04-15 10:08:39,Ovo premium,Ovo,Loja física,Londrina,3,95,45,20,Concluído,Amargo,350
+298,2024-06-03 18:48:05,Caixa de bombons,Caixa,Mercado,Curitiba,5,24,15.5,25,Concluído,Misto,250
+1438,2025-06-08 20:56:30,Barra amarga,Barra,Web,Londrina,2,11.66,8.16,10,Concluído,Amargo,90
+394,2024-03-25 17:16:32,Barra ao leite,Barra,Loja física,Londrina,1,8,5.8,10,Concluído,Ao leite,90
+1171,2025-02-20 16:45:55,Caixa de bombons,Caixa,Mercado,Londrina,6,25.44,16.43,10,Concluído,Misto,250
+609,2024-03-28 10:49:07,Caixa de bombons,Caixa,Loja física,Maringá,1,24,15.5,0,Concluído,Misto,250
+952,2025-03-31 10:48:22,Ovo tradicional,Ovo,Mercado,Cascavel,2,58.3,39.22,0,Concluído,Ao leite,250
+1396,2025-01-24 09:33:21,Barra ao leite,Barra,Loja física,Maringá,1,8.48,6.15,10,Concluído,Ao leite,90
+5,2024-06-09 12:50:53,Barra amarga,Barra,Mercado,Cascavel,2,11,7.7,25,Concluído,Amargo,90
+714,2024-06-11 14:38:42,Caixa de bombons,Caixa,Mercado,Londrina,6,24,15.5,15,Cancelado,Misto,250
+1471,2025-03-03 14:33:53,Barra amarga,Barra,Loja física,Londrina,2,11.66,8.16,0,Concluído,Amargo,90
+675,2024-02-27 19:30:19,Barra amarga,Barra,Web,Maringá,1,11,7.7,0,Concluído,Amargo,90
+1262,2025-01-14 15:40:05,Barra ao leite,Barra,Mercado,Curitiba,5,8.48,6.15,0,Concluído,Ao leite,90
+5,2024-06-09 12:50:53,Barra amarga,Barra,Mercado,Cascavel,2,11,7.7,25,Concluído,Amargo,90
+373,2024-03-26 14:01:42,Barra amarga,Barra,Mercado,Londrina,4,11,7.7,0,Concluído,Amargo,90
+124,2024-04-10 13:50:49,Barra ao leite,Barra,Mercado,Maringá,2,8,5.8,15,Concluído,Ao leite,90
+177,2024-02-20 17:54:41,Barra ao leite,Barra,Mercado,Curitiba,7,8,5.8,0,Concluído,Ao leite,90
+777,2025-04-11 20:33:07,Ovo tradicional,Ovo,Web,Cascavel,2,58.3,39.22,0,Concluído,Ao leite,250
+439,2024-03-30 21:01:00,Barra ao leite,Barra,Web,Maringá,1,8,5.8,0,Concluído,Ao leite,90
+743,2024-03-15 22:16:10,Caixa de bombons,Caixa,Web,Curitiba,3,24,15.5,0,Concluído,Misto,250
+604,2024-06-08 19:05:59,Barra amarga,Barra,Web,Londrina,3,11,7.7,15,Concluído,Amargo,90
