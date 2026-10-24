@@ -1,0 +1,175 @@
+## Exercício 2— Criar e testar um programa Python usando Git
+
+**Objetivo:** criar uma branch, escrever um programa simples, testar os resultados e enviar a alteração ao GitHub.
+
+No VS Code, abra a pasta de um repositório já clonado e depois **Terminal → Novo Terminal**.
+
+### 1. Atualize a branch principal
+
+```bash
+git checkout main
+git pull
+```
+
+O primeiro comando muda para a `main`. O segundo traz as atualizações do repositório remoto.
+
+### 2. Crie uma branch
+
+Substitua `seu-nome` pelo seu nome:
+
+```bash
+git checkout -b soma-seu-nome
+```
+
+Esse comando cria a branch e já muda para ela.
+
+### 3. Crie um arquivo Python
+
+No VS Code, crie o arquivo `soma_seu_nome.py`:
+
+```python
+def somar(a, b):
+    """Recebe dois números e retorna a soma."""
+    return a + b
+
+
+numero_1 = 5
+numero_2 = 3
+
+resultado = somar(numero_1, numero_2)
+
+print("Primeiro número:", numero_1)
+print("Segundo número:", numero_2)
+print("Resultado da soma:", resultado)
+```
+
+Salve o arquivo.
+
+### 4. Execute o programa
+
+No terminal:
+
+```bash
+python soma_seu_nome.py
+```
+
+Se o seu computador utiliza `python3`, execute:
+
+```bash
+python3 soma_seu_nome.py
+```
+
+Leia a saída e confira se a soma está correta.
+
+### 5. Teste outros valores
+
+Altere os valores de `numero_1` e `numero_2` para testar cada caso abaixo.
+
+**Antes de executar, calcule qual resultado você espera.** Depois, salve o arquivo, execute o programa e compare.
+
+| Teste | Primeiro número | Segundo número |
+| --- | --- | --- |
+| 1 | 10 | 20 |
+| 2 | -5 | 3 |
+| 3 | 0 | 7 |
+| 4 | -4 | -6 |
+| 5 | 2.5 | 1.5 |
+
+### 6. Registre os resultados
+
+Crie o arquivo `testes_seu_nome.txt` e preencha:
+
+```text
+Teste 1
+Valores:
+Resultado esperado:
+Resultado apresentado:
+O resultado está correto?
+
+Teste 2
+Valores:
+Resultado esperado:
+Resultado apresentado:
+O resultado está correto?
+
+Teste 3
+Valores:
+Resultado esperado:
+Resultado apresentado:
+O resultado está correto?
+
+Teste 4
+Valores:
+Resultado esperado:
+Resultado apresentado:
+O resultado está correto?
+
+Teste 5
+Valores:
+Resultado esperado:
+Resultado apresentado:
+O resultado está correto?
+```
+
+Salve o arquivo.
+
+### 7. Confira as alterações
+
+```bash
+git status
+```
+
+Confira se o arquivo Python e o arquivo de testes aparecem na lista.
+
+### 8. Prepare os arquivos para o commit
+
+```bash
+git add soma_seu_nome.py testes_seu_nome.txt
+```
+
+Esse comando seleciona os dois arquivos para o próximo commit.
+
+### 9. Registre a alteração
+
+```bash
+git commit -m "Adiciona programa de soma e resultados dos testes"
+```
+
+O commit registra os arquivos no histórico local do projeto.
+
+### 10. Envie a branch ao GitHub
+
+```bash
+git push -u origin soma-seu-nome
+```
+
+### 11. Abra um Pull Request
+
+No GitHub:
+
+1. Abra o repositório.
+2. Clique em **Compare & pull request**.
+3. Confira se a base é `main` e a origem é sua branch.
+4. Use o título **Adiciona programa de soma e testes manuais**.
+5. Clique em **Create pull request**.
+
+Aguarde a revisão e a mesclagem do Pull Request.
+
+### 12. Volte para a branch principal e atualize
+
+Depois que o Pull Request for mesclado:
+
+```bash
+git checkout main
+git pull
+```
+
+Confira se os dois arquivos aparecem na `main`.
+
+### 13. Execute novamente
+
+```bash
+python soma_seu_nome.py
+```
+
+Use `python3` se necessário. Confira se o programa continua funcionando após a atualização da `main`.
