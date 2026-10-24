@@ -73,51 +73,5 @@ Use o título “Adiciona arquivo de apresentação” e clique em Create pull r
 
 O Pull Request é um pedido para revisar e incorporar suas alterações à branch principal. Abri-lo não faz a mesclagem automaticamente.
 
-Para praticar mais: acrescente uma frase ao arquivo, salve e execute:
-git diff
-git add apresentacao-hellen.txt
-git commit -m "Atualiza apresentação"
-git push
-
-O git diff mostra as alterações ainda não preparadas com git add. Depois do envio, o mesmo Pull Request será atualizado com o novo commit.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-nao quero diff, quero que volte na mai e de pull
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Amiga, então o último passo fica assim:
-
-11. Volte para a branch principal e atualize o projeto
-
-Depois que o Pull Request for aprovado e mesclado no GitHub, volte para a branch principal:
-git checkout main
-
-Agora, traga as atualizações para o seu computador:
-git pull
 
 O arquivo criado no exercício aparecerá na sua main, pois a alteração já foi incorporada no GitHub. 😊
