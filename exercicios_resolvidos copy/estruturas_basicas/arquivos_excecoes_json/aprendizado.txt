@@ -1,3 +1,0 @@
-Python permite criar variáveis.
-Python permite trabalhar com listas.
-Python permite automatizar tarefas.
